@@ -104,7 +104,7 @@ result_counter = 8  # 每个频道需要的个数
 
 with open("qita.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('其他频道,#genre#\n')
+    file.write('【  其他频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
