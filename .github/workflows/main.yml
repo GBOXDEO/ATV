@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '30 5,12 * * *'
+    - cron: '35 4,8 * * *'
 
 jobs:
   build:
