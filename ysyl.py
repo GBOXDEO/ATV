@@ -23,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '电影' in channel_name or '影院' in channel_name:
+            if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
@@ -104,10 +104,10 @@ result_counter = 8  # 每个频道需要的个数
 
 with open("ysyl.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('卫视频道,#genre#\n')
+    file.write('影视频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if '卫视' in channel_name:
+        if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
