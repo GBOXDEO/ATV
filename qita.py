@@ -118,7 +118,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
                 
-    file.write(f"{now_today}更新,#genre#\n")
+print(f"{now_today}其他频道更新完成")
 
 # 合并文件内容
 file_contents = []
@@ -128,6 +128,10 @@ for file_path in file_paths:
         content = file.read()
         file_contents.append(content)
 
+print(f"{now_today}合并文件完成")
+
 # 写入合并后的文件
 with open("itvlist.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
+
+print(f"{now_today}写入合并后的文件")
