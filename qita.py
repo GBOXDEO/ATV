@@ -131,5 +131,3 @@ for file_path in file_paths:
 # 写入合并后的文件
 with open("itvlist.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
-    
-    
