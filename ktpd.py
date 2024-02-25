@@ -104,7 +104,7 @@ result_counter = 8  # 每个频道需要的个数
 
 with open("ktpd.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('卡通频道,#genre#\n')
+    file.write('【  卡通频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
