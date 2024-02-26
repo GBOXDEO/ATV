@@ -22,7 +22,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
     for line in lines:
         line = line.strip()
         count = line.count(',')
-        if count = 2
+        if count = 2:
             if line:
                 channel_name, channel_url = line.split(',')
                 if 'CCTV' in channel_name:
