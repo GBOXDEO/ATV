@@ -9,7 +9,7 @@ import re
 urls = [
     "https://fofa.info/result?qbase64=aGVhZGVyPSJTZXJ2ZXI6IHVkcHh5IiAmJiByZWdpb249IlRXIg%3D%3D",    #TW
     "https://fofa.info/result?qbase64=aGVhZGVyPSJTZXJ2ZXI6IHVkcHh5IiAmJiByZWdpb249IkhLIg%3D%3D",    #HK
-    "https://fofa.info/result?qbase64=aGVhZGVyPSJTZXJ2ZXI6IHVkcHh5IiAmJiByZWdpb249Ik1PIg%3D%3D",    #澳门
+    "https://fofa.info/result?qbase64=aXA9IjIyMC4xMzQuNzQuMTQ5Ig%3D%3D",    #澳门
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSGViZWki",  # Hebei (河北)
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iYmVpamluZyI%3D",  # Beijing (北京)
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iZ3Vhbmdkb25nIg%3D%3D",  # Guangdong (广东)
