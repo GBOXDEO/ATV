@@ -34,6 +34,9 @@ jobs:
 
       - name: Run ysyl
         run: python ${{ github.workspace }}/ysyl.py
+
+      - name: Run xiangang
+        run: python ${{ github.workspace }}/xiangang.py
         
       - name: Run qita
         run: python ${{ github.workspace }}/qita.py
