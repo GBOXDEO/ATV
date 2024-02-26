@@ -7,7 +7,7 @@ import requests
 import re
 
 urls = [
-     "https://fofa.info/result?qbase64=aGVhZGVyPSJBY2NlcHQtUmFuZ2VzOiBieXRlcyIgJiYgcmVnaW9uPSJUVyI%3D",    #TW
+    "https://fofa.info/result?qbase64=aGVhZGVyPSJBY2NlcHQtUmFuZ2VzOiBieXRlcyIgJiYgcmVnaW9uPSJUVyI%3D",    #TW
     "https://fofa.info/result?qbase64=aGVhZGVyPSJBY2NlcHQtUmFuZ2VzOiBieXRlcyIgJiYgcmVnaW9uPSJISyI%3D",    #HK
     "https://fofa.info/result?qbase64=aGVhZGVyPSJBY2NlcHQtUmFuZ2VzOiBieXRlcyIgJiYgcmVnaW9uPSJNTyI%3D",    #澳门
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgY291bnRyeT0iQ04iICYmIHJlZ2lvbj0iSGViZWki",  # Hebei (河北)
