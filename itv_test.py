@@ -228,3 +228,7 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
         file_contents.append(content)
+
+# 写入合并后的文件
+with open("itv.txt", "w", encoding="utf-8") as output:
+    output.write('\n'.join(file_contents))
