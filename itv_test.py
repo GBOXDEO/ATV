@@ -220,3 +220,11 @@ with open("itv.txt", 'w', encoding='utf-8') as file:
     for result in results:
         file.write(result + "\n")
         print(result)
+
+# 合并文件内容
+file_contents = []
+file_paths = ["itv.txt", "xgt.txt"]  # 替换为实际的文件路径列表
+for file_path in file_paths:
+    with open(file_path, 'r', encoding="utf-8") as file:
+        content = file.read()
+        file_contents.append(content)
