@@ -1,13 +1,13 @@
 name: itvlist
 
 on:
-    schedule:
+  schedule:
     - cron: '0 1,5,9,13,17,21 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -20,8 +20,8 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
 
-      - name: Run itv_test
-        run: python ${{ github.workspace }}/itv_test.py
+      - name: Run itv
+        run: python ${{ github.workspace }}/itv.py
 
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
