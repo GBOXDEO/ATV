@@ -21,10 +21,12 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
     lines = file.readlines()
     for line in lines:
         line = line.strip()
-        if line:
-            channel_name, channel_url = line.split(',')
-            if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
-                channels.append((channel_name, channel_url))
+        count = line.count(',')
+        if count == 2:
+            if line:
+                channel_name, channel_url = line.split(',')
+                if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
+                    channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
 def worker():
