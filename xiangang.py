@@ -23,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '凤凰中文' in channel_name:
+            if '凤凰' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
