@@ -213,6 +213,14 @@ for url in urls:
         except:
             continue
 
+with open("xgt.txt", 'r', encoding='utf-8') as file:
+    lines = file.readlines()
+    for line in lines:
+        line = line.strip()
+        if line:
+            channel_name, channel_url = line.split(',')
+            if 'CN_' in channel_name:
+                results.append((channel_name, channel_url))
 
 results = set(results)  # 去重得到唯一的URL列表
 results = sorted(results)
