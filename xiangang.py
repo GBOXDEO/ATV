@@ -23,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '凤凰' in channel_name:
+            if '凤凰' in channel_name or 'CN_' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
@@ -107,7 +107,7 @@ with open("xiangang.txt", 'w', encoding='utf-8') as file:
     file.write('【 港澳台频道 】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if '凤凰' in channel_name:
+        if '凤凰' in channel_name or 'CN_' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
