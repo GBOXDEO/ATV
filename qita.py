@@ -22,7 +22,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
     for line in lines:
         line = line.strip()
         count = line.count(',')
-        if count == 2:
+        if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
                 if '凤凰' not in channel_name and '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
