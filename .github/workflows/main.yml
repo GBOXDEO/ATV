@@ -1,8 +1,6 @@
 name: itvlist
 
-on:
-  schedule:
-    - cron: '0 1,4,7,9,12,15,18,21 * * *'
+on: [push]
 
 jobs:
   build:
@@ -25,21 +23,6 @@ jobs:
 
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
-        
-      - name: Run weishi
-        run: python ${{ github.workspace }}/weishi.py
-
-      - name: Run ktpd
-        run: python ${{ github.workspace }}/ktpd.py
-
-      - name: Run ysyl
-        run: python ${{ github.workspace }}/ysyl.py
-
-      - name: Run xiangang
-        run: python ${{ github.workspace }}/xiangang.py
-        
-      - name: Run qita
-        run: python ${{ github.workspace }}/qita.py
         
       - name: 提交更改
         run: |
