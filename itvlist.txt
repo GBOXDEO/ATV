@@ -1989,19 +1989,6 @@ CHC动作电影v6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990
 东南卫视v6,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/8/3221227553/1.m3u8
 东南卫视v6,http://[2409:8087:2001:20:2800:0:df6e:eb19]/PLTV/1/224/3221230464/1.m3u8
 测试V6,https://vd4.bdstatic.com/mda-pa76h3jgrjx0nxxv/576p/h264/1673152617599136616/mda-pa76h3jgrjx0nxxv.mp4?auth_key=1702370356-0-0-335e41535a327d70ca3a592c64d31bad&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2356137160&vid=8914881745958186945&abtest=all
-〖  高清测试  〗,#genre#
-「4K」CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-「4K」CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-「4K」CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw3324980988_41690276/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?
-「4K」CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-「4K」CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-「4K」纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-「4K」华数4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-「4K」欢乐剧场,http://[2409:8087:7000:20::14]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8?icpid=88888888&from=20&ocs=2_2409:8087:7001:20:2::2_80&hms_devid=623&prioritypopid=20&online=1707066312&vqe=3
-「4K」苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-「4K」电影4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-「8K」江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-「8K」北京8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 〖  贺年歌  〗,#genre#
 儿歌贺年歌,https://vd4.bdstatic.com/mda-pkdyp7s1x9wzhxki/hd/cae_h264/1700086965169438152/mda-pkdyp7s1x9wzhxki.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1703950180-0-0-95248d9569dcd0d4944b021e42507fd0&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1780155796&vid=5810612726756105902&abtest=all
 国语贺年曲,https://vd4.bdstatic.com/mda-najesf5mud06njmx/hd/cae_h264_delogo/1642677424999429213/mda-najesf5mud06njmx.mp4?auth_key=1703949897-0-0-bb8df833b04d17ca1dde3766e08e21cf&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1497339235&vid=10638137279394488628&abtest=all
