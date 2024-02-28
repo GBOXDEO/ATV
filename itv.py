@@ -79,8 +79,9 @@ for url in urls:
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
-
-    driver = webdriver.Chrome(options=chrome_options)
+    chrome_options.add_experimental_option("useAutomationExtension", False)
+    chrome_options.add_argument("blink-settings=imagesEnabled=false")
+    driver = webdriver.Chrome(options=options)
     # 使用WebDriver访问网页
     driver.get(url)  # 将网址替换为你要访问的网页地址
     time.sleep(10)
