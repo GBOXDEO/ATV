@@ -1,6 +1,6 @@
 name: MIPTV
 
-on: 
+on:
   schedule:
     - cron: '0 4,15 * * *'
     
@@ -37,8 +37,6 @@ jobs:
 
       - name: 提交CCTV
         run: |
-          git config --local user.email "g832@qq.com"
-          git config --local user.name "GBOXDEO"
           git add .
           git commit cctv.txt -m "Add generated file"
           #git pull --rebase
@@ -49,8 +47,6 @@ jobs:
 
       - name: 提交weishi
         run: |
-          git config --local user.email "g832@qq.com"
-          git config --local user.name "GBOXDEO"
           git add .
           git commit weishi.txt -m "Add generated file"
           #git pull --rebase
@@ -61,8 +57,6 @@ jobs:
 
       - name: 提交ktpd
         run: |
-          git config --local user.email "g832@qq.com"
-          git config --local user.name "GBOXDEO"
           git add .
           git commit ktpd.txt -m "Add generated file"
           #git pull --rebase
@@ -73,8 +67,6 @@ jobs:
 
       - name: 提交ysyl
         run: |
-          git config --local user.email "g832@qq.com"
-          git config --local user.name "GBOXDEO"
           git add .
           git commit ysyl.txt -m "Add generated file"
           #git pull --rebase
@@ -85,14 +77,17 @@ jobs:
 
       - name: 提交xiangang itvlist
         run: |
-          git config --local user.email "g832@qq.com"
-          git config --local user.name "GBOXDEO"
           git add .
           git commit xiangang.txt -m "Add generated file"
-          git commit itvlist.txt -m "Add generated file"
           #git pull --rebase
           git push -f
           
       - name: Run qita
         run: python ${{ github.workspace }}/qita.py
-        
+
+        run: |
+          git add .
+          git commit qita.txt -m "Add generated file"
+          git commit itvlist.txt -m "Add generated file"
+          #git pull --rebase
+          git push -f
