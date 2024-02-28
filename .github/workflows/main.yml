@@ -14,14 +14,13 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
+          cache: "key_itvtxt"
 
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
             
       - name: Run itv
         run: python ${{ github.workspace }}/itv.py
-        with:
-            cache: "key_itvtxt"
 
       - name: 先提交总表
         run: |
