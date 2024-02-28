@@ -1,8 +1,7 @@
 name: itvlist
 
 on: [push]
-  # schedule:
-  #   - cron: '0 3,9,13,18,23 * * *'
+
 
 jobs:
   build:
