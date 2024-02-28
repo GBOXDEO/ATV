@@ -53,7 +53,7 @@ def modify_urls(url):
     ip_address = url[ip_start_index:ip_end_index]
     port = url[ip_end_index:]
     ip_end = "/iptv/live/1000.json?key=txiptv"
-    for i in range(1, 256):
+    for i in range(1, 125):
         modified_ip = f"{ip_address[:-1]}{i}"
         modified_url = f"{base_url}{modified_ip}{port}{ip_end}"
         modified_urls.append(modified_url)
@@ -63,7 +63,7 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        response = requests.get(url, timeout=0.5)
+        response = requests.get(url, timeout=0.3)
         if response.status_code == 200:
             return url
     except requests.exceptions.RequestException:
@@ -220,4 +220,4 @@ results = sorted(results)
 with open("itv.txt", 'w', encoding='utf-8') as file:
     for result in results:
         file.write(result + "\n")
-        # print(result)
+        print(result)
