@@ -1,7 +1,9 @@
-name: itvlist
+name: MIPTV
 
-on: [push]
-
+on: 
+  schedule:
+    - cron: '0 4,15 * * *'
+    
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,27 +34,65 @@ jobs:
           
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
-        
-      - name: Run weishi
-        run: python ${{ github.workspace }}/weishi.py
 
-      - name: Run ktpd
-        run: python ${{ github.workspace }}/ktpd.py
-
-      - name: Run ysyl
-        run: python ${{ github.workspace }}/ysyl.py
-
-      - name: Run xiangang
-        run: python ${{ github.workspace }}/xiangang.py
-        
-      - name: Run qita
-        run: python ${{ github.workspace }}/qita.py
-        
-      - name: 提交更改
+      - name: 提交CCTV
         run: |
           git config --local user.email "g832@qq.com"
           git config --local user.name "GBOXDEO"
           git add .
-          git commit *.txt -m "Add generated file"
+          git commit cctv.txt -m "Add generated file"
           #git pull --rebase
           git push -f
+          
+      - name: Run weishi
+        run: python ${{ github.workspace }}/weishi.py
+
+      - name: 提交weishi
+        run: |
+          git config --local user.email "g832@qq.com"
+          git config --local user.name "GBOXDEO"
+          git add .
+          git commit weishi.txt -m "Add generated file"
+          #git pull --rebase
+          git push -f
+          
+      - name: Run ktpd
+        run: python ${{ github.workspace }}/ktpd.py
+
+      - name: 提交ktpd
+        run: |
+          git config --local user.email "g832@qq.com"
+          git config --local user.name "GBOXDEO"
+          git add .
+          git commit ktpd.txt -m "Add generated file"
+          #git pull --rebase
+          git push -f
+          
+      - name: Run ysyl
+        run: python ${{ github.workspace }}/ysyl.py
+
+      - name: 提交ysyl
+        run: |
+          git config --local user.email "g832@qq.com"
+          git config --local user.name "GBOXDEO"
+          git add .
+          git commit ysyl.txt -m "Add generated file"
+          #git pull --rebase
+          git push -f
+          
+      - name: Run xiangang
+        run: python ${{ github.workspace }}/xiangang.py
+
+      - name: 提交xiangang itvlist
+        run: |
+          git config --local user.email "g832@qq.com"
+          git config --local user.name "GBOXDEO"
+          git add .
+          git commit xiangang.txt -m "Add generated file"
+          git commit itvlist.txt -m "Add generated file"
+          #git pull --rebase
+          git push -f
+          
+      - name: Run qita
+        run: python ${{ github.workspace }}/qita.py
+        
