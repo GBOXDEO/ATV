@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-    
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -18,6 +18,14 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
 
+
+      - name: Restore cache    # 创建缓存标识
+        id: restore_cache
+        uses: actions/cache@v1
+        with:
+          path: |
+            node_modules
+            
       - name: Run itv
         run: python ${{ github.workspace }}/itv.py
 
@@ -29,7 +37,10 @@ jobs:
           git commit itv.txt -m "Add generated file"
           #git pull --rebase
           git push -f
-          
+
+      - name: Cleanup cache    # 删除缓存标识
+        run: rm -rf node_modules
+
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
 
