@@ -62,12 +62,12 @@ def worker():
                 result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
                 results.append(result)
                 numberx = (len(results) + len(error_channels)) / len(channels) * 100
-                print(f"可用频道：{len(results)} 个 , 不可用频道：{len(error_channels)} 个 , 总频道：{len(channels)} 个 ,总进度：{numberx:.2f} %。")
+                # print(f"可用频道：{len(results)} 个 , 不可用频道：{len(error_channels)} 个 , 总频道：{len(channels)} 个 ,总进度：{numberx:.2f} %。")
         except:
             error_channel = channel_name, channel_url
             error_channels.append(error_channel)
             numberx = (len(results) + len(error_channels)) / len(channels) * 100
-            print(f"可用频道：{len(results)} 个 , 不可用频道：{len(error_channels)} 个 , 总频道：{len(channels)} 个 ,总进度：{numberx:.2f} %。")
+            # print(f"可用频道：{len(results)} 个 , 不可用频道：{len(error_channels)} 个 , 总频道：{len(channels)} 个 ,总进度：{numberx:.2f} %。")
 
         # 标记任务完成
         task_queue.task_done()
@@ -130,10 +130,10 @@ for file_path in file_paths:
         content = file.read()
         file_contents.append(content)
 
-print(f"{now_today}合并文件完成")
+# print(f"{now_today}合并文件完成")
 
 # 写入合并后的文件
 with open("itvlist.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
 
-print(f"{now_today}写入合并后的文件")
+# print(f"{now_today}写入合并后的文件")
