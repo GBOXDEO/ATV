@@ -1,8 +1,6 @@
 name: MIPTV
 
-on:
-  schedule:
-    - cron: '0 4,15 * * *'
+on: [push]
     
 jobs:
   build:
