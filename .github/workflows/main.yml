@@ -1,8 +1,7 @@
 name: MIPTV
 
-on:
-  schedule:
-    - cron: '0 11,23 * * *'
+on: [PUSH]
+
 
 permissions:
   contents: write
