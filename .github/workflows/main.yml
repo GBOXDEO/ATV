@@ -1,8 +1,7 @@
 name: MIPTV
 
-on:
-  schedule:
-    - cron: '0 11,23 * * *'
+on: [push]
+
     
 permissions:
   contents: write
@@ -18,8 +17,8 @@ jobs:
           python-version: 3.x
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
-      - name: Run itv
-        run: python ${{ github.workspace }}/itv.py
+      #- name: Run itv
+      #  run: python ${{ github.workspace }}/itv.py
       - name: Run itvtest
         run: python ${{ github.workspace }}/itvtest.py
       - name: 提交更改
