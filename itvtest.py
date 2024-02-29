@@ -185,7 +185,6 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
-file.close()
 # 合并文件内容
 file_contents = []
 file_paths = ["itvlist.txt", "IPV6.txt"]  # 替换为实际的文件路径列表
