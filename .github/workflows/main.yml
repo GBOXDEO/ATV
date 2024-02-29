@@ -1,8 +1,6 @@
 name: itvlist
 
-on:
-  schedule:
-    - cron: '0 1,11,22 * * *'
+on: [push]
 
 env:
   clientId: 10101001-0100-0011-0101-100000000001
