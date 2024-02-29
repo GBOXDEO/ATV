@@ -1,8 +1,7 @@
 name: MIPTV
 
-on:
-  schedule:
-    - cron: '0 11,23 * * *'
+on: [push]
+
     
 permissions:
   contents: write
@@ -35,64 +34,12 @@ jobs:
           #git pull --rebase
           git push -f
 
+      - name: Run itvtest
+        run: python ${{ github.workspace }}/itvtest.py
 
-      - name: Run cctv
-        run: python ${{ github.workspace }}/cctv.py
-
-      - name: 提交cctv更改
+      - name: 提交更改
         run: |
           git add .
-          git commit cctv.txt -m "Add generated file"
-          #git pull --rebase
-          git push -f
-          
-      - name: Run weishi
-        run: python ${{ github.workspace }}/weishi.py
-
-      - name: 提交weishi更改
-        run: |
-          git add .
-          git commit weishi.txt -m "Add generated file"
-          #git pull --rebase
-          git push -f
-          
-      - name: Run ktpd
-        run: python ${{ github.workspace }}/ktpd.py
-
-      - name: 提交ktpd更改
-        run: |
-          git add .
-          git commit ktpd.txt -m "Add generated file"
-          #git pull --rebase
-          git push -f
-          
-      - name: Run ysyl
-        run: python ${{ github.workspace }}/ysyl.py
-
-      - name: 提交ysyl更改
-        run: |
-          git add .
-          git commit ysyl.txt -m "Add generated file"
-          #git pull --rebase
-          git push -f
-          
-      - name: Run xiangang
-        run: python ${{ github.workspace }}/xiangang.py
-        
-      - name: 提交xiangang更改
-        run: |
-          git add .
-          git commit xiangang.txt -m "Add generated file"
-          #git pull --rebase
-          git push -f    
-          
-      - name: Run qita
-        run: python ${{ github.workspace }}/qita.py
-
-      - name: 提交qita更改
-        run: |
-          git add .
-          git commit qita.txt -m "Add generated file"
-          git commit itvlist.txt -m "Add generated file"
+          git commit *.txt -m "Add generated file"
           #git pull --rebase
           git push -f
