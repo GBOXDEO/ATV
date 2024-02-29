@@ -1,7 +1,6 @@
 name: itvlist
-on:
-  schedule:
-    - cron: '0 1,11,22 * * *'
+on: [push]
+
 env:
   clientId: 10101001-0100-0011-0101-100000000001
   tenant: mylives01.onmicrosoft.com
@@ -27,7 +26,13 @@ jobs:
 
       - name: Run itv
         run: python ${{ github.workspace }}/itv.py
-
+      - name: 提交更改
+        run: |
+          git config --local user.name "GBOXDEO" 
+          git config --local user.email "g832@qq.com"
+          git add .
+          git commit itv.txt -m "Add generated file"
+          git push -f
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
 
@@ -47,10 +52,7 @@ jobs:
         run: python ${{ github.workspace }}/qita.py
       - name: 提交总表更改
         run: |
-          git config --local user.name "GBOXDEO" 
-          git config --local user.email "g832@qq.com"
           git add .
-          git commit itv.txt -m "Add generated file"
           git commit cctv.txt -m "Add generated file"
           git commit weishi.txt -m "Add generated file"
           git commit ktpd.txt -m "Add generated file"
