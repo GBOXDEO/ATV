@@ -1811,3 +1811,21 @@ CHC动作电影v6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990
 贺年曲串烧经典,https://vd4.bdstatic.com/mda-nb03jbmpqasw3ace/hd/cae_h264_delogo/1643686942576974106/mda-nb03jbmpqasw3ace.mp4?auth_key=1703949691-0-0-689c358995ea5ae1a2c29801c34e6b7e&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1291409842&vid=2241599532456919128&abtest=all
 迎春花<国语版>,https://vd2.bdstatic.com/mda-pb2vjv05a83tj94c/576p/h264/1675457847624559117/mda-pb2vjv05a83tj94c.mp4?auth_key=1703950048-0-0-43c0f932d6d431528ca056f6df88e156&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1648723382&vid=11344405027334083136&abtest=all
 新春歌曲,https://vd4.bdstatic.com/mda-pah1t3ay12hytpym/hd/cae_h264/1674007634080649676/mda-pah1t3ay12hytpym.mp4?auth_key=1703950444-0-0-bb2b8e247f10b72c6b975d3ca4214d3f&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2044600854&vid=16624518049189354552&abtest=all
+【 实时源测试 】,#genre#
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/1/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/2/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/3/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/4/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/5/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/6/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/7/cctv1
+CCTV1,https://test.tvboxosc.cyou/ipv4_live/8/cctv1
+
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/1/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/2/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/3/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/4/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/5/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/6/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/7/cctv2
+CCTV2,https://test.tvboxosc.cyou/ipv4_live/8/cctv2
