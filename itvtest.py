@@ -25,7 +25,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
             channel_name, channel_url = line.split(',')
             if '测试' not in channel_name:
                 channels.append((channel_name, channel_url))
-
+file.close()
 # 定义工作线程函数
 def worker():
     while True:
@@ -86,7 +86,6 @@ for channel in channels:
 # 等待所有任务完成
 task_queue.join()
 
-
 def channel_key(channel_name):
     match = re.search(r'\d+', channel_name)
     if match:
@@ -98,17 +97,6 @@ def channel_key(channel_name):
 results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 results.sort(key=lambda x: channel_key(x[0]))
 now_today = datetime.date.today()
-# 将结果写入文件
-with open("itv_results.txt", 'w', encoding='utf-8') as file:
-    for result in results:
-        channel_name, channel_url, speed = result
-        file.write(f"{channel_name},{channel_url},{speed}\n")
-
-with open("itv_speed.txt", 'w', encoding='utf-8') as file:
-    for result in results:
-        channel_name, channel_url, speed = result
-        file.write(f"{channel_name},{channel_url}\n")
-
 
 result_counter = 8  # 每个频道需要的个数
 
@@ -197,7 +185,7 @@ with open("itvlist.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
-                
+file.close()
 # 合并文件内容
 file_contents = []
 file_paths = ["itvlist.txt", "IPV6.txt"]  # 替换为实际的文件路径列表
@@ -205,10 +193,12 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
         file_contents.append(content)
+        file.close()
 # print(f"{now_today}合并文件完成")
 
 # 写入合并后的文件
 with open("itvlist.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
+output.close()
 # print(f"{now_today}写入合并后的文件")
 
