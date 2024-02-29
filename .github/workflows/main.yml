@@ -1,8 +1,7 @@
 name: MIPTV
 
-on:
-  schedule:
-    - cron: '0 11,23 * * *'
+on: [push]
+
     
 permissions:
   contents: write
@@ -35,8 +34,6 @@ jobs:
           #git pull --rebase
           git push -f
 
-      - name: Cleanup cache    # 删除缓存标识
-        run: rm -rf itv.txt
 
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
