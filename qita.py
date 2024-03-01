@@ -102,7 +102,7 @@ results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 now_today = datetime.date.today()
 # 将结果写入文件
 
-result_counter = 8  # 每个频道需要的个数
+result_counter = 4  # 每个频道需要的个数
 
 with open("qita.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
@@ -129,11 +129,13 @@ for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
         file_contents.append(content)
+        file.close()
 
 # print(f"{now_today}合并文件完成")
 
 # 写入合并后的文件
 with open("itvlist.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
+
 
 # print(f"{now_today}写入合并后的文件")
