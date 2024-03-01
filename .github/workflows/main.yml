@@ -73,15 +73,7 @@ jobs:
           git add .
           git commit ysyl.txt -m "Add generated file"
           git push -f
-          
-      - name: Run xiangang
-        run: python ${{ github.workspace }}/xiangang.py
-      - name: 提交xiangang更改
-        run: |
-          git add .
-          git commit xiangang.txt -m "Add generated file"
-          git push -f
-          
+             
       - name: Run qita
         run: python ${{ github.workspace }}/qita.py
       - name: 提交总表更改
