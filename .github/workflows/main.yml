@@ -1,30 +1,37 @@
-name: itvlist
-on: 
-  schedule:
-    - cron: '0 21 * * *'
-env:
-  clientId: 10101001-0100-0011-0101-100000000001
-  tenant: mylives01.onmicrosoft.com
-  
-permissions:
-  contents: write
-  
+name: Python Cache Example
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        
-      - name: Set up Python
+      
+      # 安装依赖并创建虚拟环境
+      - name: Set up Python environment
         uses: actions/setup-python@v2
         with:
           python-version: 3.9
-
+        
+      # 将当前目录添加到PYTHONPATH
+      - name: Add current directory to PYTHONPATH
+        run: |
+          echo "export PYTHONPATH=$(pwd)" >> $GITHUB_ENV
+          
+      # 如果之前已经有了缓存，则从缓存中还原
+      - name: Restore cache if available
+        id: restore_cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: python-${{ hashFiles('requirements.txt') }}
+      
+      # 安装所需的包
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet
-
+        run: pip install selenium requests futures eventlet -r requirements.txt
+        
+      # 运行测试等其他任务...
       - name: Run itv
         run: python ${{ github.workspace }}/itv.py
       - name: 提交更改
@@ -34,30 +41,11 @@ jobs:
           git add .
           git commit itv.txt -m "Add generated file"
           git push -f
-      - name: Run cctv
-        run: python ${{ github.workspace }}/cctv.py
-
-      - name: Run weishi
-        run: python ${{ github.workspace }}/weishi.py
-
-      - name: Run ktpd
-        run: python ${{ github.workspace }}/ktpd.py
- 
-      - name: Run ysyl
-        run: python ${{ github.workspace }}/ysyl.py
-
-      - name: Run xiangang
-        run: python ${{ github.workspace }}/xiangang.py
-
-      - name: Run qita
-        run: python ${{ github.workspace }}/qita.py
-      - name: 提交总表更改
-        run: |
-          git add .
-          git commit cctv.txt -m "Add generated file"
-          git commit weishi.txt -m "Add generated file"
-          git commit ktpd.txt -m "Add generated file"
-          git commit ysyl.txt -m "Add generated file"
-          git commit qita.txt -m "Add generated file"
-          git commit itvlist.txt -m "Add generated file"
-          git push -f
+      
+      # 保存新的缓存
+      - name: Save cache for future use
+        if: steps.restore_cache.outputs.cache-hit != 'true'
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: python-${{ hashFiles('requirements.txt') }}
