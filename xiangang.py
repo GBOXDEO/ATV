@@ -25,7 +25,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
-                if '凤凰' in channel_name or 'CN_' in channel_name:
+                if '凤凰' in channel_name or 'CN_' in channel_name or 'TVB' in channel_name:
                     channels.append((channel_name, channel_url))
 file.close()
 # 定义工作线程函数
@@ -101,17 +101,17 @@ def channel_key(channel_name):
 # 对频道进行排序
 results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 #results.sort(key=lambda x: channel_key(x[0]))
-now_today = datetime.date.today()
+now_today = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 # 将结果写入文件
 
-result_counter = 8  # 每个频道需要的个数
+result_counter = 5  # 每个频道需要的个数
 
 with open("xiangang.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【 港澳台频道 】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if '凤凰' in channel_name or 'CN_' in channel_name:
+        if '凤凰' in channel_name or 'CN_' in channel_name or 'TVB' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -121,4 +121,5 @@ with open("xiangang.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+file.write(f"//{now_today}更新\n")
 file.close()
