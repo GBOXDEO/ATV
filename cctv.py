@@ -27,7 +27,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
                 channel_name, channel_url = line.split(',')
                 if 'CCTV' in channel_name:
                     channels.append((channel_name, channel_url))
-
+file.close()
 # 定义工作线程函数
 def worker():
     while True:
