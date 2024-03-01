@@ -1,6 +1,9 @@
 name: Python Cache Example
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 23,13 * * *'
+  # 手动运行
+  # workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
