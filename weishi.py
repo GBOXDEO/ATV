@@ -27,7 +27,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
                 channel_name, channel_url = line.split(',')
                 if '卫视' in channel_name:
                     channels.append((channel_name, channel_url))
-
+file.close()
 # 定义工作线程函数
 def worker():
     while True:
@@ -102,7 +102,7 @@ results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 now_today = datetime.date.today()
 # 将结果写入文件
 
-result_counter = 8  # 每个频道需要的个数
+result_counter = 5  # 每个频道需要的个数
 
 with open("weishi.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
@@ -120,20 +120,4 @@ with open("weishi.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
 
-with open("weishi.m3u", 'w', encoding='utf-8') as file:
-    channel_counters = {}
-    #file.write('卫视频道,#genre#\n')
-    for result in results:
-        channel_name, channel_url, speed = result
-        if '卫视' in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f"#EXTINF:-1 group-title=\"卫视频道\",{channel_name}\n")
-                    file.write(f"{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"#EXTINF:-1 group-title=\"卫视频道\",{channel_name}\n")
-                file.write(f"{channel_url}\n")
-                channel_counters[channel_name] = 1
+file.close()
