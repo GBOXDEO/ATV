@@ -1,6 +1,7 @@
 name: itvlist
-on: [push]
-
+on: 
+  schedule:
+    - cron: '0 21 * * *'
 env:
   clientId: 10101001-0100-0011-0101-100000000001
   tenant: mylives01.onmicrosoft.com
