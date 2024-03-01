@@ -27,6 +27,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
                 channel_name, channel_url = line.split(',')
                 if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
                     channels.append((channel_name, channel_url))
+file.close()
 
 # 定义工作线程函数
 def worker():
@@ -102,7 +103,7 @@ results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 now_today = datetime.date.today()
 # 将结果写入文件
 
-result_counter = 8  # 每个频道需要的个数
+result_counter = 5  # 每个频道需要的个数
 
 with open("ktpd.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
@@ -119,3 +120,4 @@ with open("ktpd.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+file.close()
