@@ -1,7 +1,7 @@
 name: Python Cache Example
 on:
   schedule:
-    - cron: '0 4,12,23 * * *'
+    - cron: '0 4,16,23 * * *'
   # 手动运行
   # workflow_dispatch:
 jobs:
