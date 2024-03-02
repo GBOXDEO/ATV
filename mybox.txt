@@ -512,6 +512,46 @@ CHC电影,http://test.tvboxosc.cyou/ipv4_live/5/CHC电影/yiyang
 风云剧场,http://test.tvboxosc.cyou/ipv4_live/5/风云剧场/yiyang
 
 【 港澳台频道 】,#genre#
+TVB J2台,http://tvbox6.com/tv/twlive.php?id=fhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2
+TVB 翡翠台,http://tvbox6.com/tv/twlive.php?id=fhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc
+TVB 明珠台,http://tvbox6.com/tv/twlive.php?id=tcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz
+TVB 星河台(国),http://tvbox6.com/tv/twlive.php?id=zzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh
+TVB 无线新闻台,http://tvbox6.com/tv/twlive.php?id=fhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw
+TVB 财经体育资1台,http://tvbox6.com/tv/twlive.php?id=fhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd
+TVB 财经体育资2台,http://tvbox6.com/tv/twlive.php?id=fhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5
+VIU TV台,http://tvbox6.com/tv/twlive.php?id=fhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv
+VIU TV6台,http://tvbox6.com/tv/twlive.php?id=fhwzptdzbehztyhbvhfzcvszzfyztvzutvszx
+RTHK31台,http://tvbox6.com/tv/twlive.php?id=hpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31
+RTHK32台,http://tvbox6.com/tv/twlive.php?id=zpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32
+HOY 资讯台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
+澳门莲花台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh
+台视台,http://tvbox6.com/tv/twlive.php?id=ptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts
+民视台,http://tvbox6.com/tv/twlive.php?id=phzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms
+中视台,http://tvbox6.com/tv/twlive.php?id=zphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs
+华视台,http://tvbox6.com/tv/twlive.php?id=pdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs
+TVBS台,http://tvbox6.com/tv/twlive.php?id=zpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs
+TVBS新闻台,http://tvbox6.com/tv/twlive.php?id=zozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw
+民视新闻台,http://tvbox6.com/tv/twlive.php?id=cnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw
+中视新闻台,http://tvbox6.com/tv/twlive.php?id=pnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw
+台视新闻台,http://tvbox6.com/tv/twlive.php?id=nczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw
+寰宇新闻台,http://tvbox6.com/tv/twlive.php?id=phxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw
+中天新闻台,http://tvbox6.com/tv/twlive.php?id=pzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw
+年代新闻台,http://tvbox6.com/tv/twlive.php?id=ozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw
+东森新闻台,http://tvbox6.com/tv/twlive.php?id=mhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw
+三立新闻台,http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw
+非凡新闻台,http://tvbox6.com/tv/twlive.php?id=sztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw
+壹新闻台,http://tvbox6.com/tv/twlive.php?id=mzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw
+镜新闻台,http://tvbox6.com/tv/twlive.php?id=excvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw
+三立LIVE台,http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive
+动物星球台,http://tvbox6.com/tv/twlive.php?id=xcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz
+探索频道台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz
+龙祥电影台,http://tvbox6.com/tv/twlive.php?id=mzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz
+东森电影台,http://tvbox6.com/tv/twlive.php?id=zowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy
+龙华电影台,http://tvbox6.com/tv/twlive.php?id=zpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy
+龙华洋片台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty
+好莱坞电影台,http://tvbox6.com/tv/twlive.php?id=zmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy
+AXN台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn
+东森戏剧台,http://tvbox6.com/tv/twlive.php?id=yvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd
 
 【  其他频道  】,#genre#
 BTV冬奥纪实,http://test.tvboxosc.cyou/ipv4_live/1/BTV冬奥纪实/qita
