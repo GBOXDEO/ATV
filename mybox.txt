@@ -24,11 +24,11 @@ CCTV5,http://test.tvboxosc.cyou/ipv4_live/2/CCTV5/CCTV
 CCTV5,http://test.tvboxosc.cyou/ipv4_live/3/CCTV5/CCTV
 CCTV5,http://test.tvboxosc.cyou/ipv4_live/4/CCTV5/CCTV
 CCTV5,http://test.tvboxosc.cyou/ipv4_live/5/CCTV5/CCTV
-CCTV5+,http://test.tvboxosc.cyou/ipv4_live/1/CCTV5+/CCTV
-CCTV5+,http://test.tvboxosc.cyou/ipv4_live/2/CCTV5+/CCTV
-CCTV5+,http://test.tvboxosc.cyou/ipv4_live/3/CCTV5+/CCTV
-CCTV5+,http://test.tvboxosc.cyou/ipv4_live/4/CCTV5+/CCTV
-CCTV5+,http://test.tvboxosc.cyou/ipv4_live/5/CCTV5+/CCTV
+CCTV5+,http://test.tvboxosc.cyou/ipv4_live/1/CCTV5＋/CCTV
+CCTV5+,http://test.tvboxosc.cyou/ipv4_live/2/CCTV5＋/CCTV
+CCTV5+,http://test.tvboxosc.cyou/ipv4_live/3/CCTV5＋/CCTV
+CCTV5+,http://test.tvboxosc.cyou/ipv4_live/4/CCTV5＋/CCTV
+CCTV5+,http://test.tvboxosc.cyou/ipv4_live/5/CCTV5＋/CCTV
 CCTV6,http://test.tvboxosc.cyou/ipv4_live/1/CCTV6/CCTV
 CCTV6,http://test.tvboxosc.cyou/ipv4_live/2/CCTV6/CCTV
 CCTV6,http://test.tvboxosc.cyou/ipv4_live/3/CCTV6/CCTV
