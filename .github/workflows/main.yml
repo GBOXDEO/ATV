@@ -33,6 +33,9 @@ jobs:
       # 安装所需的包
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
+
+      - name: Install pip install --upgrade pip
+        run: pip install --upgrade pip
         
       # 运行测试等其他任务...
       - name: Run itv
