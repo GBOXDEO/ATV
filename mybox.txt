@@ -156,6 +156,11 @@ CCTV风云音乐,http://test.tvboxosc.cyou/ipv4_live/4/CCTV风云音乐/CCTV
 CCTV风云音乐,http://test.tvboxosc.cyou/ipv4_live/5/CCTV风云音乐/CCTV
 
 【  卫视频道  】,#genre#
+五星体育,http://test.tvboxosc.cyou/ipv4_live/1/五星体育/qita
+五星体育,http://test.tvboxosc.cyou/ipv4_live/2/五星体育/qita
+五星体育,http://test.tvboxosc.cyou/ipv4_live/3/五星体育/qita
+五星体育,http://test.tvboxosc.cyou/ipv4_live/4/五星体育/qita
+五星体育,http://test.tvboxosc.cyou/ipv4_live/5/五星体育/qita
 上海卫视,http://test.tvboxosc.cyou/ipv4_live/1/上海卫视/weishi
 上海卫视,http://test.tvboxosc.cyou/ipv4_live/2/上海卫视/weishi
 上海卫视,http://test.tvboxosc.cyou/ipv4_live/3/上海卫视/weishi
