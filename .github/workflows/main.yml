@@ -4,8 +4,10 @@ on:
     - cron: '0 1,5,9,13,17,21 * * *'
       
   # 手动运行
-  # workflow_dispatch:
-  
+  workflow_dispatch:
+env:
+  clientId: 10101001-0100-0011-0101-100000000001
+  tenant: mylives01.onmicrosoft.com
 jobs:
   build:
     runs-on: ubuntu-latest
