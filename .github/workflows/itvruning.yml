@@ -2,7 +2,7 @@ name: itv runing
 
 on:
   schedule:
-    - cron: '0 2,6,10,14,18,22 * * *'
+    - cron: '0 3,8,13,18,23 * * *'
   # 手动运行
   workflow_dispatch:
   
