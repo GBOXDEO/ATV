@@ -5,20 +5,18 @@ on:
       
   # 手动运行
   workflow_dispatch:
-env:
-  clientId: 10101001-0100-0011-0101-100000000001
-  tenant: mylives01.onmicrosoft.com
+
 jobs:
   build:
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       
       # 安装依赖并创建虚拟环境
       - name: Set up Python environment
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
           python-version: 3.9
         
