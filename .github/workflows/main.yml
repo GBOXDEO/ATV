@@ -14,7 +14,7 @@ jobs:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
           operating-system: ['ubuntu-20.04']
       steps:
-      - uses: actions/checkout@v4 # Checking out the repo
+      - uses: actions/checkout@v3 # Checking out the repo
       - name: Run with setup-python 3.8
         uses: actions/setup-python@v4
         with:
@@ -22,6 +22,10 @@ jobs:
           update-environment: false
           cache: 'pipenv'
 
+      - name: Install Selenium
+        run: |
+            sudo pip3 install selenium
+            
       - name: Set up Chrome
         uses: browser-actions/setup-chrome@latest
         with:
