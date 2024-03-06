@@ -14,9 +14,9 @@ jobs:
           # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
           operating-system: ['ubuntu-20.04']
       steps:
-      - uses: actions/checkout@v2 # Checking out the repo
+      - uses: actions/checkout@v4 # Checking out the repo
       - name: Run with setup-python 3.8
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.8'
           update-environment: false
