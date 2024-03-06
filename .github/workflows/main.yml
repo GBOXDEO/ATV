@@ -25,6 +25,7 @@ jobs:
       - name: Install Selenium
         run: |
             sudo pip3 install selenium
+            sudo pip3 install eventlet
             
       - name: Set up Chrome
         uses: browser-actions/setup-chrome@latest
