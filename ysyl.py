@@ -70,13 +70,13 @@ def worker():
             # print(f"可用频道：{len(results)} 个 , 不可用频道：{len(error_channels)} 个 , 总频道：{len(channels)} 个 ,总进度：{numberx:.2f} %。")
         
         # 减少CPU占用
-        time.sleep(10)
+        time.sleep(0)
         # 标记任务完成
         task_queue.task_done()
 
 
 # 创建多个工作线程
-num_threads = 8
+num_threads = 15
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     #t = threading.Thread(target=worker, args=(event,len(channels)))  # 将工作线程设置为守护线程
