@@ -7,43 +7,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  push:
-      runs-on: ${{ matrix.operating-system }}
-      strategy:
-        matrix:
-          # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
-          operating-system: ['ubuntu-20.04']
-      steps:
-      - uses: actions/checkout@v3 # Checking out the repo
-      - name: Run with setup-python 3.8
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.8'
-          update-environment: false
-          cache: 'pipenv'
+  build:
+    runs-on: ubuntu-latest
 
-      - name: Install Selenium
-        run: |
-            sudo pip3 install selenium
-            sudo pip3 install eventlet
-            
-      - name: Set up Chrome
-        uses: browser-actions/setup-chrome@latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          chrome-version: stable
-      - name: Download chrome driver
-        uses: nanasess/setup-chromedriver@master
-      - name: Launch chrome driver
-        run: |
-            export DISPLAY=:99
-            chromedriver --url-base=/wd/hub &
-            sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional         
-        
-      - name: Install pipenv
-        run: pip3 install --user pipenv
-      - name: Install dependecies
-        run:  pipenv --python python3 && pipenv install
-        
+          python-version: 3.9
+      - run: python my_script.py
+      
       # 运行测试等其他任务...
       - name: Run itv
         run: python ${{ github.workspace }}/itv.py
