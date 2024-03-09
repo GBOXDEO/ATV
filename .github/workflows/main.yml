@@ -15,17 +15,31 @@ jobs:
         uses: actions/checkout@v4
     
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.9
+          python-version: 3.8
 
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
 
       # 运行测试等其他任务...
-      - name: Run itv_all
-        run: python ${{ github.workspace }}/itv_all.py
+      - name: Run itv
+        run: python ${{ github.workspace }}/itv.py
 
+      - name: Run cctv
+        run: python ${{ github.workspace }}/cctv.py
+          
+      - name: Run weishi
+        run: python ${{ github.workspace }}/weishi.py
+          
+      - name: Run ktpd
+        run: python ${{ github.workspace }}/ktpd.py
+          
+      - name: Run ysyl
+        run: python ${{ github.workspace }}/ysyl.py
+             
+      - name: Run qita
+        run: python ${{ github.workspace }}/qita.py
       - name: 提交总表更改
         run: |
           git config --local user.name "GBOXDEO" 
@@ -33,4 +47,3 @@ jobs:
           git add .
           git commit *.txt -m "Add generated file"
           git push -f
-        
