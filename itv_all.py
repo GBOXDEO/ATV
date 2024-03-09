@@ -201,6 +201,9 @@ for url in urls:
                             name = name.replace("CCTV5+体育赛视", "CCTV5+")
                             name = name.replace("CCTV5+体育赛事", "CCTV5+")
                             name = name.replace("CCTV5+体育", "CCTV5+")
+                            name = name.replace("CMIPTV", "")
+                            name = name.replace("台", "")
+                            name = name.replace("内蒙卫视", "内蒙古卫视")
                             results.append(f"{name},{urld}")
             except:
                 continue
@@ -240,7 +243,7 @@ def worker():
             # 多获取的视频数据进行5秒钟限制
             with eventlet.Timeout(5, False):
                 start_time = time.time()
-                content = requests.get(ts_url).content
+                content = requests.get(ts_url, timeout=(1,4)).content
                 end_time = time.time()
                 response_time = (end_time - start_time) * 1
 
@@ -271,7 +274,7 @@ def worker():
 
 
 # 创建多个工作线程
-num_threads = 10
+num_threads = 15
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True)  # 将工作线程设置为守护线程
     t.start()
@@ -307,11 +310,11 @@ with open("itv_all_speed.txt", 'w', encoding='utf-8') as file:
         file.write(f"{channel_name},{channel_url}\n")
 
 
-result_counter = 5  # 每个频道需要的个数
+result_counter = 8  # 每个频道需要的个数
 
-with open("itv_all.txt", 'w', encoding='utf-8') as file:
+with open("cctv.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('央视频道,#genre#\n')
+    file.write('【  央视频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if 'CCTV' in channel_name:
@@ -324,8 +327,12 @@ with open("itv_all.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+
+    file.close()
+
+with open("weishi.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('卫视频道,#genre#\n')
+    file.write('【  卫视频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
         if '卫视' in channel_name:
@@ -338,11 +345,15 @@ with open("itv_all.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+
+    file.close()
+
+with open("ktpd.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('其他频道,#genre#\n')
+    file.write('【  卡通频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
+        if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -352,54 +363,39 @@ with open("itv_all.txt", 'w', encoding='utf-8') as file:
             else:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
+    file.close()
 
-with open("itv_all.m3u", 'w', encoding='utf-8') as file:
+with open("ysyl.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
-    file.write('#EXTM3U\n')
+    file.write('【  影视频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' in channel_name:
+        if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
                 else:
-                    file.write(f"#EXTINF:-1 group-title=\"央视频道\",{channel_name}\n")
-                    file.write(f"{channel_url}\n")
+                    file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] += 1
             else:
-                file.write(f"#EXTINF:-1 group-title=\"央视频道\",{channel_name}\n")
-                file.write(f"{channel_url}\n")
+                file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
-    channel_counters = {}
-    #file.write('卫视频道,#genre#\n')
-    for result in results:
-        channel_name, channel_url, speed = result
-        if '卫视' in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f"#EXTINF:-1 group-title=\"卫视频道\",{channel_name}\n")
-                    file.write(f"{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"#EXTINF:-1 group-title=\"卫视频道\",{channel_name}\n")
-                file.write(f"{channel_url}\n")
-                channel_counters[channel_name] = 1
-    channel_counters = {}
-    #file.write('其他频道,#genre#\n')
-    for result in results:
-        channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f"#EXTINF:-1 group-title=\"其他频道\",{channel_name}\n")
-                    file.write(f"{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"#EXTINF:-1 group-title=\"其他频道\",{channel_name}\n")
-                file.write(f"{channel_url}\n")
-                channel_counters[channel_name] = 1
+    file.close()
 
+with open("qita.txt", 'w', encoding='utf-8') as file:
+    channel_counters = {}
+    file.write('【  其他频道  】,#genre#\n')
+    for result in results:
+        channel_name, channel_url, speed = result
+        if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
+            if channel_name in channel_counters:
+                if channel_counters[channel_name] >= result_counter:
+                    continue
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] += 1
+            else:
+                file.write(f"{channel_name},{channel_url}\n")
+                channel_counters[channel_name] = 1
+    file.close()                
+print(f"{now_today}其他频道更新完成")
