@@ -215,9 +215,11 @@ channels = []
 
 for result in results:
     line = result.strip()
-    if result:
-        channel_name, channel_url = result.split(',')
-        channels.append((channel_name, channel_url))
+    count = result.count(',')
+    if count == 1:
+        if result:
+            channel_name, channel_url = result.split(',')
+            channels.append((channel_name, channel_url))
 
 # 线程安全的队列，用于存储下载任务
 task_queue = Queue()
