@@ -1,7 +1,7 @@
 name: Python Cache Example
 on:
   schedule:
-    - cron: '0 3,7,11,15,19,23 * * *'
+    - cron: '0 1,5,9,13,17,21 * * *'
       
   # 手动运行
   workflow_dispatch:
@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -23,14 +24,22 @@ jobs:
 
       # 运行测试等其他任务...
       - name: Run itv
-        run: |
-          python ${{ github.workspace }}/itv.py
-          python ${{ github.workspace }}/cctv.py
-          python ${{ github.workspace }}/weishi.py
-          python ${{ github.workspace }}/ktpd.py
-          python ${{ github.workspace }}/ysyl.py
-          python ${{ github.workspace }}/qita.py
+        run: python ${{ github.workspace }}/itv.py
 
+      - name: Run cctv
+        run: python ${{ github.workspace }}/cctv.py
+          
+      - name: Run weishi
+        run: python ${{ github.workspace }}/weishi.py
+          
+      - name: Run ktpd
+        run: python ${{ github.workspace }}/ktpd.py
+          
+      - name: Run ysyl
+        run: python ${{ github.workspace }}/ysyl.py
+             
+      - name: Run qita
+        run: python ${{ github.workspace }}/qita.py
       - name: 提交总表更改
         run: |
           git config --local user.name "GBOXDEO" 
