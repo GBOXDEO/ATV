@@ -26,7 +26,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
             if line:
                 channel_name, channel_url = line.split(',')
                 name =(f"{channel_name}")
-                name = name.replace("HD", "")
+                name = name.replace("_HD", "")
                 name = name.replace("(高清)", "")
                 name = name.replace("厦门卫视高清", "厦门卫视")
                 name = name.replace("吉林卫视高清", "吉林卫视")
