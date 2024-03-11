@@ -1117,6 +1117,7 @@ ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
 中教4,http://117.43.218.193:20000/hls/28/index.m3u8
 中教4,http://220.176.11.157:20000/hls/28/index.m3u8
 中教4,http://59.55.12.99:20000/hls/28/index.m3u8
+中視,http://220.134.74.149:6868/udp/230.1.2.228:11111
 中视购物,http://223.82.161.157:8822/hls/18/index.m3u8
 临沧1,http://39.130.215.222:6410/gitv_live/G_LINCANGTV-1/G_LINCANGTV-1.m3u8
 临沧2,http://39.130.215.222:6410/gitv_live/G_LINCANGTV-2/G_LINCANGTV-2.m3u8
@@ -1184,6 +1185,7 @@ ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
 云浮综合,http://113.86.205.10:8090/hls/200/index.m3u8
 云龙,http://39.130.215.222:6410/gitv_live/G_YUNLONGTV-1/G_YUNLONGTV-1.m3u8
 人文地理记录,http://115.58.217.42:9999/hls/34/index.m3u8
+人間衛視,http://220.134.74.149:6868/udp/230.1.2.193:11111
 优漫动画-QGSD,http://7.7.7.7/live/ymkt/index.m3u8
 优漫卡通,http://110.72.64.110:808/hls/31/index.m3u8
 优漫卡通,http://110.72.64.135:808/hls/31/index.m3u8
@@ -1226,6 +1228,7 @@ ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
 全纪实,http://59.55.12.99:20000/hls/31/index.m3u8
 全纪实-NET,http://219.147.162.117:2017/live/un1080qjs/index.m3u8
 公共频道,http://115.58.217.42:9999/hls/23/index.m3u8
+公視,http://220.134.74.149:6868/udp/230.1.2.230:11111
 兵器科技,http://113.86.205.10:8090/hls/528/index.m3u8
 兵器科技,http://118.212.169.134:8086/PLTV/88888888/224/3221226409/index.m3u8
 兵器科技,http://119.54.10.81:9999/hls/82/index.m3u8
@@ -1526,6 +1529,7 @@ ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
 双柏,http://39.130.215.222:6410/gitv_live/G_SHUANGBAI/G_SHUANGBAI.m3u8
 双江,http://39.130.215.222:6410/gitv_live/G_LCSHUANGJIANG/G_LCSHUANGJIANG.m3u8
 古装剧场,http://223.82.161.157:8822/hls/500/index.m3u8
+台視,http://220.134.74.149:6868/udp/230.1.2.227:11111
 吉林-QG,http://7.7.7.7/live/jlws/index.m3u8
 吉林-蓝光,http://7.7.8.1/hls/54/index.m3u8
 吉林乡村,http://119.54.10.81:9999/hls/22/index.m3u8
@@ -2418,6 +2422,7 @@ ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
 武术世界,http://118.212.169.134/PLTV/88888888/224/3221226414/index.m3u8
 武术世界,http://118.212.169.134:8086/PLTV/88888888/224/3221226414/index.m3u8
 民生频道,http://115.58.217.42:9999/hls/18/index.m3u8
+民視,http://220.134.74.149:6868/udp/230.1.2.226:11111
 永仁,http://39.130.215.222:6410/gitv_live/G_YONGREN/G_YONGREN.m3u8
 永德,http://39.130.215.222:6410/gitv_live/G_LCYONGDE/G_LCYONGDE.m3u8
 永胜,http://39.130.215.222:6410/gitv_live/G_YONGSHENG/G_YONGSHENG.m3u8
@@ -3215,6 +3220,7 @@ ViuTV6,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv6.m3u8
 茶频道,http://119.54.11.79:9999/hls/101/index.m3u8
 茶频道,http://220.176.11.157:20000/hls/38/index.m3u8
 茶频道,http://59.55.12.99:20000/hls/38/index.m3u8
+華視,http://220.134.74.149:6868/udp/230.1.2.229:11111
 西双版纳公共,http://39.130.215.222:6410/gitv_live/G_XSBNTV-2/G_XSBNTV-2.m3u8
 西双版纳综合,http://39.130.215.222:6410/gitv_live/G_XSBNTV-1/G_XSBNTV-1.m3u8
 西甲,http://183.239.193.55:2223/hls/4/index.m3u8
