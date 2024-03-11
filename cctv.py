@@ -25,8 +25,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
-                result = channel_name, channel_url
-                results.append(result)
+                results.append(f"{channel_name},{channel_url}")
     file.close()
 
 results = set(results)  # 去重得到唯一的URL列表
@@ -39,6 +38,7 @@ with open("itv.txt", 'w', encoding='utf-8') as file:
     file.close()
 
 results = []
+channels = []
 with open("itv.txt", 'r', encoding='utf-8') as file:
     lines = file.readlines()
     for line in lines:
