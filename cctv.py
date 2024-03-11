@@ -25,6 +25,22 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
+                result = channel_name, channel_url
+                results.append(result)
+    file.close()
+
+results = set(results)  # 去重得到唯一的URL列表
+results = sorted(results)
+
+results = []
+with open("itv.txt", 'r', encoding='utf-8') as file:
+    lines = file.readlines()
+    for line in lines:
+        line = line.strip()
+        count = line.count(',')
+        if count == 1:
+            if line:
+                channel_name, channel_url = line.split(',')
                 if 'CCTV' in channel_name:
                     channels.append((channel_name, channel_url))
     file.close()
