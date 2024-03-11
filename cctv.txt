@@ -15,7 +15,7 @@ CCTV2,http://120.84.121.11:808/hls/102/index.m3u8
 CCTV2,http://223.82.161.157:8822/hls/2/index.m3u8
 CCTV2,http://110.72.75.49:808/hls/97/index.m3u8
 CCTV2,http://113.86.205.10:8090/hls/114/index.m3u8
-CCTV3,http://219.135.208.218:8083/tsfile/live/0003_1.m3u8
+
 CCTV3,http://110.19.99.200:808/hls/103/index.m3u8
 CCTV3,http://113.86.205.10:8090/hls/115/index.m3u8
 CCTV3,http://120.84.121.106:808/hls/103/index.m3u8
@@ -38,7 +38,7 @@ CCTV5,http://120.84.121.54:808/hls/5/index.m3u8
 CCTV5,http://110.19.99.200:808/hls/105/index.m3u8
 CCTV5,http://183.239.193.55:2223/hls/91/index.m3u8
 CCTV5,http://223.82.161.157:8822/hls/5/index.m3u8
-CCTV5+,http://219.135.208.218:8083/tsfile/live/0016_2.m3u8
+
 CCTV5+,http://120.84.121.54:808/hls/116/index.m3u8
 CCTV5+,http://120.84.121.106:808/hls/116/index.m3u8
 CCTV5+,http://115.148.104.135:20000/hls/2/index.m3u8
