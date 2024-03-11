@@ -59,6 +59,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
                 name = name.replace("汕头综合高清", "汕头综合")
                 name = name.replace("汕头文旅体育高清", "汕头文旅体育")
                 name = name.replace("汕头文旅体育高清", "汕头文旅体育")
+                name = name.replace("高清", "")
                 results.append(f"{name},{channel_url}")
     file.close()
 
