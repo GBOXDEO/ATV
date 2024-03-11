@@ -2,7 +2,9 @@ name: Python Cache Example
 on:
   #schedule:
   #  - cron: '0 1,5,9,13,17,21 * * *'
-      
+  push:
+    paths:
+      - 'path/to/main/itv.txt'   
   # 手动运行
   workflow_dispatch:
 
