@@ -22,10 +22,10 @@ jobs:
           python-version: 3.8
 
       - name: Install dependencies
-        run: ｜
-          pip install selenium requests futures eventlet
-          pip install ffmpeg
-
+        run: pip install selenium requests futures eventlet
+      - name: Install ffmpeg
+        run: apt-get install ffmpeg
+        
       # 运行测试等其他任务...
       #- name: Run itv
       #  run: python ${{ github.workspace }}/itv.py
