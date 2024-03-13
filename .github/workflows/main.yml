@@ -23,8 +23,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
-      - name: Install ffmpeg
-        run: apt-get install ffmpeg
         
       # 运行测试等其他任务...
       #- name: Run itv
