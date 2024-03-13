@@ -145,11 +145,12 @@ def worker():
                     if k:
                         nlen = len(k)
                         print(f'{nlen}')
-                        print(f'{time.time()-now:.2f}\t{channel_url}')
+                        print(f'{time.time()-now:.3f}\t{channel_url}')
                         response_time = (time.time()-now) * 1
                         download_speed = nlen / response_time / 1024
                         normalized_speed = min(max(download_speed / 1024, 0.001), 100)
                         result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
+                        print(f"{normalized_speed:.3f} MB/s")
                         results.append(result)
                         break
         except:
