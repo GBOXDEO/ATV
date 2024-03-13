@@ -148,6 +148,7 @@ def worker():
                         normalized_speed = min(max(download_speed / 1024, 0.001), 100)
                         result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
                         print(f'{time.time()-now:.2f}\t{channel_url}')
+                        print(f"标准化后的速率：{normalized_speed:.3f} MB/s")
                         results.append(result)
                         break
         except:
