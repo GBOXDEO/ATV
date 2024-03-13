@@ -102,7 +102,7 @@ with open("newitv.txt", 'w', encoding='utf-8') as file:
 
 # 合并文件内容
 file_contents = []
-file_paths = ["cctv.txt", "newitv.txt"]  # 替换为实际的文件路径列表
+file_paths = ["cctv.txt", "weishi.txt", "ktpd.txt", "ysyl.txt","xiangang.txt", "qita.txt", "newitv.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
@@ -143,14 +143,11 @@ def worker():
                     # 这里的chunk_size是1MB，每次读取1MB测试视频流
                     # 如果能获取视频流，则输出读取的时间以及链接
                     if k:
-                        speed = int(k)
-                        print(f"下载大小：{speed}")
+                        print(f'{time.time()-now:.2f}\t{channel_url}')
                         response_time = (time.time()-now) * 1
                         download_speed = 1048576 / response_time / 1024
                         normalized_speed = min(max(download_speed / 1024, 0.001), 100)
                         result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
-                        print(f'{time.time()-now:.2f}\t{channel_url}')
-                        print(f"标准化后的速率：{normalized_speed:.3f} MB/s")
                         results.append(result)
                         break
         except:
