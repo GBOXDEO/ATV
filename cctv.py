@@ -151,6 +151,8 @@ def worker():
                         print(f"标准化后的速率：{normalized_speed:.3f} MB/s")
                         results.append(result)
                         break
+                    else:
+                        continue
         except:
             # 无法连接并超时的情况下输出“X”
             print(f'X\t{channel_url}')
