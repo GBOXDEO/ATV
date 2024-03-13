@@ -1,40 +1,60 @@
-name: Python Cache Example
+name: cctv setup
 on:
-  #schedule:
-  #  - cron: '0 1,5,9,13,17,21 * * *'
-  push:
-    paths:
-      - 'myitv_test.txt'   
+  schedule:
+    - cron: '0 1,5,9,13,17,21 * * *'
   # 手动运行
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-    
-      - name: Set up Python
-        uses: actions/setup-python@v5
+  push:
+      runs-on: ${{ matrix.operating-system }}
+      strategy:
+        matrix:
+          # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
+          operating-system: ['ubuntu-20.04']
+      steps:
+      - uses: actions/checkout@v3 # Checking out the repo
+      - name: Run with setup-python 3.8
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.8
+          python-version: '3.9'
+          update-environment: false
+          cache: 'pipenv'
 
-      - name: Install dependencies
-        run: pip install selenium requests futures eventlet
+
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@latest
+        with:
+          chrome-version: stable
+      - name: Download chrome driver
+        uses: nanasess/setup-chromedriver@master
+      - name: Launch chrome driver
+        run: |
+            export DISPLAY=:99
+            chromedriver --url-base=/wd/hub &
+            sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional         
         
-      # 运行测试等其他任务...
-      #- name: Run itv
-      #  run: python ${{ github.workspace }}/itv.py
-
+      - name: Install pipenv
+        run: pip3 install --user pipenv
+      - name: Install dependecies
+        run:  pipenv --python python3 && pipenv install
+      # 安装所需的包
+      - name: Install dependencies
+        run: |
+          pip install selenium requests futures eventlet
+          pip install beautifulsoup4
+        
+      #- name: Run hotel
+      #  run: python ${{ github.workspace }}/hotel.py
+      
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
-
-      - name: 提交总表更改
+          
+      - name: 提交更改
         run: |
           git config --local user.name "GBOXDEO" 
           git config --local user.email "g832@qq.com"
           git add .
           git commit *.txt -m "Add generated file"
           git push -f
+
