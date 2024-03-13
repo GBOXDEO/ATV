@@ -147,7 +147,7 @@ def worker():
                         download_speed = download_speed / response_time / 1024
                         normalized_speed = min(max(download_speed / 1024, 0.001), 100)
                         result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
-                        print(f'{time.time()-now:.2f}\t{channel_url}\t{normalized_speed:.3f} MB/s}')
+                        print(f'{time.time()-now:.2f}\t{channel_url}')
                         results.append(result)
                         break
         except:
