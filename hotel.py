@@ -1,4 +1,3 @@
-import config
 import concurrent.futures
 from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
