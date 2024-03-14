@@ -1,4 +1,4 @@
-name: cctv setup
+name: Run Seek hotel ip
 on:
   #schedule:
   #  - cron: '0 5,11,16,21 * * *'
