@@ -189,8 +189,8 @@ def open_url(ipv):
             name = name.replace("台", "")
             name = name.replace("内蒙卫视", "内蒙古卫视")
             infoList.append(f"{name},{urlsp}")
-    except:
-        break
+    except Exception as e:
+        print(f"Thread {ipv} caught an exception: {e}")
         
     driver.quit()  # 关闭浏览器
     # 减少CPU占用
