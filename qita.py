@@ -13,7 +13,7 @@ def cut_first_chinese_words(text, num=2):
         if char >= '\u4e00' and char <= '\u9fa5':
             return text[:i+2]
     return 'xxxxxxxxxxxxxxxxxx'
- 
+
 guangdong_text = "东莞中山佛山顺德南海南方宝安岭南广东广州广视揭西揭阳汕头汕尾江门海豚深圳清远龙岗湛江潮州珠江粤语肇庆茂名韶关"
 
 # 线程安全的队列，用于存储下载任务
@@ -84,16 +84,19 @@ def worker():
                 now=time.time()
                 res=se.get(channel_url,headers=headers,timeout=5,stream=True)
                 if res.status_code==200:
-                    for k in res.iter_content(chunk_size=1048576):
+                    for k in res.iter_content(chunk_size=3145728):
                         # 这里的chunk_size是1MB，每次读取1MB测试视频流
                         # 如果能获取视频流，则输出读取的时间以及链接
                         if k:
                             print(f'{time.time()-now:.2f}\t{channel_url}')
                             response_time = (time.time()-now) * 1
-                            download_speed = 1048576 / response_time / 1024
+                            download_speed = 3145728 / response_time / 1024
                             normalized_speed = min(max(download_speed / 1024, 0.001), 100)
-                            result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
-                            results.append(result)
+                            if response_time > 2:
+                                result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
+                                results.append(result)
+                            else:
+                                print(f'X\t{channel_url}')
                             break
             except:
                 # 无法连接并超时的情况下输出“X”
