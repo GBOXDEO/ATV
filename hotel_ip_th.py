@@ -4,6 +4,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+from concurrent.futures import ThreadPoolExecutor
+
 import time
 import os
 import re
@@ -77,7 +80,10 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
     file.close()
     
 sorted_list = sorted(resultslist)
-for ipv in sorted_list:   
+#多线程并发查询url并获取数据
+
+ 
+def open_url(ipv):
     try:
         # 创建一个Chrome WebDriver实例
         results = []
@@ -105,7 +111,7 @@ for ipv in sorted_list:
         time.sleep(15)
         soup = BeautifulSoup(driver.page_source, "html.parser")
         # 关闭WebDriver
-        driver.quit()
+        # driver.quit()
         tables_div = soup.find("div", class_="tables")
         results = (
             tables_div.find_all("div", class_="result")
@@ -185,6 +191,14 @@ for ipv in sorted_list:
             infoList.append(f"{name},{urlsp}")
     except:
         continue
+    
+    driver.quit()  # 关闭浏览器
+ 
+
+max_workers = 15  # 你想要限制的线程数量
+ 
+with ThreadPoolExecutor(max_workers=max_workers) as executor:
+    executor.map(open_url, sorted_list)
 
 infoList = set(infoList)  # 去重得到唯一的URL列表
 infoList = sorted(infoList)
