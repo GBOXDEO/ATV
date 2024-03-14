@@ -31,7 +31,7 @@ def is_odd_or_even(number):
         return False
 
 urls = [
-    "http://27.41.249.205:801"
+    "http://27.41.249.1:801"
     ]
 
 def modify_urls(url):
