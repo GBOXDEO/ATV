@@ -29,12 +29,8 @@ def is_odd_or_even(number):
         return True
     else:
         return False
-        
+
 urls = [
-    "http://27.41.249.1:801",
-    "http://27.41.248.1:801",
-    "http://183.239.193.1:2223",
-    "http://183.17.224.1:8888",
     "http://183.238.248.1:9000"
     ]
 
