@@ -15,11 +15,11 @@ infoList = []
 urls_y = []
 resultslist = []
 urls = [
-    "http://27.41.249.205:801/hls/81/index.m3u8",
-    "http://27.41.248.75:801/hls/81/index.m3u8",
-    "http://183.239.193.55:2223/hls/62/index.m3u8",
-    "http://183.17.224.90:8888/hls/81/index.m3u8",
-    "http://183.238.248.83:9000/hls/81/index.m3u8"
+    "http://27.41.249.205:801",
+    "http://27.41.248.75:801",
+    "http://183.239.193.55:2223",
+    "http://183.17.224.90:8888",
+    "http://183.238.248.83:9000"
     ]
 
 def modify_urls(url):
@@ -29,7 +29,7 @@ def modify_urls(url):
     base_url = url[:ip_start_index]  # http:// or https://
     ip_address = url[ip_start_index:ip_end_index]
     port = url[ip_end_index:]
-    ip_end = "/iptv/live/1000.json?key=txiptv"
+    ip_end = ""
     for i in range(1, 256):
         modified_ip = f"{ip_address[:-1]}{i}"
         modified_url = f"{modified_ip}{port}"
@@ -43,8 +43,7 @@ def is_url_accessible(url):
             return url
     except requests.exceptions.RequestException:
         pass
-    # return None
-    return url
+    return None
 
 # 初始化计数器为0
 counter = 0
