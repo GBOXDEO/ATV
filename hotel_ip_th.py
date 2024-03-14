@@ -191,8 +191,10 @@ def open_url(ipv):
             infoList.append(f"{name},{urlsp}")
     except:
         continue
-    
+        
     driver.quit()  # 关闭浏览器
+    # 减少CPU占用
+    time.sleep(0)
  
 max_workers = 15  # 你想要限制的线程数量
  
