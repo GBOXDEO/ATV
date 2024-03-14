@@ -93,12 +93,12 @@ def open_url(ipv):
         chrome_options.add_argument('--disable-dev-shm-usage')
         chrome_options.add_experimental_option("useAutomationExtension", False)
         chrome_options.add_argument("blink-settings=imagesEnabled=false")
-        driver = webdriver.Chrome(options=chrome_options)
+        # driver = webdriver.Chrome(options=chrome_options)
         # 设置页面加载超时
         driver.set_page_load_timeout(15)  # 10秒后超时
  
         # 设置脚本执行超时
-        driver.set_script_timeout(10)  # 5秒后超时
+        # driver.set_script_timeout(10)  # 5秒后超时
         # 使用WebDriver访问网页
         page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={ipv}"
         print(page_url)
@@ -196,7 +196,7 @@ def open_url(ipv):
     # 减少CPU占用
     time.sleep(0)
  
-max_workers = 15  # 你想要限制的线程数量
+max_workers = 10  # 你想要限制的线程数量
  
 with ThreadPoolExecutor(max_workers=max_workers) as executor:
     executor.map(open_url, sorted_list)
