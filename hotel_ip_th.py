@@ -14,6 +14,8 @@ import re
 from bs4 import BeautifulSoup
 import requests
 
+# 创建一个锁对象
+lock = threading.Lock()
 # 查找所有符合指定格式的网址
 infoList = []
 urls_y = []
@@ -93,7 +95,6 @@ def worker():
         ipv_url = task_queue.get()
         try:
             # 创建一个Chrome WebDriver实例
-            results = []
             chrome_options = Options()
             chrome_options.add_argument('--headless')
             chrome_options.add_argument('--no-sandbox')
@@ -120,6 +121,9 @@ def worker():
             # 关闭WebDriver
             #driver.quit()
             tables_div = soup.find("div", class_="tables")
+            # 获取锁
+            lock.acquire()
+            results = []
             results = (
                 tables_div.find_all("div", class_="result")
                 if tables_div
@@ -196,6 +200,8 @@ def worker():
                 name = name.replace("台", "")
                 name = name.replace("内蒙卫视", "内蒙古卫视")
                 infoList.append(f"{name},{urlsp}")
+            # 释放锁
+            lock.release()
         except Exception as e:
             print(f"Thread {ipv} caught an exception: {e}")
             
