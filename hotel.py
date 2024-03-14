@@ -10,23 +10,28 @@ import os
 import re
 from bs4 import BeautifulSoup
 
+def modify_urls(url):
+    modified_urls = []
+    ip_start_index = url.find("//") + 2
+    ip_end_index = url.find(":", ip_start_index)
+    base_url = url[:ip_start_index]  # http:// or https://
+    ip_address = url[ip_start_index:ip_end_index]
+    port = url[ip_end_index:]
+    ip_end = "/iptv/live/1000.json?key=txiptv"
+    for i in range(1, 256):
+        modified_ip = f"{ip_address[:-1]}{i}"
+        modified_url = f"{base_url}{modified_ip}{port}{ip_end}"
+        modified_urls.append(modified_url)
+
+    return modified_urls
+    
 # 查找所有符合指定格式的网址
 infoList = []
 urls_y = []
 resultslist = []
 urls = [
-    "http://tonkiang.us/hoteliptv.php?page=1&s=凤凰",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=凤凰",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=揭阳",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=揭阳",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=广州",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=广州",
     "http://tonkiang.us/hoteliptv.php?page=1&s=汕头",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=汕头",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=汕尾",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=汕尾",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=广东"
+    "http://tonkiang.us/hoteliptv.php?page=2&s=汕头"
     ]
 # 初始化计数器为0
 counter = 0
