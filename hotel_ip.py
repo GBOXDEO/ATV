@@ -58,8 +58,8 @@ valid_urls = []
 #   多线程获取可用url
 with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
     futures = []
-    for url in urls:
-        url = url.strip()
+    for ipv in urls:
+        url = ipv.strip()
         modified_urls = modify_urls(url)
         for modified_url in modified_urls:
             futures.append(executor.submit(is_url_accessible, modified_url))
