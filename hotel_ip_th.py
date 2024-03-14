@@ -45,7 +45,7 @@ def modify_urls(url):
     ip_end = ""
     for i in range(1, 256):
         modified_ip = f"{ip_address[:-1]}{i}"
-        modified_url = '27.41.249.205:801' # f"{modified_ip}{port}"
+        modified_url = f"{modified_ip}{port}"
         modified_urls.append(modified_url)
     return modified_urls
 
@@ -89,10 +89,10 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
         print(iplist)
     file.close()
     
-sorted_list = set(resultslist)
+# sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
 
- 
+sorted_list = ["27.41.249.205:801"] 
 def worker():
     while True:
         # 从队列中获取一个任务
