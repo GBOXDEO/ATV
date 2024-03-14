@@ -194,7 +194,6 @@ def open_url(ipv):
     
     driver.quit()  # 关闭浏览器
  
-
 max_workers = 15  # 你想要限制的线程数量
  
 with ThreadPoolExecutor(max_workers=max_workers) as executor:
