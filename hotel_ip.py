@@ -43,8 +43,8 @@ def is_url_accessible(url):
             return url
     except requests.exceptions.RequestException:
         pass
-    return None
-
+    # return None
+    return url
 # 初始化计数器为0
 counter = 0
  
