@@ -23,6 +23,13 @@ resultslist = []
 # 线程安全的队列，用于存储下载任务
 task_queue = Queue()
 
+#判断一个数字是单数还是双数可
+def is_odd_or_even(number):
+    if number % 2 == 0:
+        return True
+    else:
+        return False
+        
 urls = [
     "http://27.41.249.1:801",
     "http://27.41.248.1:801",
