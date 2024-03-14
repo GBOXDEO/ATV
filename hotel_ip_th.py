@@ -45,7 +45,7 @@ def modify_urls(url):
     ip_end = ""
     for i in range(1, 256):
         modified_ip = f"{ip_address[:-1]}{i}"
-        modified_url = f"{modified_ip}{port}"
+        modified_url = '27.41.249.205:801' # f"{modified_ip}{port}"
         modified_urls.append(modified_url)
     return modified_urls
 
@@ -89,7 +89,7 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
         print(iplist)
     file.close()
     
-sorted_list = sorted(resultslist)
+sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
 
  
@@ -107,10 +107,10 @@ def worker():
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            # driver.set_page_load_timeout(15)  # 10秒后超时
+            driver.set_page_load_timeout(30)  # 10秒后超时
      
             # 设置脚本执行超时
-            # driver.set_script_timeout(10)  # 5秒后超时
+            driver.set_script_timeout(25)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
             if is_odd_or_even(random.randint(1, 10)):
@@ -127,7 +127,7 @@ def worker():
             time.sleep(15)
             soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
-            #driver.quit()
+            driver.quit()
             tables_div = soup.find("div", class_="tables")
             # 获取锁
             lock.acquire()
@@ -215,8 +215,6 @@ def worker():
             
         # 减少CPU占用
         time.sleep(0)
-        # 关闭WebDriver
-        driver.quit()
         # 标记任务完成
         task_queue.task_done()
  
