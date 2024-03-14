@@ -34,7 +34,17 @@ def modify_urls(url):
         modified_url = f"{modified_ip}{port}"
         modified_urls.append(modified_url)
     return modified_urls
-    
+
+def is_url_accessible(url):
+    try:
+        response = requests.get(url, timeout=0.4)
+        if response.status_code == 200:
+            return url
+    except requests.exceptions.RequestException:
+        pass
+    # return None
+    return url
+
 # 初始化计数器为0
 counter = 0
  
