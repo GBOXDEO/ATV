@@ -117,13 +117,13 @@ def worker():
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(30)  # 10秒后超时
+            driver.set_page_load_timeout(10)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(25)  # 5秒后超时
+            driver.set_script_timeout(5)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
-            if is_odd_or_even(random.randint(1, 10)):
+            if is_odd_or_even(random.randint(1, 1000)):
                 page_url= f"http://tonkiang.us/9dlist2.php?s={ipv_url}"
             else:
                 page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={ipv_url}"
@@ -134,7 +134,7 @@ def worker():
                     (By.CSS_SELECTOR, "div.tables")
                     )
             )
-            time.sleep(15)
+            # time.sleep(5)
             soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             driver.quit()
@@ -229,7 +229,7 @@ def worker():
         task_queue.task_done()
  
 # 创建多个工作线程
-num_threads = 5
+num_threads = 1
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     t.start()
