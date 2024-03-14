@@ -299,6 +299,13 @@ for ipv in sorted_list:
 # 等待所有任务完成
 task_queue.join()
 
+def channel_key(channel_name):
+    match = re.search(r'\d+', channel_name)
+    if match:
+        return int(match.group())
+    else:
+        return float('inf')  # 返回一个无穷大的数字作为关键字
+        
 # infoList = set(infoList)  # 去重得到唯一的URL列表
 # infoList = sorted(infoList)
 # 对频道进行排序
@@ -310,13 +317,6 @@ with open("myitv.txt", 'w', encoding='utf-8') as file:
         file.write(info + "\n")
         print(info)
     file.close()
-
-def channel_key(channel_name):
-    match = re.search(r'\d+', channel_name)
-    if match:
-        return int(match.group())
-    else:
-        return float('inf')  # 返回一个无穷大的数字作为关键字
 
 result_counter = 8  # 每个频道需要的个数
 with open("cctv.txt", 'w', encoding='utf-8') as file:
