@@ -8,6 +8,7 @@ import time
 import os
 import re
 from bs4 import BeautifulSoup
+import requests
 
 # 查找所有符合指定格式的网址
 infoList = []
