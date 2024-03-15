@@ -296,9 +296,19 @@ for ipv in sorted_list:
 # 等待所有任务完成
 task_queue.join()
 
-        
+ def channel_key(channel_name):
+    match = re.search(r'\d+', channel_name)
+    if match:
+        return int(match.group())
+    else:
+        return float('inf')  # 返回一个无穷大的数字作为关键字
+
+# 对频道进行排序
 infoList = set(infoList)  # 去重得到唯一的URL列表
-infoList = sorted(infoList)
+infoList.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
+infoList.sort(key=lambda x: channel_key(x[0]))       
+
+# infoList = sorted(infoList)
 
 with open("myitv.txt", 'w', encoding='utf-8') as file:
     for info in infoList:
