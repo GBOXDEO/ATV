@@ -31,7 +31,7 @@ def is_odd_or_even(number):
     else:
         return False
 
-urls = [
+urls sorted_list
     "http://27.41.249.1:801"
     ]
 
@@ -91,7 +91,20 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
     file.close()
 
 
-sorted_list = set(resultslist)
+#sorted_list = set(resultslist)
+sorted_list = [
+    "27.41.249.1:801",
+    "27.41.249.3:801",
+    "27.41.249.205:801",
+    "27.41.249.8:801",
+    "27.41.249.1:801",
+    "27.41.249.11:801",
+    "27.41.249.21:801",
+    "27.41.249.31:801",
+    "27.41.249.41:801",
+    "27.41.249.111:801",
+    "27.41.249.221:801"
+]
 #多线程并发查询url并获取数据
 
 def worker(thread_id):
@@ -122,13 +135,14 @@ def worker(thread_id):
                 page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={ipv_url}"
             print(page_url)
             driver.get(page_url)  # 将网址替换为你要访问的网页地址
-            WebDriverWait(driver, 15).until(
-                EC.presence_of_element_located(
-                    (By.CSS_SELECTOR, "div.tables")
-                    )
-            )
-            # time.sleep(random.randint(3, 8))
-            soup = BeautifulSoup(driver.page_source, "html.parser")
+            # 为每个线程创建独立的 WebDriverWait 实例
+            wait = WebDriverWait(driver, 15)
+            # 等待某个元素出现，这里以 id="example" 为例
+            element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.tables")))
+            # 获取数据或执行其他操作
+            soup = element.text
+
+            #soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             # driver.quit()
             tables_div = soup.find("div", class_="tables")
