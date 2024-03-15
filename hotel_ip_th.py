@@ -118,13 +118,13 @@ def worker():
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(20)  # 10秒后超时
+            driver.set_page_load_timeout(30)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(15)  # 5秒后超时
+            driver.set_script_timeout(20)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
-            if is_odd_or_even(random.randint(1, 1000)):
+            if is_odd_or_even(random.randint(1, 6)):
                 page_url= f"http://tonkiang.us/9dlist2.php?s={ipv_url}"
             else:
                 page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={ipv_url}"
@@ -273,7 +273,8 @@ def worker():
                 name = name.replace("汕头台", "汕头综合")
                 name = name.replace("汕头生活", "汕头经济生活")
                 name = name.replace("CCTVCCTV", "CCTV")
-                infoList.append(f"{name},{urlsp}")
+                if "http" in urlsp:
+                    infoList.append(f"{name},{urlsp}")
         except Exception as e:
             print(f"Thread {ipv_url} caught an exception: {e}")
         finally:
