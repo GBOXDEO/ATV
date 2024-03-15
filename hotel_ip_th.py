@@ -68,7 +68,7 @@ def increment_counter():
 
 valid_urls = []
 #   多线程获取可用url
-with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
     futures = []
     for ipv in urls:
         url = ipv.strip()
@@ -94,9 +94,6 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
 sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
 
-#选请求网页文本来判断IP是否有效，因为可以多线程
-
-
 def worker():
     while True:
         # 从队列中获取一个任务
@@ -112,10 +109,10 @@ def worker():
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(30)  # 10秒后超时
+            driver.set_page_load_timeout(15)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(30)  # 5秒后超时
+            driver.set_script_timeout(15)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
             if is_odd_or_even(random.randint(1, 200)):
@@ -280,7 +277,7 @@ def worker():
             
  
 # 创建多个工作线程
-num_threads = 1
+num_threads = 2
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     t.start()
