@@ -96,9 +96,8 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
         print(iplist)
     file.close()
     
-# sorted_list = set(resultslist)
+sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
-
 
 #选请求网页文本来判断IP是否有效，因为可以多线程
 
