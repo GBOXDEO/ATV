@@ -299,13 +299,6 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         executor.submit(worker, i)
 
 
-# 添加下载任务到队列
-for ipv in sorted_list:
-    task_queue.put(ipv)
-
-# 等待所有任务完成
-task_queue.join()
-
 # 对频道进行排序
 infoList = set(infoList)  # 去重得到唯一的URL列表
 infoList = sorted(infoList)
