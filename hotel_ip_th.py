@@ -136,13 +136,13 @@ def worker(thread_id):
             print(page_url)
             driver.get(page_url)  # 将网址替换为你要访问的网页地址
             # 为每个线程创建独立的 WebDriverWait 实例
-            wait = WebDriverWait(driver, 60)
-            # 等待某个元素出现，这里以 id="example" 为例
-            element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.tables")))
-            # 获取数据或执行其他操作
-            soup = element.text
+            WebDriverWait(driver, 40).until(
+                EC.presence_of_element_located(
+                    (By.CSS_SELECTOR, "div.tables")
+                    )
+            )
 
-            #soup = BeautifulSoup(driver.page_source, "html.parser")
+            soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             # driver.quit()
             tables_div = soup.find("div", class_="tables")
