@@ -129,10 +129,10 @@ def worker(thread_id):
         chrome_options.add_argument("blink-settings=imagesEnabled=false")
         driver = webdriver.Chrome(options=chrome_options)
         # 设置页面加载超时
-        driver.set_page_load_timeout(60)  # 10秒后超时
+        driver.set_page_load_timeout(90)  # 10秒后超时
      
         # 设置脚本执行超时
-        driver.set_script_timeout(55)  # 5秒后超时
+        driver.set_script_timeout(80)  # 5秒后超时
         # 使用WebDriver访问网页
         # 取自身线程ID
         if is_odd_or_even(random.randint(1, 200)):
@@ -142,7 +142,7 @@ def worker(thread_id):
         print(page_url)
         driver.get(page_url)  # 将网址替换为你要访问的网页地址
         # 为每个线程创建独立的 WebDriverWait 实例
-        WebDriverWait(driver, 50).until(
+        WebDriverWait(driver, 75).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, "div.tables")
                 )
@@ -280,6 +280,7 @@ def worker(thread_id):
             name = name.replace("汕头三台", "汕头文旅体育")
             name = name.replace("汕头台", "汕头综合")
             name = name.replace("汕头生活", "汕头经济生活")
+            name = name.replace("CCTV8电视", "CCTV8")
             name = name.replace("CCTVCCTV", "CCTV")
             if "http" in urlsp:
                 # 获取锁
@@ -299,7 +300,7 @@ def worker(thread_id):
 
 
 # 创建一个线程池，限制最大线程数为3
-with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
     # 提交任务到线程池，并传入参数
     num_threads = len(sorted_list)
     for i in range(num_threads):  # 假设有5个任务需要执行
