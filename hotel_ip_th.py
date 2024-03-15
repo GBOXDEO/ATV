@@ -52,10 +52,10 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        if is_odd_or_even(random.randint(1, 300)):
-            test_url= f"http://tonkiang.us/9dlist2.php?s={url}"
-        else:
-            test_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={url}"
+        # if is_odd_or_even(random.randint(1, 300)):
+        #    test_url= f"http://tonkiang.us/9dlist2.php?s={url}"
+        # else:
+        test_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={url}"
         print(test_url)
         response = requests.get(test_url, timeout=30)
         time.sleep(random.randint(0, 10))
