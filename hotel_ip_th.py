@@ -359,3 +359,20 @@ with open("ktpd.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     file.close()
+
+with open("ysyl.txt", 'w', encoding='utf-8') as file:
+    channel_counters = {}
+    file.write('【  影视频道  】,#genre#\n')
+    for result in infoList:
+        channel_name, channel_url, speed = result
+        if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name or '戏曲' in channel_name:
+            if channel_name in channel_counters:
+                if channel_counters[channel_name] >= result_counter:
+                    continue
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] += 1
+            else:
+                file.write(f"{channel_name},{channel_url}\n")
+                channel_counters[channel_name] = 1
+    file.close()
