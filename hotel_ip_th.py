@@ -32,7 +32,7 @@ def is_odd_or_even(number):
         return False
 
 urls = [
-    "http://27.41.249.209:801"
+    "http://27.41.249.1:801"
     ]
 
 
@@ -44,7 +44,7 @@ def modify_urls(url):
     ip_address = url[ip_start_index:ip_end_index]
     port = url[ip_end_index:]
     ip_end = ""
-    for i in range(1, 5):
+    for i in range(1, 255):
         modified_ip = f"{ip_address[:-1]}{i}"
         modified_url = f"{modified_ip}{port}"
         modified_urls.append(modified_url)
