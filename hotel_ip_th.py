@@ -305,8 +305,8 @@ for i in range(num_threads):
     t.start()
 
 # 添加下载任务到队列
-for ipv in sorted_list:
-    task_queue.put(ipv)
+for url_put in sorted_list:
+    task_queue.put(url_put)
 
 # 等待所有任务完成
 task_queue.join()
