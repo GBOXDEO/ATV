@@ -123,10 +123,7 @@ def worker():
             driver.set_script_timeout(20)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
-            if is_odd_or_even(random.randint(1, 1000)):
-                page_url= f"http://tonkiang.us/9dlist2.php?s={ipv_url}"
-            else:
-                page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={ipv_url}"
+            page_url= f"http://tonkiang.us/9dlist2.php?s={ipv_url}"
             print(page_url)
             driver.get(page_url)  # 将网址替换为你要访问的网页地址
             WebDriverWait(driver, 10).until(
@@ -310,7 +307,7 @@ with open("cctv.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  央视频道  】,#genre#\n')
     for result in infoList:
-        channel_name, channel_url = result
+        channel_name, channel_url = result.split(',')
         if 'CCTV' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
