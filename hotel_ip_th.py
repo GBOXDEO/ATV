@@ -285,6 +285,7 @@ def worker(thread_id):
             # 标记任务完成
             # time.sleep(0)
             task_queue.task_done()
+            break
             
 # 创建线程列表
 threads = []
