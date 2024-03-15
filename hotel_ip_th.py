@@ -277,10 +277,10 @@ def worker():
         except Exception as e:
             print(f"Thread {ipv_url} caught an exception: {e}")
         finally:
-        # 确保线程结束时关闭WebDriver实例
-        driver.quit() 
-        # 标记任务完成
-        task_queue.task_done()
+            # 确保线程结束时关闭WebDriver实例
+            driver.quit() 
+            # 标记任务完成
+            task_queue.task_done()
  
 # 创建多个工作线程
 num_threads = 1
