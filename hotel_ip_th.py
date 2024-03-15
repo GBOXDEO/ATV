@@ -60,7 +60,7 @@ def is_url_accessible(url):
         response = requests.get(test_url, timeout=30)
         time.sleep(random.randint(0, 10))
         if response.status_code == 200:
-            soup = BeautifulSoup(response.txt, 'html.parser')
+            soup = BeautifulSoup(response, 'html.parser')
             tables = soup.find_all('p')
             print("======================================================================")
             print(tables)
