@@ -102,13 +102,12 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
 
 #多线程并发查询url并获取数据
 
-def worker(thread_id):
-    rul_ip = sorted_list[thread_id]
+def worker(thread_url,counter_id):
     try:
         # 创建一个Chrome WebDriver实例
         results = []
         chrome_options = Options()
-        chrome_options.add_argument(f"user-data-dir=selenium{thread_id}")
+        chrome_options.add_argument(f"user-data-dir=selenium{counter_id}")
         chrome_options.add_argument('--headless')
         chrome_options.add_argument('--no-sandbox')
         chrome_options.add_argument('--disable-dev-shm-usage')
@@ -123,9 +122,9 @@ def worker(thread_id):
         # 使用WebDriver访问网页
         # 取自身线程ID
         if is_odd_or_even(random.randint(1, 200)):
-            page_url= f"http://tonkiang.us/9dlist2.php?s={rul_ip}"
+            page_url= f"http://tonkiang.us/9dlist2.php?s={thread_url}"
         else:
-            page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={rul_ip}"
+            page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={thread_url}"
         print(page_url)
         driver.get(page_url)  # 将网址替换为你要访问的网页地址
         # 为每个线程创建独立的 WebDriverWait 实例
@@ -275,13 +274,13 @@ def worker(thread_id):
                 infoList.append(f"{name},{urlsp}")
                 # 释放锁
                 lock.release()
-        print(f"=========================>>> Thread {ipv_url} save ok")
+        print(f"=========================>>> Thread {thread_url} save ok")
     except Exception as e:
-        print(f"=========================>>> Thread {ipv_url} caught an exception: {e}")
+        print(f"=========================>>> Thread {thread_url} caught an exception: {e}")
     finally:
         # 确保线程结束时关闭WebDriver实例
         driver.quit() 
-        print(f"=========================>>> Thread {ipv_url}  quiting")
+        print(f"=========================>>> Thread {thread_url}  quiting")
         # 标记任务完成
         time.sleep(0)
 
@@ -289,13 +288,9 @@ def worker(thread_id):
 # 创建一个线程池，限制最大线程数为3
 with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
     # 提交任务到线程池，并传入参数
-    num_threads = len(sorted_list)
-    print("+++++++++++++++++++++++++++++++++++++++++++++++++")
-    print(num_threads)
+    counter = increment_counter()
     for i in sorted_list:  # 假设有5个任务需要执行
-        work_url_id = increment_counter()
-        executor.submit(worker, counter)
-
+        executor.submit(worker, i ,counter)
 
 # 对频道进行排序
 infoList = set(infoList)  # 去重得到唯一的URL列表
