@@ -280,12 +280,12 @@ def worker(thread_id):
                     # 获取锁
                     lock.acquire()
                     infoList.append(f"{name},{urlsp}")
+                    # 释放锁
+                    lock.release()
             print("=========================>>> Thread save ok")
         except Exception as e:
             print(f"=========================>>> Thread {ipv_url} caught an exception: {e}")
         finally:
-            # 释放锁
-            lock.release()
             # 确保线程结束时关闭WebDriver实例
             driver.quit() 
             # 标记任务完成
