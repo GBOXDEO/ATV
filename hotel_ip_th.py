@@ -25,6 +25,12 @@ resultslist = []
 # 线程安全的队列，用于存储下载任务
 task_queue = Queue()
 
+def cut_first_chinese_words(text, num=2):
+    for i, char in enumerate(text):
+        if char >= '\u4e00' and char <= '\u9fa5':
+            return text[:i+2]
+    return 'xxxxxxxxxxxxxxxxxx'
+    
 #判断一个数字是单数还是双数可
 def is_odd_or_even(number):
     if number % 2 == 0:
