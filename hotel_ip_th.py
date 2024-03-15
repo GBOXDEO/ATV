@@ -39,7 +39,10 @@ def is_odd_or_even(number):
         return False
 
 urls = [
-    "http://27.41.249.1:801"
+    "http://27.41.249.1:801",
+    "http://183.239.193.1:2223",
+    "http://27.41.248.1:801",
+    "http://183.238.248.1:9000"
     ]
 
 
@@ -300,7 +303,7 @@ def worker(thread_id):
 
 
 # 创建一个线程池，限制最大线程数为3
-with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
     # 提交任务到线程池，并传入参数
     num_threads = len(sorted_list)
     for i in range(num_threads):  # 假设有5个任务需要执行
