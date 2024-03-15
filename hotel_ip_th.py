@@ -41,7 +41,6 @@ def is_odd_or_even(number):
 urls = [
     "http://27.41.249.1:801",
     "http://183.239.193.1:2223",
-    "http://27.41.248.1:801",
     "http://183.238.248.1:9000"
     ]
 
@@ -90,8 +89,9 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
         result = future.result()
         if result:
             valid_urls.append(result)
-
-resultslist = set(valid_urls)    # 去重得到唯一的URL列表
+            
+sorted_list = set(valid_urls)    # 去重得到唯一的URL列表
+resultslist = sort(sorted_list)
 
 with open("iplist.txt", 'w', encoding='utf-8') as file:
     for iplist in resultslist:
@@ -99,9 +99,6 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
         print(iplist)
     file.write(f"{now_today}更新IP组\n")
     file.close()
-
-
-sorted_list = set(resultslist)
 
 #多线程并发查询url并获取数据
 
@@ -290,7 +287,7 @@ def worker(thread_id):
 
 
 # 创建一个线程池，限制最大线程数为3
-with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
     # 提交任务到线程池，并传入参数
     num_threads = len(sorted_list)
     for i in range(num_threads):  # 假设有5个任务需要执行
