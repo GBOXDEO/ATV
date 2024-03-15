@@ -296,7 +296,7 @@ for ipv in sorted_list:
 # 等待所有任务完成
 task_queue.join()
 
- def channel_key(channel_name):
+def channel_key(channel_name):
     match = re.search(r'\d+', channel_name)
     if match:
         return int(match.group())
