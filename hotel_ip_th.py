@@ -117,7 +117,7 @@ def worker():
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(20)  # 10秒后超时
+            driver.set_page_load_timeout(15)  # 10秒后超时
      
             # 设置脚本执行超时
             driver.set_script_timeout(10)  # 5秒后超时
@@ -139,8 +139,6 @@ def worker():
             # 关闭WebDriver
             driver.quit()
             tables_div = soup.find("div", class_="tables")
-            # 获取锁
-            lock.acquire()
             results = []
             results = (
                 tables_div.find_all("div", class_="result")
@@ -276,8 +274,6 @@ def worker():
                 name = name.replace("汕头生活", "汕头经济生活")
                 name = name.replace("CCTVCCTV", "CCTV")
                 infoList.append(f"{name},{urlsp}")
-            # 释放锁
-            lock.release()
         except Exception as e:
             print(f"Thread {ipv_url} caught an exception: {e}")
             
