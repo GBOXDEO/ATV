@@ -123,10 +123,10 @@ def worker(thread_id):
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(30)  # 10秒后超时
+            driver.set_page_load_timeout(60)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(30)  # 5秒后超时
+            driver.set_script_timeout(60)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
             if is_odd_or_even(random.randint(1, 200)):
@@ -136,7 +136,7 @@ def worker(thread_id):
             print(page_url)
             driver.get(page_url)  # 将网址替换为你要访问的网页地址
             # 为每个线程创建独立的 WebDriverWait 实例
-            wait = WebDriverWait(driver, 15)
+            wait = WebDriverWait(driver, 60)
             # 等待某个元素出现，这里以 id="example" 为例
             element = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.tables")))
             # 获取数据或执行其他操作
