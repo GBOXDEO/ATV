@@ -99,8 +99,9 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
     for iplist in resultslist:
         file.write(iplist + "\n")
         print(iplist)
+    file.write(f"{now_today}更新IP组\n")
     file.close()
-file.write(f"{now_today}更新IP组\n")
+
 
 sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
