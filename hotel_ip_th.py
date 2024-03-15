@@ -135,6 +135,8 @@ def worker():
                     )
             )
             time.sleep(5)
+            # 获取锁
+            lock.acquire()
             soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             # driver.quit()
@@ -277,13 +279,15 @@ def worker():
         except Exception as e:
             print(f"Thread {ipv_url} caught an exception: {e}")
         finally:
+            # 释放锁
+            lock.release()
             # 确保线程结束时关闭WebDriver实例
             driver.quit() 
             # 标记任务完成
             task_queue.task_done()
  
 # 创建多个工作线程
-num_threads = 3
+num_threads = 2
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     t.start()
