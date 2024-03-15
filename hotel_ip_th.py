@@ -342,3 +342,20 @@ with open("weishi.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     file.close()
+
+with open("ktpd.txt", 'w', encoding='utf-8') as file:
+    channel_counters = {}
+    file.write('【  卡通频道  】,#genre#\n')
+    for result in infoList:
+        channel_name, channel_url, speed = result
+        if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
+            if channel_name in channel_counters:
+                if channel_counters[channel_name] >= result_counter:
+                    continue
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] += 1
+            else:
+                file.write(f"{channel_name},{channel_url}\n")
+                channel_counters[channel_name] = 1
+    file.close()
