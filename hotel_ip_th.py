@@ -282,7 +282,7 @@ def worker():
             task_queue.task_done()
  
 # 创建多个工作线程
-num_threads = 2
+num_threads = 1
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     t.start()
