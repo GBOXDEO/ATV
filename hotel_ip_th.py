@@ -411,7 +411,6 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
                     file.write(f"{channel_name},{channel_url}\n")
                     channel_counters[channel_name] = 1
     file.close()                
-print(f"{now_today}其他频道更新完成")
 
 # 合并文件内容
 file_contents = []
