@@ -109,7 +109,8 @@ sorted_list = [
 #多线程并发查询url并获取数据
 
 def worker(thread_id):
-    while True:
+    kil = True
+    if kil:
         # 从队列中获取一个任务
         ipv_url = task_queue.get()
         try:
@@ -292,7 +293,6 @@ def worker(thread_id):
             # 标记任务完成
             # time.sleep(0)
             task_queue.task_done()
-            break
             
 # 创建线程列表
 threads = []
