@@ -32,7 +32,7 @@ def is_odd_or_even(number):
         return False
 
 urls = [
-    "http://27.41.249.54:801"
+    "http://27.41.249.209:801"
     ]
 
 
@@ -44,7 +44,7 @@ def modify_urls(url):
     ip_address = url[ip_start_index:ip_end_index]
     port = url[ip_end_index:]
     ip_end = ""
-    for i in range(1, 2):
+    for i in range(1, 5):
         modified_ip = f"{ip_address[:-1]}{i}"
         modified_url = f"{modified_ip}{port}"
         modified_urls.append(modified_url)
@@ -57,8 +57,8 @@ def is_url_accessible(url):
         else:
             test_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={url}"
         print(test_url)
-        time.sleep(random.randint(0, 10))
         response = requests.get(test_url, timeout=30)
+        time.sleep(random.randint(0, 10))
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             paragraphs = soup.find_all('tables')
