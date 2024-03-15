@@ -126,7 +126,7 @@ def worker():
                     (By.CSS_SELECTOR, "div.tables")
                     )
             )
-            time.sleep(random.randint(3, 8))
+            # time.sleep(random.randint(3, 8))
             soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             # driver.quit()
@@ -151,12 +151,8 @@ def worker():
                 #－－－－－
                 #print("-------------------------------------------------------------------------------------------------------")
                 name =f"{url_name}"
-                if len(name) == 0:
-                    name = "Err画中画"
                 #print(name)
-                urlsp =f"{url_int}"
-                if len(urlsp) == 0:
-                    urlsp = "rtp://127.0.0.1"             
+                urlsp =f"{url_int}"        
                 print(f"{url_name}\t{url_int}")
                 #print("-------------------------------------------------------------------------------------------------------")
                 urlsp = urlsp.replace("http://67.211.73.118:9901", "")
