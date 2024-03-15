@@ -288,10 +288,11 @@ def worker(thread_id):
         finally:
             # 确保线程结束时关闭WebDriver实例
             driver.quit() 
+            print("=========================>>> Thread quiting")
             # 标记任务完成
             # time.sleep(0)
             task_queue.task_done()
-            print("=========================>>> Thread quiting")
+
             break
             
 # 创建线程列表
