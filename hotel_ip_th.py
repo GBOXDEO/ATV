@@ -15,7 +15,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 
-
+now_today = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 guangdong_text = "东莞中山佛山顺德南海宝安岭南广东广州广视揭西揭阳汕头汕尾江门海豚深圳清远龙岗湛江潮州珠江粤语肇庆茂名韶关南方"
 # 查找所有符合指定格式的网址
 infoList = []
@@ -52,7 +52,12 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        response = requests.get(url, timeout=30)
+        if is_odd_or_even(random.randint(1, 300)):
+            test_url= f"http://tonkiang.us/9dlist2.php?s={url}"
+        else:
+            test_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={url}"
+        print(test_url)
+        response = requests.get(test_url, timeout=30)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
             paragraphs = soup.find_all('p')
@@ -95,7 +100,8 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
         file.write(iplist + "\n")
         print(iplist)
     file.close()
-    
+file.write(f"{now_today}更新IP组\n")
+
 sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
 
@@ -123,7 +129,7 @@ def worker():
             driver.set_script_timeout(30)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
-            if is_odd_or_even(random.randint(1, 6)):
+            if is_odd_or_even(random.randint(1, 200)):
                 page_url= f"http://tonkiang.us/9dlist2.php?s={ipv_url}"
             else:
                 page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={ipv_url}"
