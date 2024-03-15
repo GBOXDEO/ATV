@@ -32,7 +32,7 @@ def is_odd_or_even(number):
         return False
 
 urls = [
-    "http://27.41.249.1:801"
+    "http://27.41.249.54:801"
     ]
 
 
@@ -44,7 +44,7 @@ def modify_urls(url):
     ip_address = url[ip_start_index:ip_end_index]
     port = url[ip_end_index:]
     ip_end = ""
-    for i in range(1, 256):
+    for i in range(1, 2):
         modified_ip = f"{ip_address[:-1]}{i}"
         modified_url = f"{modified_ip}{port}"
         modified_urls.append(modified_url)
@@ -57,10 +57,14 @@ def is_url_accessible(url):
         else:
             test_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={url}"
         print(test_url)
+        time.sleep(random.randint(0, 10))
         response = requests.get(test_url, timeout=30)
         if response.status_code == 200:
-            print(response.text)
-            if "源暂时失效" not in response.text:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            paragraphs = soup.find_all("div", class_="tables")
+            print("======================================================================")
+            print(paragraphs)
+            if "源暂时失效" not in paragraphs:
                 return url
             else:
                 return None
@@ -79,7 +83,7 @@ def increment_counter():
 
 valid_urls = []
 #   多线程获取可用url
-with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
     futures = []
     for ipv in urls:
         url = ipv.strip()
