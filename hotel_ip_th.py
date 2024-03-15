@@ -122,7 +122,7 @@ def worker():
             driver.set_page_load_timeout(30)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(20)  # 5秒后超时
+            driver.set_script_timeout(30)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
             if is_odd_or_even(random.randint(1, 6)):
@@ -331,7 +331,7 @@ with open("weishi.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  卫视频道  】,#genre#\n')
     for result in infoList:
-        channel_name, channel_url, speed = result
+        channel_name, channel_url = result
         if '卫视' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -348,7 +348,7 @@ with open("ktpd.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  卡通频道  】,#genre#\n')
     for result in infoList:
-        channel_name, channel_url, speed = result
+        channel_name, channel_url = result
         if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -365,7 +365,7 @@ with open("ysyl.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  影视频道  】,#genre#\n')
     for result in infoList:
-        channel_name, channel_url, speed = result
+        channel_name, channel_url = result
         if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name or '戏曲' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -382,7 +382,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  广东频道  】,#genre#\n')
     for result in infoList:
-        channel_name, channel_url, speed = result
+        channel_name, channel_url = result
         if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
             if cut_first_chinese_words(channel_name) in guangdong_text:
                 if channel_name in channel_counters:
@@ -398,7 +398,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  其他频道  】,#genre#\n')
     for result in infoList:
-        channel_name, channel_url, speed = result
+        channel_name, channel_url = result
         if '戏曲' not in channel_name and '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
             if cut_first_chinese_words(channel_name) not in guangdong_text:
                 if channel_name in channel_counters:
