@@ -325,8 +325,8 @@ result_counter = 8  # 每个频道需要的个数
 with open("cctv.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  央视频道  】,#genre#\n')
-    for result in infoList:
-        channel_name, channel_url = result.split(',')
+    for info in infoList:
+        channel_name, channel_url = info.split(',')
         if 'CCTV' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -342,8 +342,8 @@ with open("cctv.txt", 'w', encoding='utf-8') as file:
 with open("weishi.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  卫视频道  】,#genre#\n')
-    for result in infoList:
-        channel_name, channel_url = result
+    for info in infoList:
+        channel_name, channel_url = info.split(',')
         if '卫视' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -359,8 +359,8 @@ with open("weishi.txt", 'w', encoding='utf-8') as file:
 with open("ktpd.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  卡通频道  】,#genre#\n')
-    for result in infoList:
-        channel_name, channel_url = result
+    for info in infoList:
+        channel_name, channel_url = info.split(',')
         if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -376,8 +376,8 @@ with open("ktpd.txt", 'w', encoding='utf-8') as file:
 with open("ysyl.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  影视频道  】,#genre#\n')
-    for result in infoList:
-        channel_name, channel_url = result
+    for info in infoList:
+        channel_name, channel_url = info.split(',')
         if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name or '戏曲' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
@@ -393,8 +393,8 @@ with open("ysyl.txt", 'w', encoding='utf-8') as file:
 with open("qita.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
     file.write('【  广东频道  】,#genre#\n')
-    for result in infoList:
-        channel_name, channel_url = result
+    for info in infoList:
+        channel_name, channel_url = info.split(',')
         if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
             if cut_first_chinese_words(channel_name) in guangdong_text:
                 if channel_name in channel_counters:
@@ -409,8 +409,8 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
     # 写入其他频道
     channel_counters = {}
     file.write('【  其他频道  】,#genre#\n')
-    for result in infoList:
-        channel_name, channel_url = result
+    for info in infoList:
+        channel_name, channel_url = info.split(',')
         if '戏曲' not in channel_name and '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
             if cut_first_chinese_words(channel_name) not in guangdong_text:
                 if channel_name in channel_counters:
