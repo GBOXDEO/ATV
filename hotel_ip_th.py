@@ -15,6 +15,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 
+
 guangdong_text = "东莞中山佛山顺德南海宝安岭南广东广州广视揭西揭阳汕头汕尾江门海豚深圳清远龙岗湛江潮州珠江粤语肇庆茂名韶关南方"
 # 查找所有符合指定格式的网址
 infoList = []
@@ -34,6 +35,7 @@ urls = [
     "http://27.41.249.1:801"
     ]
 
+
 def modify_urls(url):
     modified_urls = []
     ip_start_index = url.find("//") + 2
@@ -50,13 +52,18 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        response = requests.get(url, timeout=0.4)
+        response = requests.get(url, timeout=30)
         if response.status_code == 200:
-            return url
+            soup = BeautifulSoup(response.text, 'html.parser')
+            paragraphs = soup.find_all('p')
+            for paragraph in paragraphs:
+                print("=========================================================================================")
+                print(paragraph)
+                return url
     except requests.exceptions.RequestException:
         pass
-    # return None
-    return url
+    return None
+    # return url
 # 初始化计数器为0
 counter = 0
  
@@ -68,7 +75,7 @@ def increment_counter():
 
 valid_urls = []
 #   多线程获取可用url
-with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
     futures = []
     for ipv in urls:
         url = ipv.strip()
@@ -82,6 +89,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
             valid_urls.append(result)
 
 resultslist = set(valid_urls)    # 去重得到唯一的URL列表
+
 with open("iplist.txt", 'w', encoding='utf-8') as file:
     for iplist in resultslist:
         file.write(iplist + "\n")
@@ -91,19 +99,10 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
 # sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
 
-sorted_list = [
-    "239.77.1.12:5146",
-    "27.41.249.1:801",
-    "27.41.249.2:801",
-    "27.41.249.3:801",
-    "27.41.249.4:801",
-    "183.239.193.55:2223",
-    "27.41.249.5:801",
-    "27.41.249.6:801",
-    "27.41.249.7:801",
-    "27.41.249.205:801",
-    "27.41.249.8:801"
-] 
+
+#选请求网页文本来判断IP是否有效，因为可以多线程
+
+
 def worker():
     while True:
         # 从队列中获取一个任务
