@@ -61,7 +61,7 @@ def is_url_accessible(url):
         response = requests.get(test_url, timeout=30)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, 'html.parser')
-            paragraphs = soup.find_all("div", class_="tables")
+            paragraphs = soup.find_all('tables')
             print("======================================================================")
             print(paragraphs)
             if "源暂时失效" not in paragraphs:
