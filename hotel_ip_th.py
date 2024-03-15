@@ -376,3 +376,54 @@ with open("ysyl.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
     file.close()
+
+with open("qita.txt", 'w', encoding='utf-8') as file:
+    channel_counters = {}
+    file.write('【  广东频道  】,#genre#\n')
+    for result in infoList:
+        channel_name, channel_url, speed = result
+        if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
+            if cut_first_chinese_words(channel_name) in guangdong_text:
+                if channel_name in channel_counters:
+                    if channel_counters[channel_name] >= result_counter:
+                        continue
+                    else:
+                        file.write(f"{channel_name},{channel_url}\n")
+                        channel_counters[channel_name] += 1
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] = 1
+    # 写入其他频道
+    channel_counters = {}
+    file.write('【  其他频道  】,#genre#\n')
+    for result in infoList:
+        channel_name, channel_url, speed = result
+        if '戏曲' not in channel_name and '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
+            if cut_first_chinese_words(channel_name) not in guangdong_text:
+                if channel_name in channel_counters:
+                    if channel_counters[channel_name] >= result_counter:
+                        continue
+                    else:
+                        file.write(f"{channel_name},{channel_url}\n")
+                        channel_counters[channel_name] += 1
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] = 1
+    file.close()                
+print(f"{now_today}其他频道更新完成")
+
+# 合并文件内容
+file_contents = []
+file_paths = ["cctv.txt", "weishi.txt", "ktpd.txt", "ysyl.txt","xiangang.txt", "qita.txt", "IPV6.txt"]  # 替换为实际的文件路径列表
+for file_path in file_paths:
+    with open(file_path, 'r', encoding="utf-8") as file:
+        content = file.read()
+        file_contents.append(content)
+        file.close()
+
+# print(f"{now_today}合并文件完成")
+
+# 写入合并后的文件
+with open("itvlist.txt", "w", encoding="utf-8") as output:
+    output.write('\n'.join(file_contents))
+    output.close()
