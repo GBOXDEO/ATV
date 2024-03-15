@@ -61,7 +61,7 @@ def is_url_accessible(url):
         time.sleep(random.randint(0, 10))
         if response.status_code == 200:
             soup = BeautifulSoup(response.txt, 'html.parser')
-            tables = soup.find_all('div', attrs={'class': 'tables'})
+            tables = soup.find_all('p')
             print("======================================================================")
             print(tables)
             if "源暂时失效" not in tables:
