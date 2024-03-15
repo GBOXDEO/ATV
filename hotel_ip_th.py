@@ -31,7 +31,7 @@ def is_odd_or_even(number):
     else:
         return False
 
-urls sorted_list
+urls = [
     "http://27.41.249.1:801"
     ]
 
