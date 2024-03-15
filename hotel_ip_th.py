@@ -286,7 +286,7 @@ def worker(thread_id):
     finally:
         # 确保线程结束时关闭WebDriver实例
         driver.quit() 
-         print("=========================>>> Thread {ipv_url}  quiting")
+        print("=========================>>> Thread {ipv_url}  quiting")
         # 标记任务完成
         time.sleep(0)
 
