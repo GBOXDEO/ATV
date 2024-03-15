@@ -94,7 +94,7 @@ with open("iplist.txt", 'w', encoding='utf-8') as file:
 sorted_list = set(resultslist)
 #多线程并发查询url并获取数据
 
-def worker():
+def worker(thread_id):
     while True:
         # 从队列中获取一个任务
         ipv_url = task_queue.get()
