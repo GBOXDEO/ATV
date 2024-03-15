@@ -67,7 +67,7 @@ def is_url_accessible(url):
     # return None
     return url
 # 初始化计数器为0
-counter = 0
+counter = -1
  
 # 每次调用该函数时将计数器加1并返回结果
 def increment_counter():
@@ -287,11 +287,12 @@ def worker(thread_id):
 
 
 # 创建一个线程池，限制最大线程数为3
-with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=30) as executor:
     # 提交任务到线程池，并传入参数
-    num_threads = len(sorted_list)
-    for i in range(num_threads):  # 假设有5个任务需要执行
-        executor.submit(worker, i)
+    # num_threads = len(sorted_list)
+    for i in sorted_list:  # 假设有5个任务需要执行
+        work_url_id = increment_counter()
+        executor.submit(worker, counter)
 
 
 # 对频道进行排序
