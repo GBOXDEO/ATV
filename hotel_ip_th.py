@@ -15,6 +15,7 @@ import re
 from bs4 import BeautifulSoup
 import requests
 
+lock = threading.Lock()
 now_today = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 guangdong_text = "东莞中山佛山顺德南海宝安岭南广东广州广视揭西揭阳汕头汕尾江门海豚深圳清远龙岗湛江潮州珠江粤语肇庆茂名韶关南方"
 # 查找所有符合指定格式的网址
@@ -123,10 +124,10 @@ def worker(thread_id):
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(60)  # 10秒后超时
+            driver.set_page_load_timeout(30)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(60)  # 5秒后超时
+            driver.set_script_timeout(30)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
             if is_odd_or_even(random.randint(1, 200)):
@@ -136,12 +137,11 @@ def worker(thread_id):
             print(page_url)
             driver.get(page_url)  # 将网址替换为你要访问的网页地址
             # 为每个线程创建独立的 WebDriverWait 实例
-            WebDriverWait(driver, 40).until(
+            WebDriverWait(driver, 30).until(
                 EC.presence_of_element_located(
                     (By.CSS_SELECTOR, "div.tables")
                     )
             )
-
             soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             # driver.quit()
@@ -154,8 +154,9 @@ def worker(thread_id):
             if not any(
                 result.find("div", class_="m3u8") for result in results
             ):
-                break
+                # break
                 print("Err-------------------------------------------------------------------------------------------------------")
+                result_break = 10 / 0
             for result in results:
                 #print(result)
                 m3u8_div = result.find("div", class_="m3u8")
@@ -276,15 +277,21 @@ def worker(thread_id):
                 name = name.replace("汕头生活", "汕头经济生活")
                 name = name.replace("CCTVCCTV", "CCTV")
                 if "http" in urlsp:
+                    # 获取锁
+                    lock.acquire()
                     infoList.append(f"{name},{urlsp}")
+            print("=========================>>> Thread save ok")
         except Exception as e:
-            print(f"Thread {ipv_url} caught an exception: {e}")
+            print(f"=========================>>> Thread {ipv_url} caught an exception: {e}")
         finally:
+            # 释放锁
+            lock.release()
             # 确保线程结束时关闭WebDriver实例
             driver.quit() 
             # 标记任务完成
             # time.sleep(0)
             task_queue.task_done()
+            print("=========================>>> Thread quiting")
             break
             
 # 创建线程列表
