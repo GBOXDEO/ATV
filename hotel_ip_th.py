@@ -15,8 +15,6 @@ import re
 from bs4 import BeautifulSoup
 import requests
 
-# 创建一个锁对象
-lock = threading.Lock()
 # 查找所有符合指定格式的网址
 infoList = []
 urls_y = []
@@ -134,9 +132,7 @@ def worker():
                     (By.CSS_SELECTOR, "div.tables")
                     )
             )
-            time.sleep(5)
-            # 获取锁
-            lock.acquire()
+            time.sleep(random.randint(3, 8))
             soup = BeautifulSoup(driver.page_source, "html.parser")
             # 关闭WebDriver
             # driver.quit()
@@ -279,8 +275,6 @@ def worker():
         except Exception as e:
             print(f"Thread {ipv_url} caught an exception: {e}")
         finally:
-            # 释放锁
-            lock.release()
             # 确保线程结束时关闭WebDriver实例
             driver.quit() 
             # 标记任务完成
