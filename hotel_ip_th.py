@@ -299,7 +299,7 @@ def worker(thread_id):
 
 
 # 创建一个线程池，限制最大线程数为3
-with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
     # 提交任务到线程池，并传入参数
     num_threads = len(sorted_list)
     for i in range(num_threads):  # 假设有5个任务需要执行
