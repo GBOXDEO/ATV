@@ -52,26 +52,11 @@ def modify_urls(url):
 
 def is_url_accessible(url):
     try:
-        # if is_odd_or_even(random.randint(1, 300)):
-        #    test_url= f"http://tonkiang.us/9dlist2.php?s={url}"
-        # else:
-        test_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={url}"
-        print(test_url)
-        response = requests.get(test_url, timeout=30)
-        time.sleep(random.randint(0, 10))
-        if response.status_code == 200:
-            soup = BeautifulSoup(response, 'html.parser')
-            tables = soup.find_all('p')
-            print("======================================================================")
-            print(tables)
-            if "源暂时失效" not in tables:
-                return url
-            else:
-                return None
+        return url
     except requests.exceptions.RequestException:
         pass
-    return None
-    # return url
+    # return None
+    return url
 # 初始化计数器为0
 counter = 0
  
