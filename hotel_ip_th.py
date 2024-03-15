@@ -154,7 +154,7 @@ def worker(thread_id):
             if not any(
                 result.find("div", class_="m3u8") for result in results
             ):
-                #break
+                break
                 print("Err-------------------------------------------------------------------------------------------------------")
             for result in results:
                 #print(result)
@@ -283,7 +283,7 @@ def worker(thread_id):
             # 确保线程结束时关闭WebDriver实例
             driver.quit() 
             # 标记任务完成
-            time.sleep(0)
+            # time.sleep(0)
             task_queue.task_done()
             
 # 创建线程列表
