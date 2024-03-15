@@ -63,7 +63,8 @@ def is_url_accessible(url):
             paragraphs = soup.find_all('p')
             for paragraph in paragraphs:
                 print("=========================================================================================")
-                print(utf8_bytes.decode(paragraph))
+                utf8_name =f"{paragraph}"
+                print(utf8_name)
                 return url
     except requests.exceptions.RequestException:
         pass
