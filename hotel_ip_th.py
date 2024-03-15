@@ -102,6 +102,7 @@ def worker():
             # 创建一个Chrome WebDriver实例
             results = []
             chrome_options = Options()
+            chrome_options.add_argument(f"user-data-dir=selenium{thread_id}")
             chrome_options.add_argument('--headless')
             chrome_options.add_argument('--no-sandbox')
             chrome_options.add_argument('--disable-dev-shm-usage')
@@ -109,10 +110,10 @@ def worker():
             chrome_options.add_argument("blink-settings=imagesEnabled=false")
             driver = webdriver.Chrome(options=chrome_options)
             # 设置页面加载超时
-            driver.set_page_load_timeout(15)  # 10秒后超时
+            driver.set_page_load_timeout(30)  # 10秒后超时
      
             # 设置脚本执行超时
-            driver.set_script_timeout(15)  # 5秒后超时
+            driver.set_script_timeout(30)  # 5秒后超时
             # 使用WebDriver访问网页
             # 取自身线程ID
             if is_odd_or_even(random.randint(1, 200)):
@@ -271,11 +272,14 @@ def worker():
             time.sleep(0)
             task_queue.task_done()
             
- 
+# 创建线程列表
+threads = []
+
 # 创建多个工作线程
-num_threads = 2
-for _ in range(num_threads):
-    t = threading.Thread(target=worker, daemon=True) 
+num_threads = 5
+for i in range(num_threads):
+    t = threading.Thread(target=worker, args=(i,)) 
+    threads.append(t)
     t.start()
 
 # 添加下载任务到队列
