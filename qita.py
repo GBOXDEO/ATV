@@ -37,7 +37,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
             if line:
                 channel_name, channel_url = line.split(',')
                 # if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
-                if cut_first_chinese_words(channel_name) in all_text_text:
+                if cut_first_chinese_words(channel_name) in all_text:
                     channels.append((channel_name, channel_url))
     file.close()
 # 定义工作线程函数
@@ -179,7 +179,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
     for result in results:
         channel_name, channel_url, speed = result
         if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
-            if cut_first_chinese_words(channel_name) not in all_text_text:
+            if cut_first_chinese_words(channel_name) not in all_text:
                 if channel_name in channel_counters:
                     if channel_counters[channel_name] >= result_counter:
                         continue
