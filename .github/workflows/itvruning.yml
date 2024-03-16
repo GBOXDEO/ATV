@@ -1,50 +1,25 @@
-name: itv runing
-
+name: Run FFmpeg with Python
 on:
-  #schedule:
-  #  - cron: '0 3,8,13,18,23 * * *'
-  # 手动运行
-  workflow_dispatch:
-  
+  push:
+    branches:
+      - main
 jobs:
-  build:
+  run-ffmpeg:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v2
-    
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install selenium requests futures eventlet
-
-      - name: Run itv
-        run: python ${{ github.workspace }}/itv.py
-
-      - name: Run cctv
-        run: python ${{ github.workspace }}/cctv.py
-          
-      - name: Run weishi
-        run: python ${{ github.workspace }}/weishi.py
-          
-      - name: Run ktpd
-        run: python ${{ github.workspace }}/ktpd.py
-          
-      - name: Run ysyl
-        run: python ${{ github.workspace }}/ysyl.py
-             
-      - name: Run qita
-        run: python ${{ github.workspace }}/qita.py
-        
-      - name: 提交更改
         run: |
-          git config --local user.name "GBOXDEO" 
-          git config --local user.email "g832@qq.com"
-          git add .
-          git commit *.txt -m "Add generated file"
-          #git pull --rebase
-          git push -f
+          python -m pip install --upgrade pip
+          pip install ffmpeg-python
+
+      - name: Run FFmpeg command with Python
+        run: |
+          python ffmpeg.py
