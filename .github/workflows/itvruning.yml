@@ -1,8 +1,7 @@
 name: Run FFmpeg with Python
 on:
-  push:
-    branches:
-      - main
+  # 手动运行
+  workflow_dispatch:
 jobs:
   run-ffmpeg:
     runs-on: ubuntu-latest
