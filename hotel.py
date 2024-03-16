@@ -32,7 +32,7 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=2&s=广东"
     ]
 # 初始化计数器为0
-counter = 0
+counter = -1
  
 # 每次调用该函数时将计数器加1并返回结果
 def increment_counter():
