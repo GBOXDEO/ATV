@@ -14,7 +14,6 @@ import threading
 
 lock = threading.Lock()
 # 查找所有符合指定格式的网址
-# http://foodieguide.com/iptvsearch/hoteliptv.php?page=1&s=
 infoList = []
 urls_y = []
 resultslist = []
@@ -23,17 +22,16 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=2&s=凤凰",
     "http://tonkiang.us/hoteliptv.php?page=1&s=揭阳",
     "http://tonkiang.us/hoteliptv.php?page=2&s=揭阳",
-    "http://foodieguide.com/iptvsearch/hoteliptv.php?page=1&s=广州",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=广州",
     "http://tonkiang.us/hoteliptv.php?page=2&s=广州",
     "http://tonkiang.us/hoteliptv.php?page=1&s=汕头",
     "http://tonkiang.us/hoteliptv.php?page=2&s=汕头",
-    "http://foodieguide.com/iptvsearch/hoteliptv.php?page=1&s=汕尾",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=汕尾",
     "http://tonkiang.us/hoteliptv.php?page=2&s=汕尾",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=深圳",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=浙江",
-    "http://foodieguide.com/iptvsearch/hoteliptv.php?page=1&s=北京",
-    "http://foodieguide.com/iptvsearch/hoteliptv.php?page=1&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=广东"
+    "http://tonkiang.us/hoteliptv.php?page=1&s=广东",
+    "http://tonkiang.us/hoteliptv.php?page=2&s=广东",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=北京",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=浙江"
     ]
 # 初始化计数器为0
 counter = -1
@@ -60,14 +58,12 @@ for url in urls:
     chrome_options.add_experimental_option("useAutomationExtension", False)
     chrome_options.add_argument("blink-settings=imagesEnabled=false")
     driver = webdriver.Chrome(options=chrome_options)
-    # 设置页面加载超时
     driver.set_page_load_timeout(60)  # 10秒后超时
-     
     # 设置脚本执行超时
     driver.set_script_timeout(50)  # 5秒后超时
     # 使用WebDriver访问网页
     driver.get(url)  # 将网址替换为你要访问的网页地址
-    time.sleep(0)
+    time.sleep(20)
     # 获取网页内容
     page_content = driver.page_source
 
