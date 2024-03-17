@@ -118,12 +118,29 @@ for file_path in file_paths:
         file.close()
 
 # print(f"{now_today}合并文件完成")
-
 # 写入合并后的文件
 with open("itv.txt", "w", encoding="utf-8") as output:
     output.write('\n'.join(file_contents))
     output.close()
 
+results = []
+with open("itv.txt", 'r', encoding='utf-8') as file:
+    lines = file.readlines()
+    for line in lines:
+        line = line.strip()
+        count = line.count(',')
+        if count == 1:
+            if line:
+                channel_name, channel_url = line.split(',')
+                results.append(f"{channel_name},{channel_url}")
+                
+results = set(results)  # 去重得到唯一的URL列表
+results = sorted(results)
+with open("itv.txt", 'w', encoding='utf-8') as file:
+    for result in results:
+        channel_name, channel_url = result.split(',')
+        file.write(f"{channel_name},{channel_url}\n")
+    file.close()
 
 results = []
 channels = []
