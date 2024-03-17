@@ -36,11 +36,11 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
-                # if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
-                if cut_first_chinese_words(channel_name) in all_text:
-                    channels.append((channel_name, channel_url))
-                else:
-                    qita_channels.append(f"{channel_name},{channel_url}\n")
+                if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '电影' not in channel_name and '影院' not in channel_name and '剧场' not in channel_name and '影视' not in channel_name and '卡通' not in channel_name and '动漫' not in channel_name and '动画' not in channel_name and '少儿' not in channel_name:
+                    if cut_first_chinese_words(channel_name) in all_text:
+                        channels.append((channel_name, channel_url))
+                    else:
+                        qita_channels.append(f"{channel_name},{channel_url}")
     file.close()
 
 # 写入未用的其他频道
