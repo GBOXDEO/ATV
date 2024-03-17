@@ -91,6 +91,7 @@ with open("myitv.txt", 'r', encoding='utf-8') as file:
                 name = name.replace("汕头三台", "汕头文旅体育")
                 name = name.replace("汕头台", "汕头综合")
                 name = name.replace("汕头生活", "汕头经济生活")
+                name = name.replace("汕头文化", "汕头文旅体育")
                 name = name.replace("揭西台", "揭西")
                 name = name.replace("揭阳台", "揭阳综合")
                 urlright = channel_url[:4]
