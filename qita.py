@@ -43,10 +43,14 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
                     qita_channels.append((channel_name, channel_url))
     file.close()
 
-# 写入其他频道 
-with open("qita_all.txt", "w", encoding="utf-8") as output:
-    output.write('\n'.join(qita_channels))
-    output.close()
+# 写入未用的其他频道
+qita_channels = set(qita_channels)  # 去重得到唯一的URL列表
+qita_channels = sorted(qita_channels)
+with open("qita_all.txt", "w", encoding="utf-8") as file:
+    for result in qita_channels:
+        channel_name, channel_url = result.split(',')
+        file.write(f"{channel_name},{channel_url}\n")
+    file.close()
     
 # 定义工作线程函数
 def worker():
