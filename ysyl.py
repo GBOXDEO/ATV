@@ -93,6 +93,7 @@ def worker():
             except:
                 # 无法连接并超时的情况下输出“X”
                 print(f'X\t{channel_url}')
+
         
         # 减少CPU占用
         time.sleep(0)
