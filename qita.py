@@ -40,7 +40,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
                 if cut_first_chinese_words(channel_name) in all_text:
                     channels.append((channel_name, channel_url))
                 else:
-                    qita_channels.append((channel_name, channel_url))
+                    qita_channels.append(f"{channel_name},{channel_url}\n")
     file.close()
 
 # 写入未用的其他频道
