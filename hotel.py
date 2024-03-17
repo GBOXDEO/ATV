@@ -28,6 +28,8 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=2&s=汕头",
     "http://tonkiang.us/hoteliptv.php?page=1&s=汕尾",
     "http://tonkiang.us/hoteliptv.php?page=2&s=汕尾",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=深圳",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=成都",
     "http://tonkiang.us/hoteliptv.php?page=1&s=广东",
     "http://tonkiang.us/hoteliptv.php?page=2&s=广东"
     ]
