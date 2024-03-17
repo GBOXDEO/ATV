@@ -94,6 +94,7 @@ with open("myitv.txt", 'r', encoding='utf-8') as file:
                 name = name.replace("汕头文化", "汕头文旅体育")
                 name = name.replace("揭西台", "揭西")
                 name = name.replace("揭阳台", "揭阳综合")
+                name = name.replace("风云音乐", "音乐风云")
                 urlright = channel_url[:4]
                 if urlright == 'http':
                     if '画中画' not in channel_name and '单音' not in channel_name and '直播' not in channel_name and '测试' not in channel_name and '主视' not in channel_name:
