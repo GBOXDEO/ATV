@@ -34,6 +34,8 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=2&s=新闻",
     "http://tonkiang.us/hoteliptv.php?page=1&s=综合",
     "http://tonkiang.us/hoteliptv.php?page=2&s=综合",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=北京",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=上海",
     "http://tonkiang.us/hoteliptv.php?page=1&s=香港",
     "http://tonkiang.us/hoteliptv.php?page=2&s=香港"
     ]
