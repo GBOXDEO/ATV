@@ -103,16 +103,8 @@ with open("myitv.txt", 'r', encoding='utf-8') as file:
                             results.append(f"{name},{channel_url}")
     file.close()
 
-def channel_key(channel_name):
-    match = re.search(r'\d+', channel_name)
-    if match:
-        return int(match.group())
-    else:
-        return float('inf')  # 返回一个无穷大的数字作为关键字
-
-# 对频道进行排序
-results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
-#results.sort(key=lambda x: channel_key(x[0]))
+results = set(results)  # 去重得到唯一的URL列表
+results = sorted(results)
 
 with open("newitv.txt", 'w', encoding='utf-8') as file:
     for result in results:
