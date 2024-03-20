@@ -19,7 +19,7 @@ results = []
 
 channels = []
 error_channels = []
-headers={'User-Agent': 'okhttp/3.15 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'}
+headers={'User-Agent': 'okhttp/3.15 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'}
 se=requests.Session()
 
 with open("myitv.txt", 'r', encoding='utf-8') as file:
