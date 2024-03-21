@@ -48,7 +48,7 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=1&s=河南",
     "http://tonkiang.us/hoteliptv.php?page=1&s=陕西",
     "http://tonkiang.us/hoteliptv.php?page=1&s=厦门",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=厦门",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=电信",
     "http://tonkiang.us/hoteliptv.php?page=1&s=美国"
     ]
 # 初始化计数器为0
