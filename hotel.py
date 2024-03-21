@@ -21,7 +21,7 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=1&s=凤凰",
     "http://tonkiang.us/hoteliptv.php?page=2&s=凤凰",
     "http://tonkiang.us/hoteliptv.php?page=1&s=揭阳",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=山东",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=湖南",
     "http://tonkiang.us/hoteliptv.php?page=1&s=珠海",
     "http://tonkiang.us/hoteliptv.php?page=1&s=广州",
     "http://tonkiang.us/hoteliptv.php?page=2&s=广州",
