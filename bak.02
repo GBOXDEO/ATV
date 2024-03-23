@@ -246,10 +246,7 @@ with open("myitv.txt", 'w', encoding='utf-8') as file:
 
 # 收集其他人接口数据源
 urls = [
-    "https://raw.githubusercontent.com/taijichadao/tv/main/itvlist.txt",
-    "http://api.mcqq.cn/tvbox/zhibo.php",
-    "http://tvbox.nx66.bf:99/tvbox/zhibo.php",
-    "https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt"
+    "https://raw.githubusercontent.com/xzw832/cmys/main/itvlist.txt"
     ]
 
 file_contents = []
