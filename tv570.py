@@ -1,3 +1,4 @@
+
 import os
 import re
 import time
@@ -38,13 +39,22 @@ with open("myitv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
-                if '画中画' in channel_name or '单音轨' in channel_name:
+                if '画中画' in channel_name:
                   name =(f"{channel_name}")
                   name = name.replace("画中画", "")
-                  name = name.replace("单音轨", "")
                   channels.append((name, channel_url))
     file.close()
-
+    
+with open("tv570.txt", 'r', encoding='utf-8') as file:
+    lines = file.readlines()
+    for line in lines:
+        line = line.strip()
+        count = line.count(',')
+        if count == 1:
+            if line:
+                channel_name, channel_url = line.split(',')
+                channels.append((channel_name, channel_url))
+    file.close()
 # 定义工作线程函数
 def worker():
     while True:
@@ -102,7 +112,7 @@ def worker():
                     for k in res.iter_content(chunk_size=2097152):
                         # 这里的chunk_size是1MB，每次读取1MB测试视频流
                         # 如果能获取视频流，则输出读取的时间以及链接
-                        if time.time()-now > 30:
+                        if time.time()-now > 20:
                             res.close()
                             print(f'Time out\t{channel_url}')
                             break
@@ -132,7 +142,7 @@ def worker():
         task_queue.task_done()
 
 # 创建多个工作线程
-num_threads = 50
+num_threads = 40
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     #t = threading.Thread(target=worker, args=(event,len(channels)))  # 将工作线程设置为守护线程
@@ -154,6 +164,7 @@ def channel_key(channel_name):
         return float('inf')  # 返回一个无穷大的数字作为关键字
 
 # 对频道进行排序
+results = set(results)  # 去重得到唯一的URL列表
 results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 #results.sort(key=lambda x: channel_key(x[0]))
 now_today = datetime.date.today()
