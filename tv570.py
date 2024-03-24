@@ -102,7 +102,7 @@ def worker():
                     for k in res.iter_content(chunk_size=2097152):
                         # 这里的chunk_size是1MB，每次读取1MB测试视频流
                         # 如果能获取视频流，则输出读取的时间以及链接
-                        if time.time()-now > 20:
+                        if time.time()-now > 30:
                             res.close()
                             print(f'Time out\t{channel_url}')
                             break
@@ -132,7 +132,7 @@ def worker():
         task_queue.task_done()
 
 # 创建多个工作线程
-num_threads = 40
+num_threads = 50
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     #t = threading.Thread(target=worker, args=(event,len(channels)))  # 将工作线程设置为守护线程
