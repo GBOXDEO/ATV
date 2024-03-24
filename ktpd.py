@@ -143,7 +143,7 @@ results.sort(key=lambda x: (x[0], -float(x[2].split()[0])))
 now_today = datetime.date.today()
 # 将结果写入文件
 
-result_counter = 5  # 每个频道需要的个数
+result_counter = 16  # 每个频道需要的个数
 
 with open("ktpd.txt", 'w', encoding='utf-8') as file:
     channel_counters = {}
@@ -151,13 +151,30 @@ with open("ktpd.txt", 'w', encoding='utf-8') as file:
     for result in results:
         channel_name, channel_url, speed = result
         if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
+            if '高清' not in channel_name:
+                if channel_name in channel_counters:
+                    if channel_counters[channel_name] >= result_counter:
+                        continue
+                    else:
+                        file.write(f"{channel_name},{channel_url}\n")
+                        channel_counters[channel_name] += 1
                 else:
                     file.write(f"{channel_name},{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"{channel_name},{channel_url}\n")
-                channel_counters[channel_name] = 1
+                    channel_counters[channel_name] = 1
+
+    channel_counters = {}
+    file.write('【  卡通高清频道  】,#genre#\n')
+    for result in results:
+        channel_name, channel_url, speed = result
+        if '卡通' in channel_name or '动漫' in channel_name or '动画' in channel_name or '少儿' in channel_name:
+            if '高清' in channel_name:
+                if channel_name in channel_counters:
+                    if channel_counters[channel_name] >= result_counter:
+                        continue
+                    else:
+                        file.write(f"{channel_name},{channel_url}\n")
+                        channel_counters[channel_name] += 1
+                else:
+                    file.write(f"{channel_name},{channel_url}\n")
+                    channel_counters[channel_name] = 1
     file.close()
