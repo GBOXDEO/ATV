@@ -77,10 +77,13 @@ for url in urls:
         print(result)
         m3u8_div = result.find("a")
         if m3u8_div:
-            print(m3u8_div.get('href'))
+            pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
+            urls_all = re.findall(pattern, m3u8_div.get('href'))
+            print(urls_all)
         italic_tags = soup.find_all('i')
         
         # 尝试获取第二个<i>标签
         if len(italic_tags) > 1:
             second_italic_tag = italic_tags[1]  # 索引从0开始，所以第二个标签的索引是1
-            print(second_italic_tag.text)  # 打印第二个<i>标签的文本内容
+            url_name = second_italic_tag.text.strip() if second_italic_tag else None
+            print(url_name)  # 打印第二个<i>标签的文本内容
