@@ -79,7 +79,7 @@ for url in urls:
         # print(result)
         html_txt = f"{result}"
         # print(html_txt)
-        if "存活" in html_txt:
+        if "result" in html_txt:
             m3u8_div = result.find("a")
             if m3u8_div:
                 pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
