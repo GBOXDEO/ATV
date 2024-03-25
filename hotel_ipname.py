@@ -76,14 +76,15 @@ for url in urls:
         # print("============================================================================================================")
         # print(result)
         html_txt = f"{result}"
-        print(html_txt)
+        # print(html_txt)
         if "存活" in html_txt:
             m3u8_div = result.find("a")
             if m3u8_div:
                 pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
                 urls_all = re.findall(pattern, m3u8_div.get('href'))
-                print(urls_all)
+                # print(urls_all)
                 if len(urls_all) > 0:
+                    ip = urls_all[0]
                     italic_tags = soup.find_all('i')
                     # 尝试获取第二个<i>标签
                     if len(italic_tags) > 1:
@@ -97,7 +98,7 @@ for url in urls:
                             ipname = '电信'
                         else:
                             ipname ='其他'
-                    resultslist.append(f"{urls_all},{ipname}")
+                    resultslist.append(f"{ipname},{ip}")
 
 for line in resultslist:
     print(line)
