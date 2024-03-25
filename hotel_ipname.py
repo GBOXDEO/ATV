@@ -92,15 +92,16 @@ for url in urls:
                     if len(italic_tags) > 1:
                         second_italic_tag = italic_tags[1]  # 索引从0开始，所以第二个标签的索引是1
                         url_name = second_italic_tag.text
-                        if '移动' in url_name:
+                        name_html_txt = f"{url_name}"
+                        if "移动" in name_html_txt:
                             ipname = '移动'
-                        elif '联通' in url_name:
+                        elif "联通" in name_html_txt:
                             ipname = '联通'
-                        elif '电信' in url_name:
+                        elif "电信" in name_html_txt:
                             ipname = '电信'
                         else:
                             ipname ='其他'
-                    resultslist.append(f"{ipname},{ip}")
+                        resultslist.append(f"{ipname},{ip}")
 
 resultslist = set(resultslist)    # 去重得到唯一的URL列表
 
