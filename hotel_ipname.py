@@ -77,4 +77,9 @@ for url in urls:
         print(result)
         m3u8_div = result.find("div", class_="channel")
         url_int = m3u8_div.text.strip() if m3u8_div else None
+        #取频道名称
+        m3u8_name_div = result.find("div", class_="channel")
+        url_name = m3u8_name_div.text.strip() if m3u8_div else None
+        #print("-------------------------------------------------------------------------------------------------------")
         print (url_int)
+        print (url_name)
