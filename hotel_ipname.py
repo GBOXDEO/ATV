@@ -245,7 +245,7 @@ def worker(thread_url,counter_id):
             if "http" in urlsp:
                 # 获取锁
                 lock.acquire()
-                infoList.append(f"{in_name}_{name},{urlsp}")
+                infoList.append(f"{name}_{in_name},{urlsp}")
                 # 释放锁
                 lock.release()
         print(f"=========================>>> Thread {in_url} save ok")
