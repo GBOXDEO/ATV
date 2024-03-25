@@ -75,6 +75,7 @@ for url in urls:
     for result in results:
         # print("============================================================================================================")
         # print(result)
+        html_txt = f"{result}"
         if '存活' in result:
             m3u8_div = result.find("a")
             if m3u8_div:
