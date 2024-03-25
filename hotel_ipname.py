@@ -58,7 +58,7 @@ for url in urls:
             (By.CSS_SELECTOR, "div.tables")
             )
     )
-    time.sleep(1)
+    time.sleep(20)
     soup = BeautifulSoup(driver.page_source, "html.parser")
 
     # 关闭WebDriver
