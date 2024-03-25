@@ -38,6 +38,7 @@ def is_odd_or_even(number):
 
 for url in urls:
     # 创建一个Chrome WebDriver实例
+    results = []
     chrome_options = Options()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
@@ -60,4 +61,17 @@ for url in urls:
 
     # 关闭WebDriver
     driver.quit()
-    print(soup)    #方便看看是否有执行啊
+    tables_div = soup.find("div", class_="tables")
+    results = (
+        tables_div.find_all("div", class_="result")
+        if tables_div
+        else []
+    )
+    if not any(
+        result.find("div", class_="channel") for result in results
+    ):
+        #break
+        print("Err-------------------------------------------------------------------------------------------------------")
+    for result in results:
+        #print(result)
+
