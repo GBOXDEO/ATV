@@ -18,9 +18,31 @@ infoList = []
 urls_y = []
 resultslist = []
 urls = [
-    "http://tonkiang.us/hoteliptv.php?page=1&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=3&s=广东"
+    "http://tonkiang.us/hoteliptv.php?page=1&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=2&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=3&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=4&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=5&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=6&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=7&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=8&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=9&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=10&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=11&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=12&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=13&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=14&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=15&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=16&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=17&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=18&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=19&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=20&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=21&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=22&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=23&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=24&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=25&s=江苏"
     ]
 # 初始化计数器为0
 counter = -1
