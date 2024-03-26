@@ -42,7 +42,22 @@ urls = [
     "http://tonkiang.us/hoteliptv.php?page=22&s=江苏",
     "http://tonkiang.us/hoteliptv.php?page=23&s=江苏",
     "http://tonkiang.us/hoteliptv.php?page=24&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=25&s=江苏"
+    "http://tonkiang.us/hoteliptv.php?page=25&s=江苏",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=东海新闻",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=南京",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=响水",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=宿迁",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=常州",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=徐州",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=江苏体育",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=沛县",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=泗洪",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=泰州",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=淮安",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=睢宁",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=赣榆",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=连云",
+    "http://tonkiang.us/hoteliptv.php?page=1&s=高淳"
     ]
 # 初始化计数器为0
 counter = -1
