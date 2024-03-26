@@ -88,10 +88,10 @@ for url in urls:
         driver = webdriver.Chrome(options=chrome_options)
         driver.set_page_load_timeout(60)  # 10秒后超时
         # 设置脚本执行超时
-        driver.set_script_timeout(50)  # 5秒后超时
+        driver.set_script_timeout(58)  # 5秒后超时
         # 使用WebDriver访问网页
         driver.get(url)  # 将网址替换为你要访问的网页地址
-        WebDriverWait(driver, 45).until(
+        WebDriverWait(driver, 55).until(
             EC.presence_of_element_located(
                 (By.CSS_SELECTOR, "div.tables")
                 )
