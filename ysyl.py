@@ -27,8 +27,10 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
+                name =(f"{channel_name}")
+                name = name.replace("高清", "")
                 if '电影' in channel_name or '影院' in channel_name or '剧场' in channel_name or '影视' in channel_name:
-                    channels.append((channel_name, channel_url))
+                    channels.append((name, channel_url))
     file.close()
 # 定义工作线程函数
 def worker():
