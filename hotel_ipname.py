@@ -131,11 +131,11 @@ for url in urls:
                             second_italic_tag = italic_tags[1]  # 索引从0开始，所以第二个标签的索引是1
                             url_name = second_italic_tag.text
                             name_html_txt = f"{url_name}"
-                            if "移动" in name_html_txt:
+                            if "移动" in html_txt:
                                 ipname = '移动'
-                            elif "联通" in name_html_txt:
+                            elif "联通" in html_txt:
                                 ipname = '联通'
-                            elif "电信" in name_html_txt:
+                            elif "电信" in html_txt:
                                 ipname = '电信'
                             else:
                                 ipname ='其他'
