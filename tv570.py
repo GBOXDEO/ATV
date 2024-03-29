@@ -42,6 +42,8 @@ with open("myitv.txt", 'r', encoding='utf-8') as file:
                     if '画中画' in channel_name:
                       name =(f"{channel_name}")
                       name = name.replace("画中画", "")
+                      name = name.replace("_联通", "_电信")
+                      name = name.replace("_其他", "_电信")
                       channels.append((name, channel_url))
     file.close()
     
