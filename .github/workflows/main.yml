@@ -43,13 +43,14 @@ jobs:
         run: |
           pip install selenium requests futures eventlet
           pip install beautifulsoup4
+          pip install chardet
+          
+      - name: Run china combil
+        run: python ${{ github.workspace }}/nanxun_tv.py
         
       - name: Run hotel_ipname
         run: python ${{ github.workspace }}/hotel_ipname.py
 
-      - name: Run china combil
-        run: python ${{ github.workspace }}/nanxun_tv.py
-        
       - name: Run cctv
         run: python ${{ github.workspace }}/cctv.py
           
