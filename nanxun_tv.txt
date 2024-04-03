@@ -3825,6 +3825,7 @@ AWE,http://43.138.170.29:35455/yy/1355285129
 梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
 东北戏曲,http://gongzhuling.lnott.top:9999/hls/25/index.m3u8
+东北戏曲,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 七彩戏剧,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 岭南戏曲,http://113.110.72.121:808/hls/22/index.m3u8
 曲剧小戏《桑林收子》张晓英表演,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
@@ -4067,6 +4068,8 @@ Q714238137《光棍哭妻》,http://gcw.bdcdn.shoujiduoduo.com/201805/1812-365.m
 演唱,http://gcw.bdcdn.shoujiduoduo.com/v/190221/6a38928efbe1f76f04f14a94197cc6d6.mp4
 黄梅戏【春香闹学】,http://gcw.bdcdn.shoujiduoduo.com/v/201027/552dcdf37bdf2b4ff56d9e79bb58f527.mp4
 精彩好看！,http://gcw.bdcdn.shoujiduoduo.com/v/200227/9d52e829ee706c3d5170d13bfac85b70.mp4
+
+
 广场舞曲,#genre#
 
 相遇那么美,https://alimov2.a.kwimgs.com/upic/2022/05/10/08/BMjAyMjA1MTAwODA1NThfOTU2MzA3MDg4Xzc0MDcwNDAzNzMxXzJfMw==_b_B184bd34b9ad0609efc72e1085c1402e6.mp4?clientCacheKey=3xrhfp8z3nj5vnk_b.mp4&tt=b&di=24719082&bp=10000
@@ -4205,7 +4208,8 @@ K望,https://alimov2.a.kwimgs.com/upic/2022/05/29/07/BMjAyMjA1MjkwNzU4MDlfOTU2Mz
 歌在飞,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzIyMjZfOTU2MzA3MDg4Xzc2Mjg3OTIwOTA2XzJfMw==_b_Be741b982876637527a2cbd80287dc498.mp4?clientCacheKey=3xbw4zfsqy4u86g_b.mp4&tt=b&di=24716420&bp=10000
 风飘飘雨潇潇,https://alimov2.a.kwimgs.com/upic/2022/06/08/07/BMjAyMjA2MDgwNzIwNDRfOTU2MzA3MDg4Xzc2Mjg3ODY4NTM2XzJfMw==_b_B2cff790b56fd451f175022efebb2cef7.mp4?clientCacheKey=3x3eqjh3uhigy6i_b.mp4&tt=b&di=24716420&bp=10000
 
-综合频道,#genre#
+港台频道,#genre#
+
 //新闻
 熊猫,https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/ipanda1000_2_td.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -4229,17 +4233,39 @@ ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
-中天新闻2台,http://mywlkj.ddns.net:754/tv/youtube.php?id=1
-中天新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=2
-民视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=3
-TVBS新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=4
+中天新聞2台,http://mywlkj.ddns.net:754/tv/youtube.php?id=1
+中天新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=2
+民視新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=3
+TVBS新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=4
 寰宇新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=5
-寰宇新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=6
-寰宇台湾,http://mywlkj.ddns.net:754/tv/youtube.php?id=7
-台视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=8
-中视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=9
-镜新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=10
+寰宇新聞台灣台,http://mywlkj.ddns.net:754/tv/youtube.php?id=6
+東森財經,http://mywlkj.ddns.net:754/tv/youtube.php?id=7
+台視新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=8
+中視新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=9
+鏡新聞mnews,http://mywlkj.ddns.net:754/tv/youtube.php?id=10
+東森新聞,http://mywlkj.ddns.net:754/tv/youtube.php?id=31
+台视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=36
+TVBS新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=37
+中视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=38
+中天新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=39
+公视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=40
+东森新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=41
+镜新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=42
+民视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=43
+三立新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=44
+华视新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=45
+东森财经新闻,http://mywlkj.ddns.net:754/tv/youtube.php?id=46
 
+
+TVBSAsia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBSAsia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -4254,8 +4280,37 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
 
-家乡频道,#genre#
+壹电视新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+now新闻,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+东森财经新闻,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
+非凡新闻,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
+寰宇新闻,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 
+
+
+家乡频道,#genre#
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东体育,http://113.120.46.233:8123/udp/239.21.1.141:5002
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+QTV1,http://yt.xypxe.com:9901/tsfile/live/1011_1.m3u8
+QTV2,http://yt.xypxe.com:9901/tsfile/live/1012_1.m3u8
+QTV3,http://yt.xypxe.com:9901/tsfile/live/1013_1.m3u8
+QTV4,http://yt.xypxe.com:9901/tsfile/live/1014_1.m3u8
+QTV5,http://yt.xypxe.com:9901/tsfile/live/1015_1.m3u8
+QTV6,http://yt.xypxe.com:9901/tsfile/live/1016_1.m3u8
 聊城公共,http://live.lcxw.cn/live/lctv01.m3u8
 聊城民生,http://live.lcxw.cn/live/lctv02.m3u8
 东昌综合,http://qrh.yimkj.cn/山东齐鲁.php?id=lcdczh
@@ -4553,22 +4608,6 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 兵团卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
 大湾区视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
 卡酷少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-
-港台频道,#genre#
-
-壹电视新闻,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
-年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-now新闻,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
-东森新闻,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-民视新闻,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-三立新闻,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
-TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-东森财经新闻,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
-非凡新闻,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
-中视新闻,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-寰宇新闻,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
-华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 
 
 日本频道,#genre#
@@ -10874,4 +10913,4 @@ TimesNow,http://104.233.187.235:2082/r-proxy?user=tianya666&url=https://z88.ubtv
 RTNews,http://104.233.187.235:2082/r-proxy?user=tianya666&url=https://z88.ubtvfans.com/live/rx4/2564/8b2917eae744d18b6cf6423bfbafef7d/index.m3u8
 Москва24,http://104.233.187.235:2082/r-proxy?user=tianya666&url=https://z88.ubtvfans.com/live/rx4/2574/b8c8e47719ee10665e371bd8620e5251/index.m3u8
 RTDocumentary,http://104.233.187.235:2082/r-proxy?user=tianya666&url=https://z88.ubtvfans.com/live/rx4/2611/322cc5ef9af6f8a91f8745b188bb04c2/index.m3u8
-更新时间：2024-04-02 22:15:38
+更新时间：2024-04-03 02:21:12
