@@ -143,7 +143,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
-                if 'CCTV' in channel_name:
+                if 'CCTV' in channel_name or 'CETV' in channel_name or 'CQTV' in channel_name or 'IPTV' in channel_name:
                     channels.append((channel_name, channel_url))
     file.close()
 # 定义工作线程函数
@@ -283,7 +283,7 @@ with open("cctv.txt", 'w', encoding='utf-8') as file:
     file.write('【  央视频道  】,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' in channel_name and '高清' not in channel_name:
+        if 'CCTV' in channel_name or 'CETV' in channel_name or 'CQTV' in channel_name or 'IPTV' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -294,18 +294,4 @@ with open("cctv.txt", 'w', encoding='utf-8') as file:
                 file.write(f"{channel_name},{channel_url}\n")
                 channel_counters[channel_name] = 1
 
-    channel_counters = {}
-    file.write('【  央视高清频道  】,#genre#\n')
-    for result in results:
-        channel_name, channel_url, speed = result
-        if 'CCTV' in channel_name and '高清' in channel_name:
-            if channel_name in channel_counters:
-                if channel_counters[channel_name] >= result_counter:
-                    continue
-                else:
-                    file.write(f"{channel_name},{channel_url}\n")
-                    channel_counters[channel_name] += 1
-            else:
-                file.write(f"{channel_name},{channel_url}\n")
-                channel_counters[channel_name] = 1
     file.close()
