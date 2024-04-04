@@ -119,6 +119,7 @@ CHCåŠ¨ä½œç”µå½±_移动,http://dbiptv.sn.chinamobile.com/PLTV/888888
 CHCé«˜æ¸…_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHCé«˜æ¸…ç”µå½±_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 NewTV怡伴健康4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226957/index.m3u8
+SiTVæ¬¢ç¬‘å‰§åœº4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top
 SiTV游戏风云8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 ä¸œå—å«è§†_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
@@ -201,6 +202,7 @@ SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 ç¬¬ä¸€å‰§åœº_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 çºªå®äººæ–‡_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 ç½®ä¸šé¢‘é“_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+çˆ±ä¸Š4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 ç”µè§†æŒ‡å—_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 ç”˜è‚ƒå«è§†_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 ç”˜è‚ƒå«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
@@ -301,4 +303,4 @@ SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 黑龙江卫视_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-更新时间：2024-04-04 10:14:27
+更新时间：2024-04-04 14:14:22
