@@ -13,57 +13,51 @@ from queue import Queue
 import threading
 
 lock = threading.Lock()
+
+diqu = [
+    "内蒙",
+    "西藏",
+    "天津",
+    "北京",
+    "重庆",
+    "江苏",
+    "香港",
+    "青海",
+    "甘肃",
+    "陕西",
+    "云南",
+    "贵州",
+    "四川",
+    "海南",
+    "广东",
+    "湖南",
+    "湖北",
+    "河南",
+    "山东",
+    "江西",
+    "福建",
+    "安徽",
+    "浙江",
+    "黑龙江",
+    "吉林",
+    "辽宁",
+    "山西",
+    "河北",
+    "上海",
+    "台湾"
+    ]
+def contains_any_value(text, diqu):
+    for dq in diqu:
+        if dq in text:
+            return dq
+    return "未分类"
 # 查找所有符合指定格式的网址
 infoList = []
 urls_y = []
 resultslist = []
+page = 250
 urls = [
     "http://tonkiang.us/hoteliptv.php?page=1&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=3&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=4&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=5&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=6&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=7&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=8&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=9&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=10&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=11&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=12&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=13&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=14&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=15&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=16&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=17&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=18&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=19&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=20&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=21&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=22&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=23&s=江苏",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=3&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=4&s=广东",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=凤凰",
-    "http://tonkiang.us/hoteliptv.php?page=2&s=凤凰",
-    "http://tonkiang.us/hoteliptv.php?page=3&s=凤凰",
-    "http://tonkiang.us/hoteliptv.php?page=4&s=凤凰",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=东海新闻",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=南京",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=响水",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=宿迁",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=常州",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=徐州",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=江苏体育",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=沛县",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=泗洪",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=泰州",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=淮安",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=睢宁",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=赣榆",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=连云",
-    "http://tonkiang.us/hoteliptv.php?page=1&s=高淳"
     ]
 # 初始化计数器为0
 counter = -1
@@ -81,10 +75,12 @@ def is_odd_or_even(number):
     else:
         return False
 
-for url in urls:
+for i in range(1, page + 1):
     try:
         # 创建一个Chrome WebDriver实例
         results = []
+        url = f"http://tonkiang.us/hoteliptv.php?page={i}&s=CCTV"
+        print(url)
         chrome_options = Options()
         chrome_options.add_argument('--headless')
         chrome_options.add_argument('--no-sandbox')
@@ -102,7 +98,7 @@ for url in urls:
                 (By.CSS_SELECTOR, "div.tables")
                 )
         )
-        time.sleep(20)
+        time.sleep(random.randint(3, 10))
         soup = BeautifulSoup(driver.page_source, "html.parser")
     
         # 关闭WebDriver
@@ -119,11 +115,9 @@ for url in urls:
             #break
             print("Err-------------------------------------------------------------------------------------------------------")
         for result in results:
-            # print("============================================================================================================")
             # print(result)
             html_txt = f"{result}"
-            # print(html_txt)
-            if "result" in html_txt:
+            if "暂时失效" not in html_txt:
                 m3u8_div = result.find("a")
                 if m3u8_div:
                     pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
@@ -133,19 +127,29 @@ for url in urls:
                         ip = urls_all[0]
                         italic_tags = soup.find_all('i')
                         # 尝试获取第二个<i>标签
-                        if len(italic_tags) > 1:
-                            second_italic_tag = italic_tags[1]  # 索引从0开始，所以第二个标签的索引是1
+                        if len(italic_tags) >= 1:
+                            second_italic_tag = italic_tags[0]  # 索引从0开始，所以第二个标签的索引是1
                             url_name = second_italic_tag.text
                             name_html_txt = f"{url_name}"
+                            name_html_txt = name_html_txt.replace(" ", "").replace("\n", "")
+                            # print(html_txt)
+                            # print("1===========================================================================================================")
                             if "移动" in html_txt:
                                 ipname = '移动'
+                            elif "移通" in html_txt:
+                                ipname = '移动'
+                            elif "视通" in html_txt:
+                                ipname = '广电'
                             elif "联通" in html_txt:
                                 ipname = '联通'
                             elif "电信" in html_txt:
                                 ipname = '电信'
                             else:
                                 ipname ='其他'
-                            resultslist.append(f"{ipname},{ip}")
+                            dq_name = contains_any_value(html_txt, diqu)
+                            resultslist.append(f"{ipname},{ip},{dq_name}")
+                            print(f"{ipname},{ip},{dq_name}")
+                            name_html_txt = ""
     except:
         print(f"=========================>>> Thread {url} error")
         
@@ -163,7 +167,7 @@ def worker(thread_url,counter_id):
         # 创建一个Chrome WebDriver实例
         results = []
         #分离出运营商和IP
-        in_name,in_url = thread_url.split(',')
+        in_name,in_url,dq_name = thread_url.split(',')
         chrome_options = Options()
         chrome_options.add_argument(f"user-data-dir=selenium{counter_id}")
         chrome_options.add_argument('--headless')
@@ -219,7 +223,7 @@ def worker(thread_url,counter_id):
             urlsp =f"{url_int}"
             if len(urlsp) == 0:
                 urlsp = "rtp://127.0.0.1"             
-            print(f"{url_name}\t{url_int}")
+            print(f"{dq_name}_{url_name}\t{url_int}")
             #print("-------------------------------------------------------------------------------------------------------")
             urlsp = urlsp.replace("http://67.211.73.118:9901", "")
             name = name.replace("cctv", "CCTV")
