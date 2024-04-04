@@ -54,8 +54,8 @@ with open("tv570.txt", 'r', encoding='utf-8') as file:
         count = line.count(',')
         if count == 1:
             if line:
+                channel_name, channel_url = line.split(',')
                 if 'http' in channel_url:
-                    channel_name, channel_url = line.split(',')
                     channels.append((channel_name, channel_url))
     file.close()
 channels = set(channels)  # 去重得到唯一的URL列表
