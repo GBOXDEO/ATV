@@ -290,11 +290,25 @@ def worker(thread_url,counter_id):
         time.sleep(0)
 
 # 创建一个线程池，限制最大线程数为3
-with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-    # 提交任务到线程池，并传入参数
+# with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+#     # 提交任务到线程池，并传入参数
+#     counter = increment_counter()
+#     for i in sorted_list:  # 假设有5个任务需要执行
+#         executor.submit(worker, i ,counter)
+
+# 创建 ThreadPoolExecutor，但不立即启动
+executor = concurrent.futures.ThreadPoolExecutor(max_workers=10)
+
+# 设置守护线程
+for thread in executor._threads:
+    thread.daemon = True
+
+# 启动线程
+with executor:
     counter = increment_counter()
-    for i in sorted_list:  # 假设有5个任务需要执行
-        executor.submit(worker, i ,counter)
+    for i in sorted_list:
+        executor.submit(worker, i, counter)
+
 
 infoList = set(infoList)  # 去重得到唯一的URL列表
 infoList = sorted(infoList)
