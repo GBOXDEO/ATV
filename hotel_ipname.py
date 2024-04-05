@@ -44,9 +44,10 @@ diqu = [
     "辽宁",
     "山西",
     "河北",
-    "上海",
-    "台湾"
+    "上海"
     ]
+random_choice = random.choice(diqu)
+
 def contains_any_value(text, diqu):
     for dq in diqu:
         if dq in text:
@@ -80,7 +81,7 @@ for i in range(1, page + 1):
     try:
         # 创建一个Chrome WebDriver实例
         results = []
-        url = f"http://tonkiang.us/hoteliptv.php?page={i}&s=CCTV"
+        url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
         chrome_options = Options()
         chrome_options.add_argument('--headless')
