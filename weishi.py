@@ -27,8 +27,14 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         if count == 1:
             if line:
                 channel_name, channel_url = line.split(',')
+                name =(f"{channel_name}")
+                name = name.replace("TVB3明珠", "香港明珠卫视")
+                name = name.replace("明珠台", "香港明珠卫视")
+                name = name.replace("TVB2翡翠", "TVB翡翠卫视")
+                name = name.replace("星影", "星空卫视")
+                name = name.replace("本港卫视台", "星空卫视")
                 if '卫视' in channel_name:
-                    channels.append((channel_name, channel_url))
+                    channels.append((name, channel_url))
     file.close()
     
 # 定义工作线程函数
