@@ -100,7 +100,7 @@ def worker():
                                 response_time = (time.time()-now) * 1
                                 download_speed = 5242880 / response_time / 1024
                                 normalized_speed = min(max(download_speed / 1024, 0.001), 100)
-                                if response_time > 2:
+                                if response_time > 3:
                                     result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
                                     # 获取锁
                                     lock.acquire()
@@ -120,7 +120,7 @@ def worker():
         task_queue.task_done()
 
 # 创建多个工作线程
-num_threads = 50
+num_threads = 60
 for _ in range(num_threads):
     t = threading.Thread(target=worker, daemon=True) 
     #t = threading.Thread(target=worker, args=(event,len(channels)))  # 将工作线程设置为守护线程
