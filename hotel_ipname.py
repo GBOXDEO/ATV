@@ -12,6 +12,9 @@ from bs4 import BeautifulSoup
 from queue import Queue
 import threading
 
+not_ip = [
+    "14.19.199.43:8089",
+]
 lock = threading.Lock()
 
 diqu = [
@@ -149,8 +152,9 @@ for i in range(1, page + 1):
                             else:
                                 ipname ='其他'
                             dq_name = contains_any_value(html_txt, diqu)
-                            resultslist.append(f"{ipname},{ip},{dq_name}")
-                            print(f"{ipname},{ip},{dq_name}")
+                            if ip not in not_ip:
+                                resultslist.append(f"{ipname},{ip},{dq_name}")
+                                print(f"{ipname},{ip},{dq_name}")
                             name_html_txt = ""
     except:
         print(f"=========================>>> Thread {url} error")
