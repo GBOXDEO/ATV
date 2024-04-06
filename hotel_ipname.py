@@ -18,6 +18,11 @@ not_ip = [
 lock = threading.Lock()
 
 diqu = [
+    "cctv",
+    "卫视",
+    "凤凰",
+    "新闻",
+    "综合",
     "广西",
     "内蒙",
     "西藏",
