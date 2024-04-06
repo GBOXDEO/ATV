@@ -7379,8 +7379,6 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
-民视新闻,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -7393,8 +7391,6 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-
-
 
 家乡频道,#genre#
 
@@ -7758,8 +7754,18 @@ NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 
-//GD线路
+
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
+
 NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
+NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
+
+NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
+
+
+//GD线路
+
 NHKE,http://103.36.32.14:5002/gd02.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 日テレ,http://103.36.32.14:5002/gd03.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 MBS,http://103.36.32.14:5002/gd04.m3u8?token=guoziyun&gid=gd01&channel=zhongying
@@ -7768,7 +7774,7 @@ ASAHI,http://103.36.32.14:5002/gd06.m3u8?token=guoziyun&gid=gd01&channel=zhongyi
 テレ東,http://103.36.32.14:5002/gd07.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 TOKYOMX1,http://103.36.32.14:5002/gd08.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
+
 NHKE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby:iptvcat.com
 日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&checkedby:iptvcat.com
 NHKBSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
@@ -7781,7 +7787,7 @@ MBS,http://103.36.32.14:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 カンテレ,http://103.36.32.14:5002/gx03.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 日テレ,http://103.36.32.14:5002/gx04.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 TVO,http://103.36.32.14:5002/gx05.m3u8?token=guoziyun&gid=gx01&channel=zhongying
-NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
+
 SUN,http://103.36.32.14:5002/gx07.m3u8?token=guoziyun&gid=gx01&channel=日テレngying
 
 
@@ -7928,30 +7934,7 @@ WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?ci
 旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
-NHKG综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
-NHKE教育,mitv://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
-日本テレビ,mitv://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
-TBSテレビ,mitv://generationnexxxt.com:19806/9376bfbc1275463dadf7d89cf5eebf6c
-読売テレビ,mitv://generationnexxxt.com:19806/67e4cf369c3041ae9df1aca8b83fecf8
-関西テレビ,mitv://generationnexxxt.com:19806/bfb58a0f01504914883d882ee3082053
-KBS京都,mitv://generationnexxxt.com:19806/729ad31db2414a458905bbadb735bbae
-毎日放送,mitv://generationnexxxt.com:19806/ccac43e2944e468b91bcba848d34c3fd
-朝日放送,mitv://generationnexxxt.com:19806/b9fd3c1349444e5d8e73b51b2fd298f9
-BS1,mitv://generationnexxxt.com:19806/bb73b7a100954eb0a941586c172b75da
-BS11,mitv://generationnexxxt.com:19806/a4be116db92743e1ac8dc4d6a86ebed1
-WOWOWプライム,mitv://generationnexxxt.com:19806/b6120a213ab04f9f830e9435530eb905
-WOWOWライブ,mitv://generationnexxxt.com:19806/ff616330600e438d97cf03101ae7c3a1
-WOWOWシネマ,mitv://generationnexxxt.com:19806/e30a2709ee2c492495621bdd54db7294
-スター・チャンネル1,mitv://generationnexxxt.com:19806/8869813c1bfc46b3ba00e21e2cb35474
-スター・チャンネル2,mitv://generationnexxxt.com:19806/0293a4ec77f745f4be8700e6f3d8830f
-スター・チャンネル3,mitv://generationnexxxt.com:19806/0a8db2b6767948c1b4e1e7b86ac4c658
-GreenChannel,mitv://generationnexxxt.com:19806/9a0e8e3bc32341738cd921467307e93e
-時代劇専門チャンネル,mitv://generationnexxxt.com:19806/aaa4c8da4b0f4146a58012b64a9d1c06
-MusicJapanTV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
-キッズステーション,mitv://generationnexxxt.com:19806/434d7c2079e341609cba49f816c81cf5
-ディスカバリーチャンネル,mitv://generationnexxxt.com:19806/c198ef50712d485d95ebf9c20935cfdb
-ナショナルジオグラフィック,mitv://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
-日テレNEWS24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
+
 
 
 
@@ -8036,7 +8019,7 @@ MusicJapanTV,P2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 日テレNEWS24,P2p://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,P2p://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 //官方不畅
-NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
+
 日テレ,https://ntv4.mov3.co/hls/ntv.m3u8
 FUJITV,https://fujitv4.mov3.co/hls/fujitv.m3u8
 
@@ -10550,4 +10533,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-06 10:14:01
+更新时间：2024-04-06 14:11:24
