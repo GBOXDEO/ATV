@@ -104,7 +104,7 @@ def worker():
                                     response_time = (time.time()-now) * 1
                                     download_speed = chunk_len / response_time / 1024
                                     normalized_speed = min(max(download_speed / 1024, 0.001), 100)
-                                    if response_time > 3:
+                                    if response_time > 4.9:
                                         result = channel_name, channel_url, f"{normalized_speed:.3f} MB/s"
                                         # 获取锁
                                         lock.acquire()
