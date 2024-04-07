@@ -7372,11 +7372,15 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 凤凰卫视中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-
+凤凰卫视中文,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰卫视资讯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港卫视,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
+中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -7932,12 +7936,6 @@ WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?ci
 ミュージック?ジャパンTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
 旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
-
-
-
-
-
-
 
 //晴天源
 NHKG综合,mitv://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
@@ -10532,4 +10530,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-07 02:23:50
+更新时间：2024-04-07 06:16:14
