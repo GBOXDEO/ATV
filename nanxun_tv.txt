@@ -7755,12 +7755,11 @@ NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 
 
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
 
 NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
-
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
 NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
 
 
@@ -10533,4 +10532,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-06 22:12:38
+更新时间：2024-04-07 02:23:50
