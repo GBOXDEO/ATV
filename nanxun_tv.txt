@@ -7381,6 +7381,8 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+靖天日本台,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
+国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -7395,6 +7397,22 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+
+民视,rtmp://220.130.201.73/sat/tv051
+台视,rtmp://220.130.201.73/sat/tv071
+中视,rtmp://220.130.201.73/sat/tv091
+华视,rtmp://220.130.201.73/sat/tv111
+东森超视,rtmp://220.130.201.73/sat/tv331
+非凡新闻,rtmp://220.130.201.73/sat/tv581
+纬来育乐,rtmp://220.130.201.73/sat/tv701
+纬来体育,rtmp://220.130.201.73/sat/tv721
+ELEVEN体育1,rtmp://220.130.201.73/sat/tv731
+ELEVEN体育2,rtmp://220.130.201.73/sat/tv741
+MOMOTV,rtmp://220.130.201.73/sat/tv761
+纬来日本,rtmp://220.130.201.73/sat/tv771
+
+
+
 
 家乡频道,#genre#
 
@@ -10530,4 +10548,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-07 06:16:14
+更新时间：2024-04-07 10:13:06
