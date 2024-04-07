@@ -7381,8 +7381,7 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 
 中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
-靖天日本台,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
-国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
+TVBS新闻,rtmp://twcdn.top/sat/tv551
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -7411,8 +7410,23 @@ ELEVEN体育2,rtmp://220.130.201.73/sat/tv741
 MOMOTV,rtmp://220.130.201.73/sat/tv761
 纬来日本,rtmp://220.130.201.73/sat/tv771
 
+民视rtmp://twcdn.top/sat/tv051
+台视,rtmp://twcdn.top/sat/tv071
+中视,rtmp://twcdn.top/sat/tv091
+华视,rtmp://twcdn.top/sat/tv111
+东森超视,rtmp://twcdn.top/sat/tv331
+TVBS欢乐,rtmp://twcdn.top/sat/tv421
 
+非凡新闻,rtmp://twcdn.top/sat/tv581
+纬来育乐,rtmp://twcdn.top/sat/tv701
+纬来体育,rtmp://twcdn.top/sat/tv721
+ELEVEN体育1,rtmp://twcdn.top/sat/tv731
+ELEVEN体育2,rtmp://twcdn.top/sat/tv741
+MoMo综合,rtmp://twcdn.top/sat/tv761
+纬来日本,rtmp://twcdn.top/sat/tv771
 
+靖天日本台,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
+国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 
 家乡频道,#genre#
 
@@ -7777,11 +7791,12 @@ NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 
 
-
-NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
+NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
+
 NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
+
 NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
 
 
@@ -10548,4 +10563,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-07 10:13:06
+更新时间：2024-04-07 14:12:28
