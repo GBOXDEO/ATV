@@ -1,24 +1,61 @@
-name: Run FFmpeg with Python
+name: cctv setup
 on:
+  # schedule:
+  #   - cron: '0 2,6,10,14,18,22 * * *'  #时区+8
   # 手动运行
   workflow_dispatch:
+
 jobs:
-  run-ffmpeg:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+  push:
+      runs-on: ${{ matrix.operating-system }}
+      strategy:
+        matrix:
+          # in this example, there is a newer version already installed, 3.7.7, so the older version will be downloaded
+          operating-system: ['ubuntu-20.04']
+      steps:
+      - uses: actions/checkout@v3 # Checking out the repo
+      - name: Run with setup-python 3.8
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.x
+          python-version: '3.9'
+          update-environment: false
+          cache: 'pipenv'
 
+
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@latest
+        with:
+          chrome-version: stable
+      - name: Download chrome driver
+        uses: nanasess/setup-chromedriver@master
+      - name: Launch chrome driver
+        run: |
+            export DISPLAY=:99
+            chromedriver --url-base=/wd/hub &
+            sudo Xvfb -ac :99 -screen 0 1280x1024x24 > /dev/null 2>&1 & # optional         
+        
+      - name: Install pipenv
+        run: pip3 install --user pipenv
+      - name: Install dependecies
+        run:  pipenv --python python3 && pipenv install
+      # 安装所需的包
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install ffmpeg-python
-
-      - name: Run FFmpeg command with Python
+          pip install selenium requests futures eventlet
+          pip install beautifulsoup4
+          pip install chardet
+      - name: Install FFmpeg
         run: |
-          python ffmpeg.py
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+        
+      - name: Run cctv
+        run: python ${{ github.workspace }}/cctv.py
+        
+      - name: 提交更改
+        run: |
+          git config --local user.name "GBOXDEO" 
+          git config --local user.email "g832@qq.com"
+          git add .
+          git commit *.txt -m "Add generated file"
+          git push -f
