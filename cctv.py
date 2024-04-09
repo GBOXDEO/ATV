@@ -255,7 +255,7 @@ task_queue.join()
 # 测试分辨率
 def check_video_source_with_ffmpeg(url):
     cmd = ['ffprobe', '-v', 'error', '-select_streams', 'v:0',
-           '-show_entries', 'stream=codec_name,width,height,bit_rate', '-of',
+           '-show_entries', 'stream=codec_name,width,height,r_frame_rate', '-of',
            'default=noprint_wrappers=1:nokey=1', url]
     
     try:
@@ -263,12 +263,12 @@ def check_video_source_with_ffmpeg(url):
         output = result.stdout
         # print(output)
         # 使用正则表达式匹配并提取信息
-        pattern = r'^(h264)\s+(\d+)\s+(\d+)\s+(N/A)?$'
+        pattern = r'^(h264)\s+(\d+)\s+(\d+)\s+(\d+/\d+)?$'
         matches = re.findall(pattern, output, re.MULTILINE)
         
         if matches:
-            codec_name, width, height, bit_rate = matches[0]
-            return codec_name, int(width), int(height), bit_rate if bit_rate else None
+            codec_name, width, height, r_frame_rate = matches[0]
+            return codec_name, int(width), int(height), int(eval(r_frame_rate))
         else:
             raise ValueError("No valid matches found in ffprobe output.")
     
@@ -282,8 +282,8 @@ def check_video_source_with_ffmpeg(url):
 def process_video(video_url):
     channel_name, channel_url, speed = video_url
     try:
-        codec_name, width, height, bit_rate = check_video_source_with_ffmpeg(channel_url)
-        return (codec_name, width, height, bit_rate)
+        codec_name, width, height, r_frame_rate = check_video_source_with_ffmpeg(channel_url)
+        return (codec_name, width, height, r_frame_rate)
     except ValueError as e:
         print(f"Error parsing ffprobe output for {video_url}: {e}")
         return (None, None, None, None)
@@ -306,8 +306,8 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             resolution_and_bitrate = future.result()
             # 处理或记录结果
             print(f"Results for {url}: {resolution_and_bitrate}")
-            codec_name, width, height, bit_rate = resolution_and_bitrate
-            if codec_name == 'h264' and width >= 720:
+            codec_name, width, height, r_frame_rate = resolution_and_bitrate
+            if codec_name == 'h264' and width >= 720 and r_frame_rate < 50:
                 results.append(url)
         except Exception as exc:
             print(f'{url} generated an exception: {exc}')
