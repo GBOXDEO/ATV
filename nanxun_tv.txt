@@ -7754,6 +7754,66 @@ TVBSäºšæ´²,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 é–å¤©æ—¥æœ¬å°,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
 å›½å…´å«è§†,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 
+
+4çº¿nowçˆ†è°,http://58.87.99.251:8090/HK/nowbaogu/hls.m3u8
+
+4çº¿nowæ˜Ÿå½±,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
+
+4çº¿å¹¿ç”µç¿¡ç¿ 2,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
+
+4çº¿ç¿¡ç¿ ,http://58.87.99.251:8090/HK/tvb/hls.m3u8
+
+4çº¿æœ‰çº¿18,http://58.87.99.251:8090/HK/yx18/hls.m3u8
+
+4çº¿ä¸­å¤©æ–°é—»,http://58.87.99.251:8090/HK/ztxw/hls.m3u8
+
+å‡¤å‡°ä¸­æ–‡,http://mywlkj.ddns.net:754/tv/fhzw.m3u8
+å‡¤å‡°èµ„è®¯,http://mywlkj.ddns.net:754/tv/fhzx.m3u8
+å‡¤å‡°é¦™æ¸¯,http://mywlkj.ddns.net:754/tv/fhhk.m3u8
+
+TVBæ˜Ÿæ²³,http://mywlkj.ddns.net:754/tv/xinghe.m3u8
+åŠŸå¤«,http://mywlkj.ddns.net:754/tv/action.m3u8
+å¨±ä¹æ–°é—»å°,http://mywlkj.ddns.net:754/tv/enews.m3u8
+
+æ˜Ÿå…‰è§†ç•Œ,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
+é‡‘é©¬å½±é™¢,http://mywlkj.ddns.net:754/tv/yximgs.php?id=65
+ä¸­å¤©æ–°é—»,http://mywlkj.ddns.net:754/tv/yximgs.php?id=66
+åŠŸå¤«,http://mywlkj.ddns.net:754/tv/yximgs.php?id=68
+
+TVBS,http://47.76.82.26:29500/live.m3u8?c=1
+TVBSæ–°é—»,http://47.76.82.26:29500/live.m3u8?c=2
+ä¸­å¤©æ–°é—»,http://47.76.82.26:29500/live.m3u8?c=3
+å¯°å®‡æ–°è,http://47.76.82.26:29500/live.m3u8?c=5
+ä¸‡ç§€çŒªç‹,http://47.76.82.26:29500/live.m3u8?c=6
+çŒªå“¥ä¼šç¤¾,http://47.76.82.26:29500/live.m3u8?c=7
+ç¾ä»£å˜‰æ…¶å›,http://47.76.82.26:29500/live.m3u8?c=8
+è—è‰²æ°´ç²ç“,http://47.76.82.26:29500/live.m3u8?c=9
+ä¸œæ£®æ–°é—»,http://47.76.82.26:29500/live.m3u8?c=10
+
+TRTWORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=1
+WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=2
+TVBSNEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+GTVå…«å¤§æˆå‰§,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+å¡é€š,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
+ä¸‰ç«‹æˆå‰§å°,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+AMCç”µå½±å°,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+å‡¤å‡°èµ„è®¯å°,http://mywlkj.ddns.net:754/tv/tw3.php?id=8
+çº¬æ¥ç²¾å½©,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+ç‚¹æ­Œå°,http://mywlkj.ddns.net:754/tv/tw3.php?id=10
+äºšæ´²è®°å½•,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
+NHKWORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12
+GTVå…«å¤§ç¬¬1å°,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+GTVå…«å¤§ç»¼åˆå°,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+åŠ¨ç‰©æ˜Ÿçƒ,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+éŸ³ä¹æ¬£èµ,http://mywlkj.ddns.net:754/tv/tw3.php?id=16
+
+
+
+
+
+
+
+
 å®¶ä¹¡é¢‘é“,#genre#
 
 èŠåŸå…¬å…±,http://live.lcxw.cn/live/lctv01.m3u8
@@ -11999,4 +12059,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-09 15:05:38
+更新时间：2024-04-09 18:51:36
