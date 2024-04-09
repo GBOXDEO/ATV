@@ -7364,10 +7364,6 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
-ADXé¢‘é“,#genre#
-2024æ¬¢æ¬¢,https://vdept3.bdstatic.com/mda-qd89xdfwbiqu852v/720p/h264/1712646073950337948/mda-qd89xdfwbiqu852v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1712657397-0-0-fc2b354d926a1036dfb7145607eaddf0&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0597649862&vid=4833448081925989240&klogid=0597649862&abtest=
-2024å¦å¦,https://vdept3.bdstatic.com/mda-qd89vdxc6134h52g/360p/h264/1712646009004269454/mda-qd89vdxc6134h52g.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1712657338-0-0-0b5d99c11fa0aa5029d31ba290f7d169&bcevod_channel=searchbox_feed&cr=0&cd=0&pd=1&pt=3&logid=0538154171&vid=49083585803882505&klogid=0538154171&abtest=
-
 
 å¤®å«IPV6,#genre#
 //é¡ºåº - æ¹–åŒ—/é»‘é¾™æ±Ÿ/é™•è¥¿/æµ·å—
@@ -8058,10 +8054,7 @@ FUJITV,https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
-ä¸œåŒ—æˆæ›²,http://gongzhuling.lnott.top:9999/hls/25/index.m3u8
-ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-ä¸ƒå½©æˆå‰§,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-å²­å—æˆæ›²,http://113.110.72.121:808/hls/22/index.m3u8
+
 æ›²å‰§å°æˆã€Šæ¡‘æ—æ”¶å­ã€‹å¼ æ™“è‹±è¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
 æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹æ¢æ¯ã€æ²³å—æµè¿æ± æ›²å‰§å›¢ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
 é©¬éªä¸»æ¼”æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
@@ -12006,4 +11999,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-09 10:17:24
+更新时间：2024-04-09 15:05:38
