@@ -7364,10 +7364,12 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+ADXé¢‘é“,#genre#
+2024æ¬¢æ¬¢,https://vdept3.bdstatic.com/mda-qd89xdfwbiqu852v/720p/h264/1712646073950337948/mda-qd89xdfwbiqu852v.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1712657397-0-0-fc2b354d926a1036dfb7145607eaddf0&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=0597649862&vid=4833448081925989240&klogid=0597649862&abtest=
+2024å¦å¦,https://vdept3.bdstatic.com/mda-qd89vdxc6134h52g/360p/h264/1712646009004269454/mda-qd89vdxc6134h52g.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1712657338-0-0-0b5d99c11fa0aa5029d31ba290f7d169&bcevod_channel=searchbox_feed&cr=0&cd=0&pd=1&pt=3&logid=0538154171&vid=49083585803882505&klogid=0538154171&abtest=
 
 
-
-ğŸ¼å¤®å«IPV6,#genre#
+å¤®å«IPV6,#genre#
 //é¡ºåº - æ¹–åŒ—/é»‘é¾™æ±Ÿ/é™•è¥¿/æµ·å—
 //æ¹–åŒ—
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
@@ -12004,4 +12006,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-09 06:18:16
+更新时间：2024-04-09 10:17:24
