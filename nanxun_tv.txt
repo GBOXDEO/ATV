@@ -7364,6 +7364,15 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+ğŸ’¥æµ‹è¯•é¢‘é“,#genre#
+
+æ˜Ÿå…‰è§†ç•Œ,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+é‡æ¸©ç»å…¸,http://124.231.215.19:9999/tsfile/live/1111_1.m3u8
+é‡æ¸©ç»å…¸,http://124.231.215.27:9999/tsfile/live/1111_1.m3u8
+é‡æ¸©ç»å…¸,http://mywlkj.ddns.net:754/tv/cwjd.m3u8
+é‡æ¸©ç»å…¸,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
+
+
 ğŸ‡¨ğŸ‡³å®˜æ–¹é¢‘é“,#genre#
 
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
@@ -12224,4 +12233,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-10 22:13:42
+更新时间：2024-04-11 02:22:00
