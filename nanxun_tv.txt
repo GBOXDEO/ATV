@@ -7714,9 +7714,7 @@ CHCé«˜æ¸…,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 ç¯çƒç”µè§†,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 å‡¤å‡°ä¸­æ–‡,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 å‡¤å‡°èµ„è®¯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-å‡¤å‡°ä¸­æ–‡,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-å‡¤å‡°èµ„è®¯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-å‡¤å‡°é¦™æ¸¯,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+
 é¦™æ¸¯å«è§†,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 é¦™æ¸¯æ–‡æ—…,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 æ¾³äºšå«è§†,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -7801,12 +7799,10 @@ TVBSäºšæ´²,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 
 
-
-
 ğŸ‡¯ğŸ‡µæ—¥æœ¬é¢‘é“,#genre#
 
 //å®˜æ–¹
-çº¬æ¥æ—¥æœ¬,rtmp://f13h.mine.nu/sat/tv771
+
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
@@ -11510,4 +11506,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-12 10:13:36
+更新时间：2024-04-12 14:11:51
