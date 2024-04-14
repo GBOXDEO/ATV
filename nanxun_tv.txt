@@ -7364,8 +7364,74 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+ğŸ‡¨ğŸ‡³å¤®å«é¢‘é“,#genre#
 
-ğŸ‡¨ğŸ‡³å¤®è§†é¢‘é“,#genre#
+
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+å®‰å¾½å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+
+å…µå›¢å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+
+åŒ—äº¬å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+
+å¡é…å°‘å„¿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+
+BTVçºªå®,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+
+
+é‡åº†å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+ä¸œæ–¹å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+ä¸œå—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+ç”˜è‚ƒå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+å¹¿ä¸œå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+å¹¿è¥¿å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+è´µåå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+æ²³åŒ—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+é»‘é¾™æ±Ÿå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+æ²³å—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+æ¹–åŒ—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+æ¹–å—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+æ±Ÿè‹å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+æ±Ÿè¥¿å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+å‰æ—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+è¾½å®å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+å†…è’™å¤å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+å®å¤å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+é’æµå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+å±±ä¸œå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+å±±è¥¿å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+é™•è¥¿å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+æ±åœ³å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+å››åå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+å¤©æ´¥å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+æµå—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+æ–°ç–†å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+è¥¿è—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+å»¶è¾¹å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+äº‘å—å«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+æµ™æ±Ÿå«è§†,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
+
+
+//å¤®è§†IPV6
 //é¡ºåº - æ¹–åŒ—/é»‘é¾™æ±Ÿ/é™•è¥¿/æµ·å—
 //æ¹–åŒ—
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
@@ -7453,7 +7519,7 @@ CCTV6,http://mywlkj.ddns.net:754/tv/cctv6.m3u8
 CCTV2,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
 
 
-ğŸ‡¨ğŸ‡³å«è§†é¢‘é“,#genre#
+//å«è§†IPV6
 //é¡ºåº - æ¹–åŒ—/é»‘é¾™æ±Ÿ/é™•è¥¿/æµ·å—
 //æ¹–åŒ—
 å®‰å¾½å«è§†,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgGVSARKsxkWGZw7vFUuOj2Qc9XJS6ezvAUx%2FdaE2fSJr3cdTmmqJgNdIzUOCi9%2BOyg
@@ -7501,7 +7567,7 @@ CCTV2,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
 å†…è’™å¤å«è§†,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?AuthInfo=7lAOfreToIabkYEBYF1%2BWCg%2BFJmNHniNGz9lIf%2FFuMRNPINSc7cKQZCTuuz5ZoufoEYBG34BsDXZsLnY%2B%2BGcEw%3D%3D
 å…µå›¢å«è§†,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 æ¢¨å›­,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
+
 
 
 
@@ -7556,7 +7622,7 @@ CCTV2,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
 å…µå›¢å«è§†,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226439/index.m3u8
 å¤§æ¹¾åŒºè§†,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
 å¡é…å°‘å„¿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225654/index.m3u8
-æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
+
 
 //æµ·å—
 å®‰å¾½å«è§†,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?key=tvbox6_com
@@ -7593,7 +7659,7 @@ CCTV2,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
 å˜‰ä½³å¡é€š,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000343/index.m3u8?key=tvbox6_com
 ç™¾è§†é€š4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?key=tvbox6_com
 çˆ±ä¸Š4K.å¤‡ç”¨,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?key=tvbox6_com
-æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
+
 
 éƒ‘é“é¢‘é“,http://mywlkj.ddns.net:754/tv/zrtv.m3u8
 äººæ°‘é“é“,http://mywlkj.ddns.net:754/tv/rmtd.m3u8
@@ -10445,4 +10511,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-14 03:14:59
+更新时间：2024-04-14 07:53:45
