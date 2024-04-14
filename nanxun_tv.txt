@@ -7364,6 +7364,7 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+
 ğŸ‡¨ğŸ‡³å¤®è§†é¢‘é“,#genre#
 //é¡ºåº - æ¹–åŒ—/é»‘é¾™æ±Ÿ/é™•è¥¿/æµ·å—
 //æ¹–åŒ—
@@ -7393,7 +7394,7 @@ CGTNè¥¿ç­ç‰™è¯­,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
+
 //é»‘é¾™æ±Ÿ
 
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -7427,7 +7428,7 @@ MIGU1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8
 MIGU2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226147/index.m3u8
 MIGU3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226398/index.m3u8
 MIGU4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226469/index.m3u8
-æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
+
 
 //æµ·å—
 
@@ -7447,7 +7448,10 @@ CCTV14,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV15,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?key=tvbox6_com
 CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?key=tvbox6_com
 CETV1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?key=tvbox6_com
-æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
+CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
+CCTV6,http://mywlkj.ddns.net:754/tv/cctv6.m3u8
+CCTV2,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
+
 
 ğŸ‡¨ğŸ‡³å«è§†é¢‘é“,#genre#
 //é¡ºåº - æ¹–åŒ—/é»‘é¾™æ±Ÿ/é™•è¥¿/æµ·å—
@@ -7591,7 +7595,27 @@ CETV1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/000000010000000600000000000004
 çˆ±ä¸Š4K.å¤‡ç”¨,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?key=tvbox6_com
 æ— IPV6åœ,https://gitee.com/tv2785/tvbox/raw/master/gg.mp4
 
+éƒ‘é“é¢‘é“,http://mywlkj.ddns.net:754/tv/zrtv.m3u8
+äººæ°‘é“é“,http://mywlkj.ddns.net:754/tv/rmtd.m3u8
 
+æµ™æ±Ÿå«è§†,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+å®‰å¾½å«è§†,http://live.ahsx.ahtv.cn/live/ahtv.m3u8?txSecret=a069b18fac6cd605568d3733d24e5613&txTime=6955487F
+é‡åº†å«è§†,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
+åŒ—äº¬å«è§†,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+å¦é—¨å«è§†,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
+å¹¿è¥¿å«è§†,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+å±±ä¸œå«è§†,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+å±±è¥¿å«è§†,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+æ²³åŒ—å«è§†,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+é»„æ²³å«è§†,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+ä¸‰æ²™å«è§†,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+é’æµå«è§†,http://stream.qhbtv.com/qhws/sd/live.m3u8
+å®‰å¤šå«è§†,http://stream.qhbtv.com/adws/sd/live.m3u8
+ç”˜è‚ƒå«è§†,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+äº‘å—å«è§†,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+å»¶è¾¹å«è§†,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+å®å¤å«è§†,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
+å†…è’™å¤å«è§†,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
 
 
@@ -7621,7 +7645,7 @@ CETV1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/000000010000000600000000000004
 å‡¤å‡°èµ„è®¯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
 é¦™æ¸¯å«è§†,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-é¦™æ¸¯æ–‡æ—…,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+
 æ¾³äºšå«è§†,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 ä¸­å¤©æ–°é—»,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
@@ -7714,10 +7738,10 @@ NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
+
 NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
-
+NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&checkedby:iptvcat.com
 NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.com
 NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
 
@@ -7854,11 +7878,6 @@ CN,http://103.36.32.14:5002/cs25.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 å®å¡šSKYSTAGE,http://103.36.32.14:5002/cs28.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 é“¶æ²³CHANNEL,http://103.36.32.14:5002/cs29.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 
-
-
-
-
-
 é–å¤©æ—¥æœ¬,P2p://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
 
 
@@ -7975,7 +7994,48 @@ MusicJapanTV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 æ—¥ãƒ†ãƒ¬,https://ntv4.mov3.co/hls/ntv.m3u8
 FUJITV,https://fujitv4.mov3.co/hls/fujitv.m3u8
 
+//stream01
 
+æ—¥ãƒ†ãƒ¬NEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+QVC_Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+J_SPORTS_1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J_SPORTS_2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J_SPORTS_3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J_SPORTS_4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+é’“ã‚Šãƒ“ã‚¸ãƒ§ãƒ³,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ä¸œæ˜ ãƒãƒ£ãƒ³ãƒãƒ«,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+æ­Œè°£ãƒãƒƒãƒ—ã‚¹ãƒãƒ£ãƒ³ãƒãƒ«,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+æ—¥æœ¬æ˜ ç”»å°‚é—¨ãƒãƒ£ãƒ³ãƒãƒ«,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒãƒ£ãƒ³ãƒãƒ«é“¶æ²³,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒãƒ£ãƒ³ãƒãƒ«NECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒ†ãƒ¬ãƒ“æœæ—¥,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒ†ãƒ¬ãƒ“ä¸œäº¬,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒ•ã‚¡ãƒŸãƒªãƒ¼å‰§åœº,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒ•ã‚¸ãƒ†ãƒ¬ãƒ“,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒ›ãƒ¼ãƒ ãƒ‰ãƒ©ãƒãƒãƒ£ãƒ³ãƒãƒ«,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ãƒ ãƒ¼ãƒ“ãƒ¼ãƒ—ãƒ©ã‚¹,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+æ—¥æœ¬ãƒ†ãƒ¬ãƒ“,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+æ—¥ãƒ†ãƒ¬NEWS24,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+æ—¥ãƒ†ãƒ¬ã‚¸ãƒ¼ã‚¿ã‚¹,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+æ—¶ä»£å‰§å°‚é—¨ãƒãƒ£ãƒ³ãƒãƒ«,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+å›²ç¢?å°†æ£‹ãƒãƒ£ãƒ³ãƒãƒ«,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSã‚¢ãƒ‹ãƒãƒƒã‚¯ã‚¹,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+BSãƒ†ãƒ¬ä¸œ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK_BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHKæ•™è‚²,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHKçåˆ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWã‚ãƒãƒ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWãƒ—ãƒ©ã‚¤ãƒ ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚­ãƒƒã‚ºã‚¹ãƒ†ãƒ¼ã‚ãƒ§ãƒ³,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚´ãƒ«ãƒ•ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚¹ãƒ¼ãƒ‘ãƒ¼!ãƒ‰ãƒ©ãƒTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚¹ã‚«ã‚¤A,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 
@@ -10385,4 +10445,4 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 一本141720*404,https://vip4.ddyunbo.com/20210202/NhEBcAp7/index.m3u8?skipl=1
 一本137720*404,https://vip4.ddyunbo.com/20210203/Rs915orP/index.m3u8?skipl=1
 一本126720*404,https://vip4.ddyunbo.com/20210203/z0V8HvxE/index.m3u8?skipl=1
-更新时间：2024-04-13 22:10:57
+更新时间：2024-04-14 03:14:59
