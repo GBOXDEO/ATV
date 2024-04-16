@@ -7365,34 +7365,107 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
 
-央视IPV6,#genre#
+港台测试,#genre#
+凤凰卫视中文台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=1
+凤凰卫视资讯,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=2
+TVB翡翠台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=4
+TVB无线新闻台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
+TVB无线财经体育,http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
+TVB_J2台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=8
+TVB亚洲武侠,http://8.137.59.151:99/haioutz/haiousmttz.php?id=9
+TVB翡翠台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=4
+TVB无线新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=5
+TVB无线财经体育,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=6
+TVB_J2台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=8
+TVB18台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=21
+TVB亚洲武侠,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=9
+TVB明珠台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=12
+TVB_星河台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=13
+天映,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=15
+天映经典,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=16
+RHK31,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=17
+RHK32,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=18
+民视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=26
+台视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=27
+中视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=28
+华视,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=29
+TVBS,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=30
+TVBS欢乐台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=32
+民视台湾,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=33
+三立综合台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=34
+三立台湾台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=35
+三立都会台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=36
+八大综合台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=37
+爱尔达综合,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=38
+中天亚洲台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=39
+中天综合台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=40
+中天娱乐台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=41
+华艺综合台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=42
+东森电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=43
+东森洋片,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=44
+纬来电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=45
+好莱坞电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=46
+AXN台湾,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=47
+龙华电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=48
+龙华洋片台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=49
+龙华戏剧台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=50
+龙华偶像台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=51
+美亚电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=52
+HBO_,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=53
+HBO_HITS,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=54
+HBOSignature,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=55
+HBO温馨家庭,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=56
+TVBS新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=57
+中天新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=58
+台视新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=59
+中视新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=60
+民视新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=61
+东森新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=62
+寰宇新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=63
+非凡新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=64
+年代新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=65
+东森财经,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=66
+EYETV戏剧,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=67
+EYETV旅游,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=68
+靖天国际台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=69
+靖天卡通台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=70
+东森超视台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=71
+美食星球台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=72
+亚洲旅游台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=73
+TLC旅游台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=74
+国家地理野生,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=75
+纬来日本台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=76
+纬来体育台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=77
+龙华戏剧台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=78
+龙华偶像台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=79
+美亚电影,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=80
+CINEMAX,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=81
+HBO_,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=82
+HBO_HITS,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=83
+HBOSignature,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=84
+HBO温馨家庭,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=85
+爱尔达体育1台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=91
+爱尔达体育2台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=92
+爱尔达体育3台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=93
+博斯运动1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=94
+博斯运动2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=95
+博斯高球1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=96
+博斯高球2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=97
+博斯网球,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=98
+astrSupersports1,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=99
+astrSupersports2,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=100
+astrSupersports3,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=101
+astrSupersports4,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=102
+
+
+央视频道,#genre#
 
 熊猫,https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/ipanda1000_2_td.m3u8
-
-
-//央视IPV6
-//顺序 - 湖北/黑龙江/陕西/海南
-//湖北
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
-CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
-CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
-CCTV4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
-CCTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
-CCTV5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
-CCTV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
-CCTV7,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHYKFve4MwNzRa0jPXeHjqnBjPmzSdKDNWNHhnZSaMGCXKmdx8d%2BnYdhVK5ge22ot4
-CCTV8,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
-CCTV9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
-CCTV10,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
-CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
-CCTV12,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU
-CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
-CCTV14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
-CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
-CCTV17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
+
+//央视IPV6
 
 
 //黑龙江
@@ -7417,6 +7490,31 @@ CCTV16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 
+
+//湖北
+
+CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
+CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
+CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
+CCTV4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
+CCTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
+CCTV5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+CCTV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
+CCTV7,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHYKFve4MwNzRa0jPXeHjqnBjPmzSdKDNWNHhnZSaMGCXKmdx8d%2BnYdhVK5ge22ot4
+CCTV8,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
+CCTV9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
+CCTV10,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
+CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
+CCTV12,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU
+CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
+CCTV14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
+CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
+CCTV17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
+
+
+
+
+
 //海南
 
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?key=tvbox6_com
@@ -7439,7 +7537,7 @@ CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8$�
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8$官方
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13$官方
 
-卫视IPV6,#genre#
+卫视频道,#genre#
 
 
 
@@ -8292,6 +8390,7 @@ Q714238137《光棍哭妻》,http://gcw.bdcdn.shoujiduoduo.com/201805/1812-365.m
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
 春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+西游齐天乐1987,http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
 春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
 春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
@@ -8327,6 +8426,10 @@ Q714238137《光棍哭妻》,http://gcw.bdcdn.shoujiduoduo.com/201805/1812-365.m
 春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
 
@@ -10156,4 +10259,4 @@ DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念
 天籁之音HiFiRadio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
 天籁之音国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
 天籁之音经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
-更新时间：2024-04-15 22:11:11
+更新时间：2024-04-16 02:20:25
