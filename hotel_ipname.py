@@ -49,7 +49,7 @@ diqu = [
     "河北",
     "上海"
     ]
-random_choice = random.choice(diqu)
+random_choice = urllib.parse.quote(random.choice(diqu), safe='')
 
 def contains_any_value(text, diqu):
     for dq in diqu:
