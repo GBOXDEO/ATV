@@ -11,6 +11,7 @@ import re
 from bs4 import BeautifulSoup
 from queue import Queue
 import threading
+import urllib.parse
 
 not_ip = [
     "14.19.199.43:8089",
