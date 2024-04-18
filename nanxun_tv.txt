@@ -7364,6 +7364,23 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+测试频道,#genre#
+
+中天新闻台,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+三立新闻台,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+台视新闻台,http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
+
+TVBS新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=57
+中天新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=58
+台视新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=59
+中视新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=60
+民视新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=61
+东森新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=62
+寰宇新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=63
+非凡新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=64
+年代新闻台,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=65
+东森财经,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=66
+
 央视IPV6,#genre#
 
 熊猫,https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/ipanda1000_2_td.m3u8
@@ -7627,15 +7644,10 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13$官方
 
 
 港台频道,#genre#
-TVBS新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=57
-中天新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=58
-台视新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=59
-中视新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=60
-民视新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=61
-东森新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=62
-寰宇新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=63
-非凡新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=64
-年代新闻,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=65
+
+
+
+
 
 //我的港台
 
@@ -10663,4 +10675,4 @@ ATV垫台,p3p://108.181.32.169:48527/641a80b3000e6c47c0e0793a487a2d83
 76.FootsieBabes,p3p://108.181.32.169:48527/64231fc9000c2217e28dae004f27257d
 77.FTVGirls,p3p://108.181.32.169:48527/64231fd4000eb8abe28dd9a20117693f
 78.FuckedHard18,p3p://108.181.32.169:48527/
-更新时间：2024-04-17 22:11:24
+更新时间：2024-04-18 06:16:34
