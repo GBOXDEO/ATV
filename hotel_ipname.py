@@ -84,7 +84,10 @@ for i in range(1, page + 1):
     try:
         # 创建一个Chrome WebDriver实例
         results = []
-        url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
+        if is_odd_or_even(random.randint(1, 999)):
+            url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
+        else:
+            url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
         chrome_options = Options()
         chrome_options.add_argument('--headless')
