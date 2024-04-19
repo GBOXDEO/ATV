@@ -123,6 +123,7 @@ for i in range(1, page + 1):
             if result_paragraph:
                 number = re.search(r'\d+', result_paragraph.text).group()
                 list_page = math.ceil(number / 20)
+                print(f"{random_choice} 当前总页数：{list_page}")
     
         # 关闭WebDriver
         driver.quit()
