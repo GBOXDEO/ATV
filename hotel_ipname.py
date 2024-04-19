@@ -105,6 +105,10 @@ for i in range(1, page + 1):
         chrome_options.add_argument('--disable-dev-shm-usage')
         chrome_options.add_experimental_option("useAutomationExtension", False)
         chrome_options.add_argument("blink-settings=imagesEnabled=false")
+        # 添加自定义的User Agent字符串
+        custom_user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+        chrome_options.add_argument(f'user-agent={custom_user_agent}')
+        
         driver = webdriver.Chrome(options=chrome_options)
         driver.set_page_load_timeout(90)  # 10秒后超时
         # 设置脚本执行超时
