@@ -119,7 +119,7 @@ for i in range(1, page + 1):
         time.sleep(random.randint(3, 10))
         soup = BeautifulSoup(driver.page_source, "html.parser")
         if list_page == 0:
-            result_paragraph = soup.find('p', text=re.compile('About \d+ results'))
+            result_paragraph = soup.find('p', string=re.compile('About \d+ results'))
             if result_paragraph:
                 number = re.search(r'\d+', result_paragraph.text).group()
                 list_page = math.ceil(number / 20)
