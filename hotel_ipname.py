@@ -184,8 +184,9 @@ for i in range(1, page + 1):
             tonkiang_err = 0 
         print(f"=========================>>> Thread {url} error")
     finally:
-        if i >= list_page:
-            break
+        if list_page > 0:
+            if i >= list_page:
+                break
         
 resultslist = set(resultslist)    # 去重得到唯一的URL列表
 
