@@ -12,6 +12,7 @@ from bs4 import BeautifulSoup
 from queue import Queue
 import threading
 import urllib.parse
+import math
 
 not_ip = [
     "14.19.199.43:8089",
@@ -62,6 +63,7 @@ infoList = []
 urls_y = []
 resultslist = []
 page = 200
+list_page = 0
 urls = [
     "http://tonkiang.us/hoteliptv.php?page=1&s=江苏",
     ]
@@ -80,15 +82,22 @@ def is_odd_or_even(number):
         return True
     else:
         return False
-
+tonkiang_err = 0
+foodieguide_err = 0
 for i in range(1, page + 1):
     try:
         # 创建一个Chrome WebDriver实例
         results = []
         if is_odd_or_even(random.randint(1, 999)):
-            url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
+            if tonkiang_err == 0:
+                url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
+            else:
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         else:
-            url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
+            if foodieguide_err == 0
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
+            else:
+                url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
         chrome_options = Options()
         chrome_options.add_argument('--headless')
@@ -109,6 +118,11 @@ for i in range(1, page + 1):
         )
         time.sleep(random.randint(3, 10))
         soup = BeautifulSoup(driver.page_source, "html.parser")
+        if list_page == 0:
+            result_paragraph = soup.find('p', text=re.compile('About \d+ results'))
+            if result_paragraph:
+                number = re.search(r'\d+', result_paragraph.text).group()
+                list_page = math.ceil(number / 20)
     
         # 关闭WebDriver
         driver.quit()
@@ -161,7 +175,16 @@ for i in range(1, page + 1):
                                 print(f"{ipname},{ip},{dq_name}")
                             name_html_txt = ""
     except:
+        if 'tonkiang' in url:
+            tonkiang_err = 1
+            foodieguide_err = 0
+        elif 'foodieguide' in url:
+            foodieguide_err = 1
+            tonkiang_err = 0 
         print(f"=========================>>> Thread {url} error")
+    finally:
+        if i >= list_page:
+            break
         
 resultslist = set(resultslist)    # 去重得到唯一的URL列表
 
