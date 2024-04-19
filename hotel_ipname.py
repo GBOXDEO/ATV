@@ -94,7 +94,7 @@ for i in range(1, page + 1):
             else:
                 url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         else:
-            if foodieguide_err == 0
+            if foodieguide_err == 0:
                 url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
             else:
                 url = f"http://tonkiang.us/hoteliptv.php?page={i}&s={random_choice}"
