@@ -122,6 +122,9 @@ for i in range(1, page + 1):
         )
         time.sleep(random.randint(3, 10))
         soup = BeautifulSoup(driver.page_source, "html.parser")
+        print("-------------------------------------------------------------------------------------------------------")
+        print(soup)
+        print("-------------------------------------------------------------------------------------------------------")
         if list_page == 0:
             result_paragraph = soup.find('p', string=re.compile('About \d+ results'))
             if result_paragraph:
@@ -143,9 +146,7 @@ for i in range(1, page + 1):
             #break
             print("Err-------------------------------------------------------------------------------------------------------")
         for result in results:
-            print("-------------------------------------------------------------------------------------------------------")
-            print(result)
-            print("-------------------------------------------------------------------------------------------------------")
+
             html_txt = f"{result}"
             if "暂时失效" not in html_txt:
                 m3u8_div = result.find("a")
