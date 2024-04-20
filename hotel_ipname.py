@@ -13,6 +13,8 @@ from queue import Queue
 import threading
 import urllib.parse
 import math
+import requests
+from requests.exceptions import Timeout
 
 not_ip = [
     "14.19.199.43:8089",
