@@ -100,11 +100,11 @@ for i in range(1, page + 1):
                 url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
         chrome_options = Options()
-        # chrome_options.add_argument('--headless')
-        # chrome_options.add_argument('--no-sandbox')
-        # chrome_options.add_argument('--disable-dev-shm-usage')
-        # chrome_options.add_experimental_option("useAutomationExtension", False)
-        # chrome_options.add_argument("blink-settings=imagesEnabled=false")
+        chrome_options.add_argument('--headless')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_experimental_option("useAutomationExtension", False)
+        chrome_options.add_argument("blink-settings=imagesEnabled=false")
         # 添加自定义的User Agent字符串
         custom_user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
         chrome_options.add_argument(f'user-agent={custom_user_agent}')
