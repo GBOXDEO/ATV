@@ -102,11 +102,7 @@ for i in range(1, page + 1):
                 url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
         chrome_options = Options()
-        chrome_options.add_argument('--headless')
-        chrome_options.add_argument('--no-sandbox')
-        chrome_options.add_argument('--disable-dev-shm-usage')
-        chrome_options.add_experimental_option("useAutomationExtension", False)
-        chrome_options.add_argument("blink-settings=imagesEnabled=false")
+
         # 添加HTTP头信息
         http_headers = {
             "User-Agent": "Chrome/4.0",
@@ -122,7 +118,12 @@ for i in range(1, page + 1):
         # 将HTTP头信息添加到Chrome选项中
         for key, value in http_headers.items():
             chrome_options.add_argument(f"{key}={value}")
-        
+            
+        chrome_options.add_argument('--headless')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        chrome_options.add_experimental_option("useAutomationExtension", False)
+        chrome_options.add_argument("blink-settings=imagesEnabled=false")
         # 创建WebDriver实例并传递配置
         driver = webdriver.Chrome(options=chrome_options)
         
