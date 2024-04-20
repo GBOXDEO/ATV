@@ -99,6 +99,11 @@ for i in range(1, page + 1):
             else:
                 url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
+        response = requests.get(url, allow_redirects=True, timeout=30)
+        if response.status_code == 200:
+            print("=============================================================================================================================")
+            print(response.text)
+            print("=============================================================================================================================")
         chrome_options = Options()
         chrome_options.add_argument('--headless')
         chrome_options.add_argument('--no-sandbox')
