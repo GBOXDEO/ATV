@@ -90,14 +90,14 @@ for i in range(1, page + 1):
         results = []
         if is_odd_or_even(random.randint(1, 999)):
             if tonkiang_err == 0:
-                url = f"http://view-source:foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
             else:
-                url = f"http://view-source:foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         else:
             if foodieguide_err == 0:
-                url = f"http://view-source:foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
             else:
-                url = f"http://view-source:foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
         chrome_options = Options()
         chrome_options.add_argument('--headless')
@@ -120,7 +120,8 @@ for i in range(1, page + 1):
                 (By.CSS_SELECTOR, "div.box")
                 )
         )
-        time.sleep(random.randint(3, 10))
+        # time.sleep(random.randint(3, 10))
+        time.sleep(20)
         soup = BeautifulSoup(driver.page_source, "html.parser")
 
         if list_page == 0:
