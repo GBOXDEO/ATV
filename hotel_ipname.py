@@ -101,22 +101,31 @@ for i in range(1, page + 1):
             else:
                 url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&s={random_choice}"
         print(url)
-        response = requests.get(url, allow_redirects=True, timeout=30)
-        if response.status_code == 200:
-            print("=============================================================================================================================")
-            print(response.text)
-            print("=============================================================================================================================")
         chrome_options = Options()
         chrome_options.add_argument('--headless')
         chrome_options.add_argument('--no-sandbox')
         chrome_options.add_argument('--disable-dev-shm-usage')
         chrome_options.add_experimental_option("useAutomationExtension", False)
         chrome_options.add_argument("blink-settings=imagesEnabled=false")
-        # 添加自定义的User Agent字符串
-        custom_user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
-        chrome_options.add_argument(f'user-agent={custom_user_agent}')
+        # 添加HTTP头信息
+        http_headers = {
+            "User-Agent": "Chrome/4.0",
+            "Accept-Ranges": "bytes",
+            "Access-Control-Allow-Credentials": "true",
+            "Access-Control-Allow-Headers": "x-requested-with",
+            "Access-Control-Allow-Methods": "POST, GET, OPTIONS, DELETE",
+            "Access-Control-Max-Age": "3600",
+            "Content-Language": "zh-CN",
+            "Content-Type": "text/html; charset=UTF-8"
+        }
         
+        # 将HTTP头信息添加到Chrome选项中
+        for key, value in http_headers.items():
+            chrome_options.add_argument(f"{key}={value}")
+        
+        # 创建WebDriver实例并传递配置
         driver = webdriver.Chrome(options=chrome_options)
+        
         driver.set_page_load_timeout(90)  # 10秒后超时
         # 设置脚本执行超时
         driver.set_script_timeout(80)  # 5秒后超时
