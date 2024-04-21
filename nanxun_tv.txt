@@ -7364,6 +7364,8 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+
+
 ğŸ¼çœ‹ç”µè§†å‘—ğŸ‘‰æ‰“å¡,#genre#
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
@@ -7828,6 +7830,11 @@ CGTNè®°å½•,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 æ°‘è§†æ–°é—»,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 TVBSæ–°é—»,rtmp://twcdn.top/sat/tv551
 éå‡¡æ–°é—»,rtmp://f13h.mine.nu/sat/tv581
+
+
+
+
+
 
 æ°‘è§†,rtmp://f13h.mine.nu/sat/tv051
 å°è§†,rtmp://f13h.mine.nu/sat/tv071
@@ -10904,4 +10911,4 @@ ATV垫台,p3p://108.181.32.169:48527/641a80b3000e6c47c0e0793a487a2d83
 76.FootsieBabes,p3p://108.181.32.169:48527/64231fc9000c2217e28dae004f27257d
 77.FTVGirls,p3p://108.181.32.169:48527/64231fd4000eb8abe28dd9a20117693f
 78.FuckedHard18,p3p://108.181.32.169:48527/
-更新时间：2024-04-20 19:52:52
+更新时间：2024-04-21 02:20:38
