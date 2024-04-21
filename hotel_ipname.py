@@ -64,7 +64,7 @@ def contains_any_value(text, diqu):
 infoList = []
 urls_y = []
 resultslist = []
-page = 40
+page = 30
 list_page = 0
 urls = [
     "http://tonkiang.us/hoteliptv.php?page=1&s=江苏",
@@ -132,7 +132,7 @@ for i in range(1, page + 1):
         driver.set_script_timeout(80)  # 5秒后超时
         # 使用WebDriver访问网页
         driver.get(url)  # 将网址替换为你要访问的网页地址
-        time.sleep(20)
+        time.sleep(10)
         driver.get(url)  # 将网址替换为你要访问的网页地址
         WebDriverWait(driver, 75).until(
             EC.presence_of_element_located(
