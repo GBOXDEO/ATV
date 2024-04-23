@@ -7368,6 +7368,12 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 CCTV1,http://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 CCTV13,http://ldncctvwbndali.v.myalicdn.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV1,http://ldncctvwbndali.v.myalicdn.com/ldncctvwbnd/ldcctv1_2/index.m3u8
@@ -7805,9 +7811,19 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
-
+中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+
+三立NEWS,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+三立LIVE,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
+三立NEWS,http://66.165.240.154:8080/live/slxw01/hls.m3u8
+三立LIVE,http://66.165.240.154:8080/live/slxw02/hls.m3u8
+台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
+
+TVBS,http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
+
+
 
 民视新闻,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 TVBS新闻,rtmp://twcdn.top/sat/tv551
@@ -11762,4 +11778,4 @@ ATV垫台,p3p://108.181.32.169:48527/641a80b3000e6c47c0e0793a487a2d83
 76.FootsieBabes,p3p://108.181.32.169:48527/64231fc9000c2217e28dae004f27257d
 77.FTVGirls,p3p://108.181.32.169:48527/64231fd4000eb8abe28dd9a20117693f
 78.FuckedHard18,p3p://108.181.32.169:48527/
-更新时间：2024-04-23 02:20:01
+更新时间：2024-04-23 06:10:26
