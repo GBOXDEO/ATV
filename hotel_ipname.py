@@ -84,6 +84,30 @@ def is_odd_or_even(number):
         return True
     else:
         return False
+# 测试网站参数
+test_url = 'http://foodieguide.com/iptvsearch/hoteliptv.php'  # 请替换为实际的提交URL
+test_name = random.choice(diqu)
+data = {
+    'search': f'{test_name}'  # 使用f-string插入变量值（Python 3.6+）
+}
+print('测试url=',test_url)
+response = requests.post(test_url, data=data)
+if response.status_code == 200:
+    print("请求成功，状态码：", response.status_code)
+    # 打印响应内容
+    html = response.text
+    print(html)
+    # 使用BeautifulSoup解析HTML
+    soup = BeautifulSoup(html, 'lxml')
+    
+    # 查找所有的<a>标签
+    a_tags = soup.find_all('a')
+    
+    # 遍历<a>标签，并提取href属性
+    for a_tag in a_tags:
+        href = a_tag.get('href')
+        print(href)
+print("***********************************************************************************")
 tonkiang_err = 0
 foodieguide_err = 0
 for i in range(1, page + 1):
