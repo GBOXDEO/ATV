@@ -97,16 +97,16 @@ if response.status_code == 200:
     # 打印响应内容
     html = response.text
     print(html)
-soup11 = BeautifulSoup(html, 'html.parser')
-
-# 查找所有的<a>标签
-links = soup11.find_all('a')
-
-# 遍历所有的<a>标签，提取href属性，并解析出rnd的值
-for link in links:
-    href = link.get('href')  # 获取href属性的值
-    if href and 'rnd=' in href:  # 检查href是否包含'rnd='
-        print(href)  # 打印rnd的值
+    soup11 = BeautifulSoup(html, 'html.parser')
+    
+    # 查找所有的<a>标签
+    links = soup11.find_all('a')
+    
+    # 遍历所有的<a>标签，提取href属性，并解析出rnd的值
+    for link in links:
+        href = link.get('href')  # 获取href属性的值
+        if href and 'rnd=' in href:  # 检查href是否包含'rnd='
+            print(href)  # 打印rnd的值
 print("***********************************************************************************")
 tonkiang_err = 0
 foodieguide_err = 0
@@ -116,14 +116,14 @@ for i in range(1, page + 1):
         results = []
         if is_odd_or_even(random.randint(1, 999)):
             if tonkiang_err == 0:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&pv={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
             else:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&pv={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
         else:
             if foodieguide_err == 0:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&pv={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
             else:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&pv={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
         print(url)
         chrome_options = Options()
 
