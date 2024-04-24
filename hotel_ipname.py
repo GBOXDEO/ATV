@@ -66,6 +66,7 @@ urls_y = []
 resultslist = []
 page = 30
 list_page = 0
+seek_find = "rnd"
 urls = [
     "http://tonkiang.us/hoteliptv.php?page=1&s=江苏",
     ]
@@ -93,20 +94,32 @@ data = {
 print('测试url=',test_url)
 response = requests.post(test_url, data=data)
 if response.status_code == 200:
-    print("请求成功，状态码：", response.status_code)
-    # 打印响应内容
-    html = response.text
-    print(html)
-    soup11 = BeautifulSoup(html, 'html.parser')
-    
-    # 查找所有的<a>标签
-    links = soup11.find_all('a')
-    
-    # 遍历所有的<a>标签，提取href属性，并解析出rnd的值
-    for link in links:
-        href = link.get('href')  # 获取href属性的值
-        if href and 'rnd=' in href:  # 检查href是否包含'rnd='
-            print(href)  # 打印rnd的值
+    try:
+        print("请求成功，状态码：", response.status_code)
+        # 打印响应内容
+        html = response.text
+        # print(html)
+        soup11 = BeautifulSoup(html, 'html.parser')
+        
+        # 查找所有的<a>标签
+        links = soup11.find_all('a')
+        
+        # 遍历所有的<a>标签，提取href属性，并解析出rnd的值
+        for link in links:
+            href = link.get('href')  # 获取href属性的值
+            if href and 'rnd=' in href:  # 检查href是否包含'rnd='
+                print(href)  # 打印rnd的值
+                count = href.count('&')
+                if count == 1:
+                    aa, bb = href.split('&')
+                    cou = bb.count('=')
+                    if cou == 1:
+                        cc, dd = href.split('=')
+                        if len(cc) > 0:
+                            seek_find = cc
+                            break
+    except:
+        print("请求失败，状态码：", response.status_code)
 print("***********************************************************************************")
 tonkiang_err = 0
 foodieguide_err = 0
@@ -116,14 +129,14 @@ for i in range(1, page + 1):
         results = []
         if is_odd_or_even(random.randint(1, 999)):
             if tonkiang_err == 0:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
             else:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
         else:
             if foodieguide_err == 0:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
             else:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&rnd={random_choice}"
+                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
         print(url)
         chrome_options = Options()
 
