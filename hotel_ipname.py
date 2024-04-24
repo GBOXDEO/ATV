@@ -64,7 +64,7 @@ def contains_any_value(text, diqu):
 infoList = []
 urls_y = []
 resultslist = []
-page = 30
+page = random.randint(20, 40)
 list_page = 0
 seek_find = "rnd"
 urls = [
