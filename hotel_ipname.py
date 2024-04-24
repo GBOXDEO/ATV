@@ -85,7 +85,7 @@ def is_odd_or_even(number):
     else:
         return False
 # 测试网站参数
-test_url = 'http://foodieguide.com/iptvsearch/hoteliptv.php'  # 请替换为实际的提交URL
+test_url = 'http://foodieguide.com/iptvsearch/hoteliptv.php?page=2'  # 请替换为实际的提交URL
 test_name = random.choice(diqu)
 data = {
     'search': f'{test_name}'  # 使用f-string插入变量值（Python 3.6+）
