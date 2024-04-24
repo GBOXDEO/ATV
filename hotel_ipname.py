@@ -97,16 +97,16 @@ if response.status_code == 200:
     # 打印响应内容
     html = response.text
     print(html)
-    # 使用BeautifulSoup解析HTML
-    soup = BeautifulSoup(html, 'lxml')
-    
-    # 查找所有的<a>标签
-    a_tags = soup.find_all('a')
-    
-    # 遍历<a>标签，并提取href属性
-    for a_tag in a_tags:
-        href = a_tag.get('href')
-        print(href)
+soup11 = BeautifulSoup(html, 'html.parser')
+
+# 查找所有的<a>标签
+links = soup11.find_all('a')
+
+# 遍历所有的<a>标签，提取href属性，并解析出rnd的值
+for link in links:
+    href = link.get('href')  # 获取href属性的值
+    if href and 'rnd=' in href:  # 检查href是否包含'rnd='
+        print(href)  # 打印rnd的值
 print("***********************************************************************************")
 tonkiang_err = 0
 foodieguide_err = 0
