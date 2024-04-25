@@ -165,8 +165,6 @@ for i in diqu:
                     list_page = math.ceil(number / 20)
                     print(f"{random_choice} 当前总页数：{list_page}")
         
-            # 关闭WebDriver
-            driver.quit()
             tables_div = soup.find("div", class_="tables")
             results = (
                 tables_div.find_all("div", class_="result")
