@@ -51,7 +51,18 @@ diqu = [
     "辽宁",
     "山西",
     "河北",
-    "上海"
+    "上海",
+    "深圳",
+    "广州",
+    "揭阳",
+    "汕头",
+    "音乐",
+    "经济",
+    "文旅",
+    "新闻",
+    "综合",
+    "cctv",
+    "凤凰"
     ]
 # random_choice = urllib.parse.quote(random.choice(diqu), safe='')
 random_choice = urllib.parse.quote('广东', safe='')
@@ -72,7 +83,8 @@ urls = [
     ]
 # 初始化计数器为0
 counter = -1
- 
+ end_url = [] 
+end_retu_url = ''
 # 每次调用该函数时将计数器加1并返回结果
 def increment_counter():
     global counter
@@ -86,161 +98,124 @@ def is_odd_or_even(number):
     else:
         return False
 # 测试网站参数
-test_url = 'http://foodieguide.com/iptvsearch/hoteliptv.php'  # 请替换为实际的提交URL
-test_name = random.choice(diqu)
-data = {
-    'search': f'{test_name}'  # 使用f-string插入变量值（Python 3.6+）
-}
-print('测试url=',test_url)
-response = requests.post(test_url, data=data)
-if response.status_code == 200:
-    try:
-        print("请求成功，状态码：", response.status_code)
-        # 打印响应内容
-        html = response.text
-        # print(html)
-        soup11 = BeautifulSoup(html, 'html.parser')
-        
-        # 查找所有的<a>标签
-        links = soup11.find_all('a')
-        
-        # 遍历所有的<a>标签，提取href属性，并解析出rnd的值
-        for link in links:
-            href = link.get('href')  # 获取href属性的值
-            if href and 'page=' in href:
-                print(href)  # 打印rnd的值
-                count = href.count('&')
-                print(count)
-                if count >= 1:
-                    bb = href.split('&')[1]
-                    cou = bb.count('=')
-                    if cou >= 1:
-                        cc = bb.split('=')[0]
-                        if len(cc) > 0:
-                            seek_find = cc
-                            print("更换参数名称，状态码：", response.status_code,seek_find)
-                            break
-    except:
-        print("请求失败，状态码：", response.status_code)
-print("***********************************************************************************")
+
 tonkiang_err = 0
 foodieguide_err = 0
-for i in range(1, page + 1):
+test_name = random.choice(diqu)
+
+headers={'User-Agent': 'okhttp/3.15 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'}
+se=requests.Session()
+for i in diqu:
     try:
         # 创建一个Chrome WebDriver实例
-        results = []
-        if is_odd_or_even(random.randint(1, 999)):
-            if tonkiang_err == 0:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
-            else:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
-        else:
-            if foodieguide_err == 0:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
-            else:
-                url = f"http://foodieguide.com/iptvsearch/hoteliptv.php?page={i}&{seek_find}={random_choice}"
-        print(url)
-        chrome_options = Options()
-
-        # 添加HTTP头信息
-        http_headers = {
-            "User-Agent": "Chrome/4.0",
-            "Accept-Ranges": "bytes",
-            "Access-Control-Allow-Credentials": "true",
-            "Access-Control-Allow-Headers": "x-requested-with",
-            "Access-Control-Allow-Methods": "POST, GET, OPTIONS, DELETE",
-            "Access-Control-Max-Age": "3600",
-            "Content-Language": "zh-CN",
-            "Content-Type": "text/html; charset=UTF-8"
+        data = {
+            'search': f'{i}'  # 使用f-string插入变量值（Python 3.6+）
         }
-        
-        # 将HTTP头信息添加到Chrome选项中
-        for key, value in http_headers.items():
-            chrome_options.add_argument(f"{key}={value}")
-            
-        chrome_options.add_argument('--headless')
-        chrome_options.add_argument('--no-sandbox')
-        chrome_options.add_argument('--disable-dev-shm-usage')
-        chrome_options.add_experimental_option("useAutomationExtension", False)
-        chrome_options.add_argument("blink-settings=imagesEnabled=false")
-        # 创建WebDriver实例并传递配置
-        driver = webdriver.Chrome(options=chrome_options)
-        
-        driver.set_page_load_timeout(90)  # 10秒后超时
-        # 设置脚本执行超时
-        driver.set_script_timeout(80)  # 5秒后超时
-        # 使用WebDriver访问网页
-        driver.get(url)  # 将网址替换为你要访问的网页地址
-        time.sleep(10)
-        driver.get(url)  # 将网址替换为你要访问的网页地址
-        WebDriverWait(driver, 75).until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, "div.box")
-                )
-        )
-        # time.sleep(random.randint(3, 10))
-        time.sleep(20)
-        soup = BeautifulSoup(driver.page_source, "html.parser")
+        results = []
+        keypage = 1
+        if keypage == 1:
+            url = 'http://foodieguide.com/iptvsearch/hoteliptv.php'
+            print(url,i)
+            response = se.post(url, data=data, headers=headers, timeout=15)
+        else:
+            if len(end_retu_url) > 0:
+                retu_url = end_retu_url.replace("?page=1", f'?page={i}')
+                code_name = re.search(r'\d+', end_url[2])
+                if code_name:
+                    # 如果找到了数字，则提取并打印
+                    number_str = code_name.group()
+                print('code_name',number_str)
+                data = {
+                    'search': f'{test_name}'
+                }
+            url = 'http://foodieguide.com/iptvsearch/hoteliptv.php' + retu_url
+            print(url)
+            response = se.get(url, headers=headers, timeout=15)
 
-        if list_page == 0:
-            result_paragraph = soup.find('p', string=re.compile('About \d+ results'))
-            if result_paragraph:
-                number = re.search(r'\d+', result_paragraph.text).group()
-                list_page = math.ceil(number / 20)
-                print(f"{random_choice} 当前总页数：{list_page}")
-    
-        # 关闭WebDriver
-        driver.quit()
-        tables_div = soup.find("div", class_="tables")
-        results = (
-            tables_div.find_all("div", class_="result")
-            if tables_div
-            else []
-        )
-        if not any(
-            result.find("div", class_="channel") for result in results
-        ):
-            #break
-            print("Err-------------------------------------------------------------------------------------------------------")
-        for result in results:
-            # print("-------------------------------------------------------------------------------------------------------")
-            # print(result)
-            # print("-------------------------------------------------------------------------------------------------------")
-            html_txt = f"{result}"
-            if "暂时失效" not in html_txt:
-                m3u8_div = result.find("a")
-                if m3u8_div:
-                    pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
-                    urls_all = re.findall(pattern, m3u8_div.get('href'))
-                    # print(urls_all)
-                    if len(urls_all) > 0:
-                        ip = urls_all[0]
-                        italic_tags = soup.find_all('i')
-                        # 尝试获取第二个<i>标签
-                        if len(italic_tags) >= 1:
-                            second_italic_tag = italic_tags[0]  # 索引从0开始，所以第二个标签的索引是1
-                            url_name = second_italic_tag.text
-                            name_html_txt = f"{url_name}"
-                            name_html_txt = name_html_txt.replace(" ", "").replace("\n", "")
-                            # print(html_txt)
-                            # print("1===========================================================================================================")
-                            if "移动" in html_txt:
-                                ipname = '移动'
-                            elif "移通" in html_txt:
-                                ipname = '移动'
-                            elif "视通" in html_txt:
-                                ipname = '广电'
-                            elif "联通" in html_txt:
-                                ipname = '联通'
-                            elif "电信" in html_txt:
-                                ipname = '电信'
-                            else:
-                                ipname ='其他'
-                            dq_name = contains_any_value(html_txt, diqu)
-                            if ip not in not_ip:
-                                resultslist.append(f"{ipname},{ip},{dq_name}")
-                                print(f"{ipname},{ip},{dq_name}")
-                            name_html_txt = ""
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, "html.parser")
+            if i == 1:
+                # 查找所有的<a>标签
+                links = soup.find_all('a')
+                
+                # 遍历所有的<a>标签，提取href属性，并解析出rnd的值
+                for link in links:
+                    href = link.get('href')  # 获取href属性的值
+                    if href and 'page=' in href:
+                        print(href)  # 打印rnd的值
+                        count = href.count('&')
+                        print(count)
+                        if count >= 1:
+                            bb = href.split('&')[1]
+                            cou = bb.count('=')
+                            if cou >= 1:
+                                cc = bb.split('=')[0]
+                                if len(cc) > 0:
+                                    seek_find = cc
+                                    end_url = href.split('&')
+                                    end_retu_url = href
+                                    print("更换参数名称，状态码：", response.status_code,seek_find)
+                                    break
+
+            if list_page == 0:
+                result_paragraph = soup.find('p', string=re.compile('About \d+ results'))
+                if result_paragraph:
+                    number = re.search(r'\d+', result_paragraph.text).group()
+                    list_page = math.ceil(number / 20)
+                    print(f"{random_choice} 当前总页数：{list_page}")
+        
+            # 关闭WebDriver
+            driver.quit()
+            tables_div = soup.find("div", class_="tables")
+            results = (
+                tables_div.find_all("div", class_="result")
+                if tables_div
+                else []
+            )
+            if not any(
+                result.find("div", class_="channel") for result in results
+            ):
+                #break
+                print("Err-------------------------------------------------------------------------------------------------------")
+            for result in results:
+                # print("-------------------------------------------------------------------------------------------------------")
+                # print(result)
+                # print("-------------------------------------------------------------------------------------------------------")
+                html_txt = f"{result}"
+                if "暂时失效" not in html_txt:
+                    m3u8_div = result.find("a")
+                    if m3u8_div:
+                        pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
+                        urls_all = re.findall(pattern, m3u8_div.get('href'))
+                        # print(urls_all)
+                        if len(urls_all) > 0:
+                            ip = urls_all[0]
+                            italic_tags = soup.find_all('i')
+                            # 尝试获取第二个<i>标签
+                            if len(italic_tags) >= 1:
+                                second_italic_tag = italic_tags[0]  # 索引从0开始，所以第二个标签的索引是1
+                                url_name = second_italic_tag.text
+                                name_html_txt = f"{url_name}"
+                                name_html_txt = name_html_txt.replace(" ", "").replace("\n", "")
+                                # print(html_txt)
+                                # print("1===========================================================================================================")
+                                if "移动" in html_txt:
+                                    ipname = '移动'
+                                elif "移通" in html_txt:
+                                    ipname = '移动'
+                                elif "视通" in html_txt:
+                                    ipname = '广电'
+                                elif "联通" in html_txt:
+                                    ipname = '联通'
+                                elif "电信" in html_txt:
+                                    ipname = '电信'
+                                else:
+                                    ipname ='其他'
+                                dq_name = contains_any_value(html_txt, diqu)
+                                if ip not in not_ip:
+                                    resultslist.append(f"{ipname},{ip},{dq_name}")
+                                    print(f"{ipname},{ip},{dq_name}")
+                                name_html_txt = ""
     except:
         if 'tonkiang' in url:
             tonkiang_err = 1
