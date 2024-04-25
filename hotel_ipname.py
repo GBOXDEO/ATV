@@ -62,6 +62,7 @@ diqu = [
     "新闻",
     "综合",
     "cctv",
+    "体育",
     "凤凰"
     ]
 # random_choice = urllib.parse.quote(random.choice(diqu), safe='')
