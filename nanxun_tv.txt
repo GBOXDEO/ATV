@@ -7364,6 +7364,9 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+测试频道,#genre#
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+
 官方频道,#genre#
 CCTV1,http://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
@@ -7813,7 +7816,7 @@ CGTN,http://111.160.17.2:59901/tsfile/live/1003_1.m3u8?key=tvbox6_com&playlive=1
 
 //以下第二接口的源
 
-央视频道,#genre#
+央视IPV6,#genre#
 CCTV1_综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2_财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3_综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
@@ -7835,7 +7838,7 @@ CCTV17_农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.co
 CCTV4K_超,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV8K_超,https://tv.cry33.com/ys4k.php?id=8k
 
-卫视频道,#genre#
+卫视IPV6,#genre#
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -7921,6 +7924,10 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 
 //我的港台
+凤凰卫视中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港卫视,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 凤凰卫视中文,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=1
 凤凰卫视资讯,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=2
@@ -7935,13 +7942,13 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 凤凰卫视中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
 凤凰卫视资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
 
-凤凰卫视中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$官方
+凤凰卫视资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$官方
 
-凤凰卫视中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-凤凰卫视资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
-凤凰卫视中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv$官方
+凤凰卫视资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv$官方
+凤凰卫视中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$官方
+凤凰卫视资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$官方
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -11055,4 +11062,4 @@ ATV垫台,p3p://108.181.32.169:48527/641a80b3000e6c47c0e0793a487a2d83
 76.FootsieBabes,p3p://108.181.32.169:48527/64231fc9000c2217e28dae004f27257d
 77.FTVGirls,p3p://108.181.32.169:48527/64231fd4000eb8abe28dd9a20117693f
 78.FuckedHard18,p3p://108.181.32.169:48527/
-更新时间：2024-04-25 06:11:17
+更新时间：2024-04-25 10:08:39
