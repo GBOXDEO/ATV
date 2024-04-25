@@ -217,14 +217,14 @@ for i in diqu:
                                     resultslist.append(f"{ipname},{ip},{dq_name}")
                                     print(f"{ipname},{ip},{dq_name}")
                                 name_html_txt = ""
-    except:
+    except Exception as e:
         if 'tonkiang' in url:
             tonkiang_err = 1
             foodieguide_err = 0
         elif 'foodieguide' in url:
             foodieguide_err = 1
             tonkiang_err = 0 
-        print(f"=========================>>> Thread {url} error")
+        print(f"=========================>>> Thread error  {e}")
     finally:
         time.sleep(10)
         
