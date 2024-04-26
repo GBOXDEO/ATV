@@ -7787,31 +7787,13 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 
 //我的港台
+
 凤凰卫视中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港卫视,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
-
-凤凰卫视中文,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=1
-凤凰卫视资讯,http://8.137.59.151:99/haioujk6677/haiousmtjk66.php?id=2
-凤凰卫视中文,http://117.25.38.131:4022/rtp/239.61.2.184:9092
-凤凰卫视资讯,http://117.25.38.131:4022/rtp/239.61.2.183:9086
-凤凰卫视中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-
-凤凰卫视中文,http://113.64.145.220:8081/hls/37/index.m3u8
-凤凰卫视中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰卫视资讯,http://113.64.145.220:8081/hls/36/index.m3u8
-凤凰卫视资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰卫视中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
 凤凰卫视资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
-
-凤凰卫视中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$官方
-凤凰卫视资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$官方
-
-凤凰卫视中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv$官方
-凤凰卫视资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv$官方
-凤凰卫视中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8$官方
-凤凰卫视资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8$官方
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -10925,4 +10907,4 @@ ATV垫台,p3p://108.181.32.169:48527/641a80b3000e6c47c0e0793a487a2d83
 76.FootsieBabes,p3p://108.181.32.169:48527/64231fc9000c2217e28dae004f27257d
 77.FTVGirls,p3p://108.181.32.169:48527/64231fd4000eb8abe28dd9a20117693f
 78.FuckedHard18,p3p://108.181.32.169:48527/
-更新时间：2024-04-26 02:19:04
+更新时间：2024-04-26 06:10:49
