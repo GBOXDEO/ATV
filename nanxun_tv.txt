@@ -7364,6 +7364,34 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+小品集锦,#genre#
+赵本山经小品,https://www.goodiptv.club/douyu/9817716
+开心麻花小品,https://www.goodiptv.club/douyu/10153463
+宋小宝小品台,https://www.goodiptv.club/douyu/9817729
+舌尖中国,#genre#
+第一季1,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/2000.m3u8
+第一季2,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8da97027ccd64dea8aefa22d3586335c/2000.m3u8
+第一季3,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/84cc69c290d145c48265d3018f87c064/2000.m3u8
+第一季4,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ac690728ad1c430eb404e2de297f4185/2000.m3u8
+第一季5,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2dedfb9d85084287a02246bd2e012851/2000.m3u8
+第一季6,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6a67a3a67efc4082a5eaa6327c461209/2000.m3u8
+第一季7,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/1d2160c4933a4323b9f57b929d62a298/2000.m3u8
+第二季1,https://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/ace67524da624321989da3652ad2c6e8/2000.m3u8
+第二季2,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bf965337a82941e7ae2654819192230a/2000.m3u8
+第二季3,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/15035c0e12d54e60a67423224462768c/2000.m3u8
+第二季4,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/6d1b14ace2de4b4f82fe9581b2d89066/2000.m3u8
+第二季5,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/affc07df0a2a45d9847a7dd3cce8f06f/2000.m3u8
+第二季6,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5511aca03b7b4f6e98640123122bb4eb/2000.m3u8
+第二季7,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/760b398dbb8d4996a0d412ab9f1c00a7/2000.m3u8
+第三季1,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8fe48e7fb92b4da99a3b4c6ba4778e8d/2000.m3u8
+第三季2,https://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/bfb54ce1af464ab0b1da026aa990575f/2000.m3u8
+第三季3,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/ac775a6725274dcdb1fa9bbe90747bf4/2000.m3u8
+第三季4,https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/14fe3aa3dae04ff388736aa0ce7d0c6d/2000.m3u8
+第三季5,https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ec7d4c669c442f198de11bdc247558c/2000.m3u8
+第三季6,https://hls.cntv.myhwcdn.cn/asp/hls/2000/0303000a/3/default/27121d74055f468795f4c586c83717df/2000.m3u8
+第三季7,https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/a23637f5a5794d5d87b33d1575e2193d/2000.m3u8
+第三季8,https://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/51b1937b8b6b469b837b48f6bcb3f0b1/2000.m3u8
+
 央卫IPV6,#genre#
 CCTV1_综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2_财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -7386,7 +7414,9 @@ CCTV17_农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.co
 CCTV4K_超,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV8K_超,https://tv.cry33.com/ys4k.php?id=8k
 
-
+凤凰卫视中文,http://146.56.153.245:20121/bysid/258
+凤凰卫视资讯,http://146.56.153.245:20121/bysid/257
+凤凰香港卫视,http://146.56.153.245:20121/bysid/259
 凤凰卫视中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰香港卫视,http://113.64.145.91:8081/hls/38/index.m3u8
@@ -8746,4 +8776,4 @@ Q714238137《光棍哭妻》,http://gcw.bdcdn.shoujiduoduo.com/201805/1812-365.m
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-04-28 06:09:44
+更新时间：2024-04-28 10:08:35
