@@ -7,6 +7,7 @@ CCTV10_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/inde
 CCTV104M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV11_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 CCTV11_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV11_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV112M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV118M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV12_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
@@ -15,6 +16,7 @@ CCTV12_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/inde
 CCTV124M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV13_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV13_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV138M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV14_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
@@ -24,6 +26,7 @@ CCTV144M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV14M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV15_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV15_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV15_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV158M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV16_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
@@ -35,6 +38,7 @@ CCTV17_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 CCTV174M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV2_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV212M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV24M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -85,6 +89,9 @@ CCTV音乐风云4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 CCTV风云剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 CCTV风云足球8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV高尔夫网球8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CETV1_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV2_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV4_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 NewTV怡伴健康4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226957/index.m3u8
 SiTVæ¬¢ç¬‘å‰§åœº4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top
@@ -97,6 +104,7 @@ SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 北京体育休闲3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 北京卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+卡酷少儿_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 哒啵电竞4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 哒啵赛事4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
 商洛电视_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8?zshanxid
@@ -129,4 +137,4 @@ SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 陕西新闻资讯_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 黑龙江卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-更新时间：2024-04-28 02:23:46
+更新时间：2024-04-28 06:09:44
