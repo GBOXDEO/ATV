@@ -7364,10 +7364,7 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
-小品集锦,#genre#
-赵本山经小品,https://www.goodiptv.club/douyu/9817716
-开心麻花小品,https://www.goodiptv.club/douyu/10153463
-宋小宝小品台,https://www.goodiptv.club/douyu/9817729
+
 舌尖中国,#genre#
 第一季1,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bd6af893d44941a9805807eb08dfd1b6/2000.m3u8
 第一季2,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8da97027ccd64dea8aefa22d3586335c/2000.m3u8
@@ -8776,4 +8773,4 @@ Q714238137《光棍哭妻》,http://gcw.bdcdn.shoujiduoduo.com/201805/1812-365.m
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-04-29 02:20:34
+更新时间：2024-04-29 06:11:06
