@@ -20,7 +20,28 @@ not_ip = [
     "14.19.199.43:8089",
 ]
 lock = threading.Lock()
-
+dcom = [
+    "8080",
+    "8081",
+    "8181",
+    "8088",
+    "4022",
+    "9999",
+    "801",
+    "9901",
+    "8082",
+    "18088",
+    "808",
+    "8001",
+    "11190",
+    "6666",
+    "8083",
+    "8084",
+    "8888",
+    "8090",
+    "8008"
+    
+]
 diqu = [
     "广西",
     "内蒙",
@@ -184,7 +205,7 @@ for i in diqu:
                 if "暂时失效" not in html_txt:
                     m3u8_div = result.find("a")
                     if m3u8_div:
-                        pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
+                        pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}"  # 设置匹配的格式，如http://8.8.8.8:8888
                         urls_all = re.findall(pattern, m3u8_div.get('href'))
                         # print(urls_all)
                         if len(urls_all) > 0:
@@ -212,8 +233,9 @@ for i in diqu:
                                     ipname ='其他'
                                 dq_name = contains_any_value(html_txt, diqu)
                                 if ip not in not_ip:
-                                    resultslist.append(f"{ipname},{ip},{dq_name}")
-                                    print(f"{ipname},{ip},{dq_name}")
+                                    for d in dcom:
+                                        resultslist.append(f"{ipname},{ip}:{d},{dq_name}")
+                                        print(f"{ipname},{ip}:{d},{dq_name}")
                                 name_html_txt = ""
     except Exception as e:
         if 'tonkiang' in url:
