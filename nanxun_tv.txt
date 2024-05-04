@@ -7808,18 +7808,28 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
+壹电视新闻,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae$P2P
+年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7$P2P
+东森新闻,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$P2P
+中天新闻,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e$P2P
+民视新闻,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf$P2P
+三立新闻,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e$P2P
+TVBS新闻,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60$P2P
+TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476$P2P
+东森财经新闻,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5$P2P
+非凡新闻,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb$P2P
+年代新闻,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c$P2P
+中天新闻,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a$P2P
+中视新闻,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4$P2P
+寰宇新闻,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6$P2P
+华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299$P2P
+三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 
-
-中天新闻,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-中天新闻,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-三立NEWS,http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
-三立LIVE,http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
 
-台视新闻,http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
-民视新闻,http://66.165.240.154:8080/live/tymsxw1/hls.m3u8
-TVBS,http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
+
+
 
 民视新闻,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 TVBS新闻,rtmp://twcdn.top/sat/tv551
@@ -7866,22 +7876,7 @@ ELEVEN体育2,rtmp://twcdn.top/sat/tv741
 MoMo综合,rtmp://twcdn.top/sat/tv761
 纬来日本,rtmp://twcdn.top/sat/tv771
 
-壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae$P2P
-年代新闻备,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7$P2P
-东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$P2P
-中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e$P2P
-民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf$P2P
-三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e$P2P
-TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60$P2P
-TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476$P2P
-东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5$P2P
-非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb$P2P
-年代新闻,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c$P2P
-中天新闻台B,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a$P2P
-中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4$P2P
-寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6$P2P
-华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299$P2P
-三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+
 
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -8629,4 +8624,4 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-04 06:09:43
+更新时间：2024-05-04 10:07:53
