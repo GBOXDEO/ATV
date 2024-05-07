@@ -7693,7 +7693,6 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 三亚卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
 山东教育卫视电视台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
 咪咕体育,#genre#
 足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 蓝球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
@@ -7785,14 +7784,6 @@ CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3
 凤凰卫视资讯,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港卫视,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 
-
-凤凰卫视中文,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港卫视,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-
-凤凰卫视中文,http://146.56.153.245:20121/bysid/258
-凤凰卫视资讯,http://146.56.153.245:20121/bysid/257
-凤凰香港卫视,http://146.56.153.245:20121/bysid/259
 
 凤凰卫视中文,https://edge2.laotv.la/live/PhxChinese/sc-gaFECQ/index.m3u8
 凤凰卫视资讯,https://edge2.laotv.la/live/PhoenixNews/sc-gaFECQ/index.m3u8
@@ -8624,4 +8615,4 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-07 10:09:20
+更新时间：2024-05-07 14:07:54
