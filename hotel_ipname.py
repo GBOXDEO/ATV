@@ -125,7 +125,20 @@ tonkiang_err = 0
 foodieguide_err = 0
 test_name = random.choice(diqu)
 
-headers={'User-Agent': 'okhttp/3.15 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'}
+headers={
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Encoding': 'gzip, deflate',
+    'Accept-Language': 'zh-CN,zh;q=0.9',
+    'Cache-Control': 'max-age=0',
+    'Connection': 'keep-alive',
+    'Content-Length': '72',
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'Host': 'foodieguide.com',
+    'Origin': 'http://foodieguide.com',
+    'Referer': 'http://foodieguide.com/iptvsearch/hoteliptv.php',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    }
 se=requests.Session()
 for i in diqu:
     try:
