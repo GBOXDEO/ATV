@@ -218,7 +218,7 @@ for i in diqu:
                 if "暂时失效" not in html_txt:
                     m3u8_div = result.find("a")
                     if m3u8_div:
-                        pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}"  # 设置匹配的格式，如http://8.8.8.8:8888
+                        pattern = r"\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}:\d+"  # 设置匹配的格式，如http://8.8.8.8:8888
                         urls_all = re.findall(pattern, m3u8_div.get('href'))
                         # print(urls_all)
                         if len(urls_all) > 0:
