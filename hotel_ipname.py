@@ -294,7 +294,7 @@ def worker(thread_url,counter_id):
         driver.set_script_timeout(50)  # 5秒后超时
         # 使用WebDriver访问网页
         if is_odd_or_even(random.randint(1, 200)):
-            page_url= f"http://tonkiang.us/hotellist.html?s={in_url}"
+            page_url= f"http://tonkiang.us/alllist.php?s={in_url}"
         else:
             page_url= f"http://foodieguide.com/iptvsearch/hotellist.html?s={in_url}"
         print(page_url)
