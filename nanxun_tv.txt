@@ -7364,6 +7364,13 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+临时频道,#genre#
+中天新闻,http://ali.hlspull.yximgs.com/live/4bfd60aaa89f366ffd12adb3731674cc.flv
+
+翡翠,http://ali.hlspull.yximgs.com/live/xik3Uj0isitQDsBxMrva0NeeBk9AfYDX.flv
+
+TVB星河,http://ali.hlspull.yximgs.com/live/402cff31fef6a928f834a6284e40f48d.flv
+
 央视频道,#genre#
 CCTV01,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV02,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -8615,4 +8622,4 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-10 02:25:49
+更新时间：2024-05-10 06:11:12
