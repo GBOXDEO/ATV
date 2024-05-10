@@ -24,7 +24,6 @@
 广东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 广东卫视_联通,http://221.205.134.28:8082/rtp/226.0.2.146:9080
-广西卫视_电信,http://27.19.147.206:8088/rtp/239.69.1.191:10788
 新疆卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_15.m3u8
 旅游卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_10.m3u8
 江苏卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
