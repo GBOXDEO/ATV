@@ -13,14 +13,12 @@
 大湾区卫视_电信,http://125.90.252.178:4060/udp/239.77.0.215:5146
 大湾区卫视_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 天津卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-宁夏卫视_联通,http://171.117.246.67:8001/rtp/226.0.2.64:8424
 宁夏卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_6.m3u8
 安徽卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 安徽卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 山东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山东卫视_电信,http://1.202.10.125:8888/udp/225.1.8.50:8052
 山西卫视_电信,http://59.47.118.242:801/hls/135/index.m3u8
-山西卫视_联通,http://171.117.246.67:8001/rtp/226.0.2.11:8000
 广东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 广东卫视_联通,http://221.205.134.28:8082/rtp/226.0.2.146:9080
