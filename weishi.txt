@@ -1,5 +1,4 @@
 【  卫视频道  】,#genre#
-东南卫视_电信,http://1.202.10.125:8888/udp/225.1.8.79:8148
 东南卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_5.m3u8
 东方卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
@@ -7,7 +6,6 @@
 内蒙古卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_16.m3u8
 北京卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-南方卫视_电信,http://1.202.10.125:8888/udp/225.1.8.225:5008
 南方卫视_联通,http://123.120.109.255:4022/rtp/239.3.1.161:8001
 吉林卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_12.m3u8
 大湾区卫视_电信,http://125.90.252.178:4060/udp/239.77.0.215:5146
@@ -17,7 +15,6 @@
 安徽卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 安徽卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 山东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-山东卫视_电信,http://1.202.10.125:8888/udp/225.1.8.50:8052
 山西卫视_电信,http://59.47.118.242:801/hls/135/index.m3u8
 广东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
