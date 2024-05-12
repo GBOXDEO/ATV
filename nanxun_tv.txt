@@ -7482,7 +7482,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+
 
 
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -7518,7 +7518,6 @@ TVBS新闻,rtmp://twcdn.top/sat/tv551
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -8303,4 +8302,4 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-12 10:07:47
+更新时间：2024-05-12 14:07:38
