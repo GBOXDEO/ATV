@@ -1,5 +1,4 @@
 【  卫视频道  】,#genre#
-东南卫视_联通,http://36.35.16.98:9901/tsfile/live/0001_5.m3u8
 东方卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 东方卫视_联通,http://221.205.134.28:8082/rtp/226.0.2.175:9312
