@@ -90,6 +90,7 @@ NewTV怡伴健康4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/22
 SiTVæ¬¢ç¬‘å‰§åœº4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top
 SiTV游戏风云8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
+å¡é…å°‘å„¿_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 çˆ±ä¸Š4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 上海第一财经8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226966/index.m3u8
 东方卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
@@ -97,7 +98,6 @@ SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 北京体育休闲3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 北京卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-卡酷少儿_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 哒啵电竞4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 哒啵赛事4M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
 商洛电视_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8?zshanxid
@@ -130,4 +130,4 @@ SiTV都市剧场8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224
 陕西新闻资讯_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 黑龙江卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-更新时间：2024-05-14 02:21:34
+更新时间：2024-05-14 06:13:40
