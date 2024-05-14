@@ -7364,9 +7364,6 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
-ğŸ‡¨ğŸ‡³ä¸´æ—¶é¢‘é“,#genre#
-æµçœ‹å¤§ç‰‡é«˜æ¸…,http://182.46.8.161:8018/hls/60/index.m3u8
-1942æ²³å—å¤§é¥¥è’,https://vd3.bdstatic.com/mda-nki73r1aqufsm7ne/576p/h264/1668838301756365724/mda-nki73r1aqufsm7ne.mp4?auth_key=1671883526-0-0-12694bccc732e50b4799e5d1f36c88eb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2126639085&vid=10384742486573874021&abtest=all
 ğŸ‡¨ğŸ‡³å¤®è§†é¢‘é“,#genre#
 CCTV1_ç»¼åˆ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV2_è´¢ç»,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -7469,10 +7466,14 @@ CGTNè®°å½•,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/000000010000000600
 
 
 ğŸ‡­ğŸ‡°æ¸¯å°é¢‘é“,#genre#
+
+
 å‡¤å‡°å«è§†,http://120.41.124.228:8888/rtp/239.61.2.184:9092
 å‡¤å‡°èµ„è®¯,http://120.41.124.228:8888/rtp/239.61.2.183:9086
 å‡¤å‡°å«è§†,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
 å‡¤å‡°èµ„è®¯,http://e2.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+
+
 é¦™æ¸¯å«è§†,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
@@ -7670,7 +7671,7 @@ TVBSäºšæ´²,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 ğŸ¼æˆæ›²é¢‘é“,#genre#
 
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-æ¢¨å›­é¢‘é“,http://117.25.38.131:4022/rtp/239.61.3.19:9634
+ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
 ç°ä»£æ›²å‰§ã€Šæ…ˆæ¯æƒ…å’Œæ…ˆæ¯å¿ƒã€‹åˆé›†ã€‚,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4
 æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹ã€æ¢æ¯ä¸€æŠ˜ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
 æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
@@ -8297,4 +8298,5 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
-更新时间：2024-05-14 10:09:55
+//地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
+更新时间：2024-05-14 14:07:53
