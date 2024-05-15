@@ -24,8 +24,8 @@
 湖南卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 辽宁卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
 辽宁卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-辽宁卫视_电信,http://223.10.32.52:8084/udp/239.1.1.42:8042
 辽宁卫视_电信,http://110.179.80.160:8083/udp/239.1.1.42:8042
+辽宁卫视_电信,http://223.10.32.52:8084/udp/239.1.1.42:8042
 重庆卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 黑龙江卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 黑龙江卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
