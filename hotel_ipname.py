@@ -296,7 +296,7 @@ def worker(thread_url,counter_id):
         if is_odd_or_even(random.randint(1, 200)):
             page_url= f"http://tonkiang.us/alllist.php?s={in_url}"
         else:
-            page_url= f"http://foodieguide.com/iptvsearch/hotellist.html?s={in_url}"
+            page_url= f"http://foodieguide.com/iptvsearch/alllist.php?s={in_url}"
         print(page_url)
         driver.get(page_url)  # 将网址替换为你要访问的网页地址
         WebDriverWait(driver, 45).until(
