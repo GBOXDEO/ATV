@@ -7365,22 +7365,10 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
 ğŸ¼ä¸´æ—¶é¢‘é“,#genre#
-çŸ­ç‰‡å¤©ç½‘,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/fd0919943a4845608d61f12a4342b107/1200.m3u8
-çŸ­ç‰‡ä»Šæ—¥è¯´æ³•,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/013fb1c8a919478b96ccbbb001267443/1200.m3u8
-çœŸå¿ƒç¬‘éº»äº†,https://vd4.bdstatic.com/mda-pa6ejxnk6k4hb97x/hd/cae_h264/1673153496641886837/mda-pa6ejxnk6k4hb97x.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1674740750-0-0-ad1496117b6c65bbd0d3c86c61e53b57&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=0949966297&vid=7469840254800053778&abtest=all
-çŸ­ç‰‡ç­‰ç€æˆ‘,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c73075e02fe4f27a79fbb5f472a2acd/1200.m3u8
-æ´ªæ´å¤§æ§æ ‘,https://baikevideo.cdn.bcebos.com/media/mda-O9GTPGwqTr85eadR/c7a7378f43b189ecfc4b01937f6f4269.mp4
-æ°‘å›½,https://vd4.bdstatic.com/mda-mmsbmukmpae10ami/hd/cae_h264/1640852730292262809/mda-mmsbmukmpae10ami.mp4?auth_key=1671884026-0-0-d008f2f227772a85dce405fd35b9054f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2625958116&vid=9114303297093477685&abtest=all
-1955å¹´,https://vd3.bdstatic.com/mda-mj21idichqnyjef0/hd/cae_h264_nowatermark/1633223695160945582/mda-mj21idichqnyjef0.mp4?auth_key=1671883775-0-0-39a2a9971907fd7116dac3597e47b339&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2375956552&vid=9313023170449916101&abtest=all
-1942å¹´æ²³å—å¤§é¥¥è’,https://vd3.bdstatic.com/mda-nki73r1aqufsm7ne/576p/h264/1668838301756365724/mda-nki73r1aqufsm7ne.mp4?auth_key=1671883526-0-0-12694bccc732e50b4799e5d1f36c88eb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2126639085&vid=10384742486573874021&abtest=all
-1949å¹´,https://vd2.bdstatic.com/mda-mjrb7jnjzmajss7h/hd/cae_h264_nowatermark/1635415525889856819/mda-mjrb7jnjzmajss7h.mp4?auth_key=1671884072-0-0-20ed5b14f72060df941c7b49c4848ebf&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2672423839&vid=3461999027953977919&abtest=all
-å¼€å›½å¤§å…¸ï¼Œhttps://vd3.bdstatic.com/mda-mgciqshih8icpp4a/540p/h264_cae/1626181999111123176/mda-mgciqshih8icpp4a.mp4?auth_key=1675181280-0-0-e50f70161eb02e9e36b3fe2357a26fec&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=0&logid=2280772436&vid=3107257287047255101
-1971å¹´1,https://vd4.bdstatic.com/mda-mkjgaz7s4ig96jd0/hd/cae_h264/1637409881522262681/mda-mkjgaz7s4ig96jd0.mp4?auth_key=1671883730-0-0-c05e959252e4e39f2e725937bede5b5f&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2330485902&vid=14917741916099248082&abtest=all
-1972å¹´2,https://vd2.bdstatic.com/mda-mkqbtqbbvq5ksah3/hd/cae_h264/1638090277323838223/mda-mkqbtqbbvq5ksah3.mp4?auth_key=1671883686-0-0-cc5f3560fef327e83ea499723b97de37&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2286280172&vid=18200521921211617403&abtest=all
-80å¹´ä»£,https://vd2.bdstatic.com/mda-nh0exsjyg1t9w59x/576p/h264/1659352958552606429/mda-nh0exsjyg1t9w59x.mp4?auth_key=1671883572-0-0-21464bcc63962fa281e12acfa78998fb&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2172835616&vid=5986942205776950993&abtest=all
 ç§»åŠ¨æˆæ›²,http://115.52.238.229:8089/rtp/225.1.4.206:1254
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8
+å‰æ—ä¹¡æ‘,	http://61.138.128.226:19901/tsfile/live/1003_1.m3u8
 å‡¤å‡°ä¸­æ–‡å°,http://113.64.145.231:8081/hls/37/index.m3u8
 å‡¤å‡°ä¸­æ–‡å°,http://ali.hlspull.yximgs.com/live/vipgFT88_skwiloqyge.flv
 å‡¤å‡°ä¸­æ–‡å°,http://sxz.zccatv.cn:9991/tsfile/live/0108_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -8934,4 +8922,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-16 02:22:25
+更新时间：2024-05-16 06:10:08
