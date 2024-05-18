@@ -1,31 +1,5 @@
 【  卫视频道  】,#genre#
-东方卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-东方卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-北京卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-北京卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-大湾区卫视_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-天津卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-安徽卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-安徽卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-山东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 山西卫视_电信,http://59.47.118.242:801/hls/135/index.m3u8
-广东卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-广东卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-江苏卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-江苏卫视8M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-浙江卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-浙江卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-深圳卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-深圳卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-湖北卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-湖北卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
 湖北卫视_电信,http://218.71.45.167:9999/rtp/233.50.201.114:5140
-湖南卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-湖南卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-辽宁卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-辽宁卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 辽宁卫视_电信,http://223.10.32.52:8084/udp/239.1.1.42:8042
-重庆卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-黑龙江卫视12M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-黑龙江卫视3M1080_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 【  卫视高清频道  】,#genre#
