@@ -3740,7 +3740,6 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
 ğŸ¼ä¸´æ—¶é¢‘é“,#genre#
-å† å¿ç»¼åˆ,http://144.255.44.187:4022/udp/239.21.1.250:5002
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
 1çº¿é‡æ¸©ç»å…¸,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 2çº¿é‡æ¸©ç»å…¸,http://36.108.172.237:10097/stream/channelid/1129822714
@@ -3751,8 +3750,6 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQWktEL2lGQjZzMFNxbHdTS2FRQzJLLzBqU1FXTEh3YkJxSW1TRHVrQ0RDT1FGd2s5aUV0NWtBeXIwV1VDSGZNWktjS2U1MEpobEt5SHdRMDAwVnpNZDJsalNPT2xlOXNwZz09/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº1
 ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQUkJ2ZnpwRmZiMzYrY01xU0V4ZkxnMm1jV3NScFNKQU5SUHRXaks5QXRQZU92aUkzdGdQNjFaQzFwWjRSa1RlbjBuWHB0SXVQUGQxQjR2UkJyd2pMTTQ9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº2
-
-
 
 å‡¤å‡°ä¸­æ–‡,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 å‡¤å‡°èµ„è®¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -5138,4 +5135,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-20 06:11:54
+更新时间：2024-05-20 10:09:14
