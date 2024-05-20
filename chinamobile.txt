@@ -1,7 +1,9 @@
 CCTV+5+_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV05_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+SiTVæ¬¢ç¬‘å‰§åœº4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top
 å’ªå’•è¶³çƒç§»åŠ¨ä¸“çº¿_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8$ç§»åŠ¨ä¸“çº¿
 æ­¦æä¸–ç•Œç§»åŠ¨ä¸“çº¿_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8$ç§»åŠ¨ä¸“çº¿
 ç²¾å“ä½“è‚²_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
 ç²¾å“ä½“è‚²ç§»åŠ¨ä¸“çº¿_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-更新时间：2024-05-20 14:08:13
+çˆ±ä¸Š4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+更新时间：2024-05-20 18:10:28
