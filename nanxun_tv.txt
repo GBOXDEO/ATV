@@ -3748,6 +3748,7 @@ CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
 ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQWktEL2lGQjZzMFNxbHdTS2FRQzJLLzBqU1FXTEh3YkJxSW1TRHVrQ0RDT1FGd2s5aUV0NWtBeXIwV1VDSGZNWktjS2U1MEpobEt5SHdRMDAwVnpNZDJsalNPT2xlOXNwZz09/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº1
 ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQUkJ2ZnpwRmZiMzYrY01xU0V4ZkxnMm1jV3NScFNKQU5SUHRXaks5QXRQZU92aUkzdGdQNjFaQzFwWjRSa1RlbjBuWHB0SXVQUGQxQjR2UkJyd2pMTTQ9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº2
 
@@ -3994,6 +3995,47 @@ iHOTçˆ±å†å²,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040
 iHOTçˆ±ç§‘å­¦,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 iHOTçˆ±åŠ¨æ¼«,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
+ğŸ‡¨ğŸ‡³å±±ä¸œé¢‘é“,#genre#
+
+èŠåŸç»¼åˆ,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
+èŠåŸæ°‘ç”Ÿ,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
+èŠåŸç»¼åˆå¹¿æ’­,http://live.lcxw.cn/live/lcradio01.m3u8
+èŠåŸäº¤é€šå¹¿æ’­,http://live.lcxw.cn/live/lcradio02.m3u8
+èŠåŸç»æµå¹¿æ’­,http://live.lcxw.cn/live/lcradio03.m3u8
+èŒŒå¹³ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lccpzh
+èŒŒå¹³ç”Ÿæ´»,https://tv.cry33.com/qilu.php?id=lccpsh
+ä¸œæ˜Œç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcdczh
+ä¸œé˜¿ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcdezh
+ä¸œé˜¿ç»¼è‰º,https://tv.cry33.com/qilu.php?id=lcdezy
+é«˜å”ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcgtzh
+é«˜å”ç»¼è‰º,https://tv.cry33.com/qilu.php?id=lcgtzy
+å† å¿ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcgxzh
+ä¸´æ¸…ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lclqzh
+ä¸´æ¸…ç»æµä¿¡æ¯,https://tv.cry33.com/qilu.php?id=lclqjj
+è˜å¿ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcsxzh
+è˜å¿ç”Ÿæ´»,https://tv.cry33.com/qilu.php?id=lcsxsh
+é˜³è°ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcygzh
+é˜³è°å½±è§†,https://tv.cry33.com/qilu.php?id=lcygys
+
+
+
+
+
+å±±ä¸œå«è§†,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+å±±ä¸œé½é²,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+å±±ä¸œæ–‡æ—…,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+å±±ä¸œç»¼è‰º,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+å±±ä¸œç”Ÿæ´»,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+å±±ä¸œæ–°é—»,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+å±±ä¸œå†œç§‘,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+å±±ä¸œä½“è‚²,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+å±±ä¸œå°‘å„¿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+
+
+çƒŸå°å…¬å…±,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+çƒŸå°ç»æµç§‘æŠ€,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
+çƒŸå°æ–°é—»ç»¼åˆ,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
+é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
 ğŸ‡¨ğŸ‡³åŒ—äº¬é¢‘é“,#genre#
 åŒ—äº¬æ˜ç²¾å½©,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
 åŒ—äº¬èŒå® TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
@@ -4037,47 +4079,7 @@ iHOTçˆ±åŠ¨æ¼«,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000
 è’™è¯­å«è§†,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 è’™è¯­æ–‡åŒ–,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
-ğŸ‡¨ğŸ‡³å±±ä¸œé¢‘é“,#genre#
 
-èŠåŸç»¼åˆ,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
-èŠåŸæ°‘ç”Ÿ,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
-èŠåŸç»¼åˆå¹¿æ’­,http://live.lcxw.cn/live/lcradio01.m3u8
-èŠåŸäº¤é€šå¹¿æ’­,http://live.lcxw.cn/live/lcradio02.m3u8
-èŠåŸç»æµå¹¿æ’­,http://live.lcxw.cn/live/lcradio03.m3u8
-èŒŒå¹³ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lccpzh
-èŒŒå¹³ç”Ÿæ´»,https://tv.cry33.com/qilu.php?id=lccpsh
-ä¸œæ˜Œç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcdczh
-ä¸œé˜¿ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcdezh
-ä¸œé˜¿ç»¼è‰º,https://tv.cry33.com/qilu.php?id=lcdezy
-é«˜å”ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcgtzh
-é«˜å”ç»¼è‰º,https://tv.cry33.com/qilu.php?id=lcgtzy
-å† å¿ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcgxzh
-ä¸´æ¸…ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lclqzh
-ä¸´æ¸…ç»æµä¿¡æ¯,https://tv.cry33.com/qilu.php?id=lclqjj
-è˜å¿ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcsxzh
-è˜å¿ç”Ÿæ´»,https://tv.cry33.com/qilu.php?id=lcsxsh
-é˜³è°ç»¼åˆ,https://tv.cry33.com/qilu.php?id=lcygzh
-é˜³è°å½±è§†,https://tv.cry33.com/qilu.php?id=lcygys
-
-
-
-
-
-å±±ä¸œå«è§†,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-å±±ä¸œé½é²,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
-å±±ä¸œæ–‡æ—…,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
-å±±ä¸œç»¼è‰º,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-å±±ä¸œç”Ÿæ´»,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-å±±ä¸œæ–°é—»,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
-å±±ä¸œå†œç§‘,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
-å±±ä¸œä½“è‚²,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
-å±±ä¸œå°‘å„¿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
-
-
-çƒŸå°å…¬å…±,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
-çƒŸå°ç»æµç§‘æŠ€,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
-çƒŸå°æ–°é—»ç»¼åˆ,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
-é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
 
 ğŸ‡¨ğŸ‡³æ±Ÿè‹é¢‘é“,#genre#
 æ³—é˜³èµ„è®¯é¢‘é“,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
@@ -5148,4 +5150,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-21 02:23:10
+更新时间：2024-05-21 06:11:47
