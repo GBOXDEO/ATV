@@ -3994,6 +3994,19 @@ iHOTçˆ±å†å²,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040
 iHOTçˆ±ç§‘å­¦,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 iHOTçˆ±åŠ¨æ¼«,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
+ğŸ‡¨ğŸ‡³åŒ—äº¬é¢‘é“,#genre#
+åŒ—äº¬æ˜ç²¾å½©,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
+åŒ—äº¬èŒå® TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
+åŒ—äº¬æ˜Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
+åŒ—äº¬æ˜å‰§åœº,http://webmail.axxe.top:4022/udp/239.3.1.95:8001
+åŒ—äº¬æ˜ç”µå½±,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
+åŒ—äº¬æ˜å¨±ä¹,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
+ğŸ‡¨ğŸ‡³å¤©æ´¥é¢‘é“,#genre#
+å¤©æ´¥æ»¨æµå½±è§†,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+å¤©æ´¥æ»¨æµæ–°é—»,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
+å¤©æ´¥æ»¨æµç»¼è‰º,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+æ»¨æµæ–°é—»,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
+æ»¨æµå½±é™¢,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 ğŸ‡¨ğŸ‡³ä¸Šæµ·é¢‘é“,#genre#
 ä¸Šæµæ–°é—»,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 ä¸Šæµéƒ½å¸‚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
@@ -5135,4 +5148,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-20 22:07:48
+更新时间：2024-05-21 02:23:10
