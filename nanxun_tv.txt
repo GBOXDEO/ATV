@@ -3747,16 +3747,108 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
-ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQWktEL2lGQjZzMFNxbHdTS2FRQzJLLzBqU1FXTEh3YkJxSW1TRHVrQ0RDT1FGd2s5aUV0NWtBeXIwV1VDSGZNWktjS2U1MEpobEt5SHdRMDAwVnpNZDJsalNPT2xlOXNwZz09/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº1
-ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQUkJ2ZnpwRmZiMzYrY01xU0V4ZkxnMm1jV3NScFNKQU5SUHRXaks5QXRQZU92aUkzdGdQNjFaQzFwWjRSa1RlbjBuWHB0SXVQUGQxQjR2UkJyd2pMTTQ9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº2
 
 å‡¤å‡°ä¸­æ–‡,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 å‡¤å‡°èµ„è®¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 å‡¤å‡°é¦™æ¸¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
+TVBS,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv073
+TVBSæ–°é—»å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv072
+ä¸­å¤©æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv009
+ä¸­å¤©äºšæ´²å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv109
+å°è§†æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv051
+åè§†æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv052
+å°è§†è´¢ç»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv056
+ä¸­è§†æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv074
+éå‡¡æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv010
+é•œæ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv075
+ä¸œæ£®æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv152
+ä¸œæ£®è´¢ç»æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv153
+åŠå²›æ–°é—»,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv10
+æ°‘è§†æ–°é—»å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv13
+æ°‘è§†å°æ¹¾å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv001
+å¯°å®‡æ–°é—»å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn14
+å¯°å®‡æ–°é—»å°æ¹¾å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn15
+å°è§†,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv066
+æ°‘è§†,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv002
+æ°‘è§†,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv155
+ä¸­è§†,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv040
+åè§†,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv041
+æ°‘è§†å°æ¹¾å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv156
 
+
+å½±è¿æ•¸ä½é›»å½±å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv011
+AMCç”µå½±å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv017
+CATCHPLAYç”µå½±å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv076
+é–å¤©ç”µå½±å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv061
+é¾™åç”µå½±,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn03
+é‡‡æ˜Œå½±å‰§,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv049
+æ°‘è§†å½±å‰§,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv09
+é¾™åç»å…¸,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn21
+ä¸­è§†ç»å…¸,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv080
+å°æ¹¾æˆå‰§å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn22
+é–æ´‹æˆå‰§å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv045
+é–å¤©æˆå‰§å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv058
+å…¬è§†æˆå‰§,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv042
+é¾™åæˆå‰§,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn18
+
+
+æ™ºæ—ä½“è‚²å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv101
+æ—¶å°šè¿åŠ¨X,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv014
+é–å¤©è‚²ä¹å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv062
+åšæ–¯é­…åŠ›,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn04
+åšæ–¯é«˜çƒ1,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn05
+åšæ–¯é«˜çƒ2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn06
+åšæ–¯è¿åŠ¨1,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn07
+åšæ–¯è¿åŠ¨2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn08
+åšæ–¯ç½‘çƒ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn09
+åšæ–¯æ— é™,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn10
+åšæ–¯æ— é™2,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn13
+TRACESPORTSSTARS,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv077
+
+è¦–ç´è¯ä»ç´€å¯¦é »é“,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv013
+ä¸­è§†èé‡‡,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv064
+å…«å¤§ç²¾å½©å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv034
+å…«å¤§ç»¼è‰ºå°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv039
+TVBSç²¾é‡‡å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv067
+TVBSæ¬¢ä¹å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv068
+é–å¤©æ¬¢ä¹å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv054
+é–å¤©ç»¼åˆå°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv046
+é–å¤©èµ„è®¯å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv065
+é–å¤©å¡é€šå°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv044
+é–å¤©æ—¥æœ¬å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv047
+é–æ´‹å¡é€šå°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv057
+é–å¤©å›½é™…å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv063
+é–å¤©æ˜ ç”»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv055
+çˆ±å°”è¾¾å¨±ä¹,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv070
+é¾™åå¡é€š,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn01
+é¾™åæ—¥éŸ©,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn11
+é¾™åå¶åƒ,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn12
+æ°‘è§†ç»¼è‰º,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv004
+æ°‘è§†ç¬¬ä¸€å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv003
+æ°‘è§†æ—…æ¸¸,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv07
+äºšæ´²æ—…æ¸¸å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn17
+å®¢å®¶ç”µè§†å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv043
+çˆ±æ”¾åŠ¨æ¼«,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv15
+å¤å…¸éŸ³ä¹å°,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv059
+çŒªå“¥äº®æ­Œå…ç§€,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv006
+
+
+SmartçŸ¥è¯†å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn19
+è¾¾æ–‡è¥¿é¢‘é“,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv018
+é˜¿é‡Œéƒ,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv079
+ç”Ÿæ´»è‹±è¯­å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-longturn20
+å›½é™…è´¢ç»,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv104
+ç¾å›½ä¹‹éŸ³,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv03
+å¥½æ¶ˆæ¯,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv16
+å¥½æ¶ˆæ¯2å°,http://debian.52sw.top:678/play/mt/litv.php?id=litv-ftv17
+éå‡¡å•†ä¸š,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv048
+å›½ä¼šé¢‘é“1,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv084
+å›½ä¼šé¢‘é“2,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv085
+TRACEURBAN,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv082
+MEZZOLIVE,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv083
+GLOBETROTTER,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv016
+GinxTV,http://debian.52sw.top:678/play/mt/litv.php?id=4gtv-4gtv053
 3çº¿TVBS,http://william8073.eu.org:9000/live.m3u8?c=1
 3çº¿TVBSNEWS,http://william8073.eu.org:9000/live.m3u8?c=2
 3çº¿TVBSæ–°é—»å°,http://william8073.eu.org:9000/live.m3u8?c=3
@@ -3788,6 +3880,124 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 3çº¿ä¸­è§†å¤§é™†å¯»å¥‡,http://william8073.eu.org:9000/live.m3u8?c=37
 3çº¿æ–°å”äººäºšå¤ªå°,http://william8073.eu.org:9000/live.m3u8?c=38
 
+ğŸ¼æˆæ›²é¢‘é“,#genre#
+
+æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+æ²³å—æ¢¨å›­,https://tv.cry33.com/hn.php?id=hnly
+ç§»åŠ¨æˆæ›²,https://tv.cry33.com/hn.php?id=ydxj
+å‰æ—ä¹¡æ‘,http://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
+å‰æ—éƒ½å¸‚,http://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
+å‰æ—å½±è§†,http://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
+å‰æ—å…¬å…±,http://hls.avap.jilintv.cn/zqvk7vpj/channel/44dcb20ec810463cb517f1814c1b3ce9/1.m3u8
+å‰æ—ç”Ÿæ´»,http://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
+ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
+ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQWktEL2lGQjZzMFNxbHdTS2FRQzJLLzBqU1FXTEh3YkJxSW1TRHVrQ0RDT1FGd2s5aUV0NWtBeXIwV1VDSGZNWktjS2U1MEpobEt5SHdRMDAwVnpNZDJsalNPT2xlOXNwZz09/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº1
+ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQUkJ2ZnpwRmZiMzYrY01xU0V4ZkxnMm1jV3NScFNKQU5SUHRXaks5QXRQZU92aUkzdGdQNjFaQzFwWjRSa1RlbjBuWHB0SXVQUGQxQjR2UkJyd2pMTTQ9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº2
+ç°ä»£æ›²å‰§ã€Šæ…ˆæ¯æƒ…å’Œæ…ˆæ¯å¿ƒã€‹åˆé›†ã€‚,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4
+æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹ã€æ¢æ¯ä¸€æŠ˜ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
+æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
+æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190325/3635fa4901fb8f63a26cf623a9c3c549.mp4
+æ›²å‰§ã€Šå“‘å¥³å‘ŠçŠ¶ã€‹å®Œæ•´ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/200608/7fcc1b27a03acfbf1b7b8379370387fa.mp4
+æ›²å‰§ã€èµµæ°å­¤å„¿ã€‘å…¨åœº,http://gcw.bdcdn.shoujiduoduo.com/v/190325/870b319c7c76d1454305c961de3193d7.mp4
+æ›²å‰§ã€Šåå¸­ç­’ã€‹æµè¿æ± ã€åˆ˜å…°ç‰ã€é©¬äºŒç« 79å¹´èˆå°ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/190501/effda381decab3a9da4e1d8090de384a.mp4
+æ›²å‰§ã€Šåå¸­ç­’ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190527/315a044c2b9cf3a17e2b37ef09e21cd5.mp4
+æ›²å‰§ã€Šæ¡‘æ—æ”¶å­ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
+æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
+æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
+æ›²å‰§å°æˆã€Šæ¡‘æ—æ”¶å­ã€‹å¼ æ™“è‹±è¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
+æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹æ¢æ¯ã€æ²³å—æµè¿æ± æ›²å‰§å›¢ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
+é©¬éªä¸»æ¼”æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
+æ›²å‰§ã€Šæå¤©æ–¹ä¸“è¾‘ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191208/d1a3c9f90719f7eebdafd964b7bcb8f8.mp4
+æ´›é˜³å¸‚ä¹éƒ½ç¿ ç²æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190429/2ef6445a1215cf06049cac61d72f201e.mp4
+åˆ˜è‰³ä¸½æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190702/3e371e8c94d2e1070319298ce2f9c2b7.mp4
+çˆ†ç¬‘åˆä½œè¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190710/acb4c10132c1db9122b9fc1d9bb662e1.mp4
+è‘—åæ›²å‰§å¤§å¸ˆæå¤©æ–¹ã€Šåå…«å“­ã€‹ç»å…¸å†ç°ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/190304/7dc7811188639217fb8299804021325f.mp4
+å—é˜³å¸‚é•¿å®æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190902/19ce2ae8133857ae7ffc2dbe0c674a3b.mp4
+æå¤©æ–¹ã€æ¯•æ¾èè¡¨æ¼”æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹ä¸¤å£å­æŠŠæˆæ¼”ç»äº†,http://gcw.bdcdn.shoujiduoduo.com/v/190404/fe8abd72959145ed7ca5b56342849b89.mp4
+æ›²å‰§ã€Šåå¸­ç­’ã€‹æµè¿æ± ,http://gcw.bdcdn.shoujiduoduo.com/v/190527/315a044c2b9cf3a17e2b37ef09e21cd5.mp4
+æå¤©æ–¹,http://gcw.bdcdn.shoujiduoduo.com/v/190513/4a77c50ae75a653dfbf5396f45c592e3.mp4
+ã€æ²³å—æµè¿æ± æ›²å‰§å›¢ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190218/c981286b5772c5c5351b202973680264.mp4
+æ›²å‰§ã€å€Ÿç°ªå­ã€‘å…¨åœºâ—å¹³é¡¶å±±å¸‚å¤§æ¶›æ›²å‰§å›¢â—â˜…mp4_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190428/002d8daebc70bfbe6e809d28b55084af.mp4
+æ›²å‰§ã€Šè†é’—è®°ã€‹å¼ æ–°èŠ³82å¹´æ¼”å‡ºèµ„æ–™,http://gcw.bdcdn.shoujiduoduo.com/v/190706/f24473d42d884882617f29ab1157b8ab.mp4
+æ²³å—æ›²å‰§ã€Šäº”ç¦ä¸´é—¨ã€‹ã€å…¨åœºã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/200302/3b18c2c8f578035387fc737d88dd8f9e.mp4
+æ–°å¨˜ä¸¾åˆ€å“åæè±å­,http://gcw.bdcdn.shoujiduoduo.com/v/201105/3e869cb57c096666978b871997e1781e.mp4
+æ›²å‰§å…¨é›†ã€ŠæƒŠè›°ã€‹ä¸Šé›†,http://gcw.bdcdn.shoujiduoduo.com/v/201105/8fb403bfce72a9ae63ec389b5c756092.mp4
+æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190325/3635fa4901fb8f63a26cf623a9c3c549.mp4
+å‘¨ç‰çæ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/200317/7c101acea7a9514446426caaa0793840.mp4
+å—é˜³æ›²å‰§è‰ºæœ¯ä¸­å¿ƒ,http://gcw.bdcdn.shoujiduoduo.com/v/191207/d25810bf3aa56d64dcfa0722c0682570.mp4
+æ›²å‰§ã€Šåå¸­ç­’ã€‹æµè¿æ± ã€åˆ˜å…°ç‰ã€é©¬äºŒç« 79å¹´èˆå°ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/190501/effda381decab3a9da4e1d8090de384a.mp4
+æ›²å‰§ã€Šæè±å­ç¦»å©šã€‹é€‰æ®µæè±å­æ¥è¿‡æ¥æå¤©æ–¹ï¼ˆï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/201115/66568433507300287649a7579cfe59d0.mp4
+æ›²å‰§ã€èµµæ°å­¤å„¿ã€‘å…¨åœºâ—â˜…mp4_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190325/870b319c7c76d1454305c961de3193d7.mp4
+æ›²å‰§ã€Šé¾™æƒ…ã€‹å¹³é¡¶å±±æ›²å‰§è‰ºæœ¯ä¿æŠ¤ä¸­å¿ƒ,http://gcw.bdcdn.shoujiduoduo.com/v/190213/83b5aee6b0ae5ea6e0951c9169838997.mp4
+æ›²å‰§ã€Šå“‘å¥³å‘ŠçŠ¶ã€‹å®Œæ•´ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/200608/7fcc1b27a03acfbf1b7b8379370387fa.mp4
+â€œå‰æ—¥é‡Œå’±çš„å¨˜æŠŠè¯ç…â€,http://gcw.bdcdn.shoujiduoduo.com/v/200618/f72a7218b1eded2f2b7bf043176f92a7.mp4
+æç§‹é‡Œå½•åˆ¶,http://gcw.bdcdn.shoujiduoduo.com/v/190924/93b9d37f2c7420477a1b082c77a06220.mp4
+æç§‹é‡Œå½•åˆ¶,http://gcw.bdcdn.shoujiduoduo.com/v/191113/2bc375c0e12c9f75ad3549150d2c929c.mp4
+å¼ æ–°èŠ³â€”â€”æ›²å‰§ã€Šé™ˆä¸‰ä¸¤ã€‹ï¼šé™ˆä¸‰ä¸¤è¿ˆæ­¥ä¸Šå…¬åº­,http://gcw.bdcdn.shoujiduoduo.com/v/210118/6c7200369ec769f15448231b47e8bab3.mp4
+å—é˜³å¸‚é«˜æ–°æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191122/98131f0938de177cb3ffbe7aa49f6632.mp4
+æ›²å‰§å…¨åœºæˆã€Šç§¦é¦™è²åä¼ ã€‹éƒ‘åå¸‚æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/200603/56247f034823dd320f9094101489d73a.mp4
+æ›²å‰§æµè¿æ± æ›²å‰§å›¢éƒ­å¨åæœ03,http://gcw.bdcdn.shoujiduoduo.com/v/190225/9fbb0cb5e5338b29f6d9946fd7051adb.mp4
+å—é˜³å¸‚é•¿å®æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190920/bd1f1d3a930f50f5ffbed6792da7865a.mp4
+ä¸€å­—ä¸€å¥é¢‡æœ‰è¶£å‘³,http://gcw.bdcdn.shoujiduoduo.com/v/191122/1ade9113a8bcc9385cc6e9df9871a27e.mp4
+æ´›é˜³å¸‚ä¹éƒ½ç¿ ç²æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/201026/22e51c748600e5e42bc5a138c62c5160.mp4
+æ›²å‰§ä¸‹æœæ¥ä¸€è¾¹èµ°ä¸€è¾¹é•¿å¹æå¤©æ–¹,http://gcw.bdcdn.shoujiduoduo.com/v/190718/664cfdec0eb7ae39b7ff5c3daab7729c.mp4
+ä¸Š,http://gcw.bdcdn.shoujiduoduo.com/v/190404/59e91848a56166a30a275089daf59b9a.mp4
+ä¹”åäº‘æ¼”å”±æ›²å‰§ã€Šç‹å°èµ¶è„šã€‹é€‰åœº,http://gcw.bdcdn.shoujiduoduo.com/v/190524/74c592424d50fd8dda66f52b9b30a650.mp4
+æ•™é—ºå¥³,http://gcw.bdcdn.shoujiduoduo.com/v/210127/870fd252bad1a37fbbc7f19196b2e9cf.mp4
+æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹ã€æ¢æ¯ä¸€æŠ˜ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
+_é«˜æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
+æ›²å‰§ã€Šç§¦é¦™è²ã€‹æ–¹ç´ çã€ä¾¯åº†ç¥¥ã€ææ˜¥æ™¯æ²³å—çœæ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190907/9de92127ec2567101234d761b31c1a66.mp4
+é©¬éªç‰ˆæ²³å—æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹å§œè¿˜æ˜¯è€çš„è¾£!,http://gcw.bdcdn.shoujiduoduo.com/v/200919/906b70f4cd6f3ad139a2d4986cc48a78.mp4
+ä¸­åŸåä¸‘å¼ æ™“è‹±æ›²å‰§ã€Šè€ä¸¤å£ç©æµªæ¼«ã€‹çœŸæç¬‘ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/190330/4f21f789c48f1c4a9c739e26056a65af.mp4
+æ›²å‰§ã€Šé£é›ªé…ã€‹é€‰æ®µ,http://gcw.bdcdn.shoujiduoduo.com/v/190315/5d17a97a41c3debe8551adc2928b1ed8.mp4
+æ›²å‰§æµè¿æ± ã€Šåå¸­ç­’ã€‹å¤§è€çˆä½ ç¨³ååœ¨å¯Ÿé™¢,http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4
+æ›²å‰§ã€ŠæŸœä¸­ç¼˜ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190224/a43970035d5ea22b1d9e0e7b60415bd4.mp4
+æ›²å‰§ã€ŠåŒ…å…¬è¾æœã€‹æ€’æ‰“ç‹å¼ºé©¬é‚åˆæ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/191207/e3686f25f7c417454dbd2be4d0fbc87b.mp4
+ç§¦èŠ³æ¬£è¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190613/1b015c533e065640f025f440158384ae.mp4
+æ›²å‰§_é™ˆä¸‰ä¸¤å­”ç´ çº¢é™ˆä¸‰ä¸¤æ¼«æ­¥ä¸Šå…¬åº­,http://gcw.bdcdn.shoujiduoduo.com/v/190710/916c9cf23da02dfea6e1bc13dd328bf6.mp4
+æµè¿æ± æ›²å‰§ã€Šåå¸­ç­’ã€‹ç»å…¸é€‰æ®µï¼šå°ä»“å¨ƒèªå¤§å ‚è¯‰å†¤æ‰,http://gcw.bdcdn.shoujiduoduo.com/v/190223/09e4765a1fdf115854f683e7fa863377.mp4
+åå†¬è…Šæœˆå¤©ä½ ä¸è¯¥æ‹¿ç€é‚£èŠ¦èŠ±å½“ä¸æ£‰,http://gcw.bdcdn.shoujiduoduo.com/v/190519/46d622ba7c7985c5e8045be5a1975188.mp4
+æå¤©æ–¹å¤«å¦‡æ¼”å”±æ›²å‰§ã€Šè‹å¨ƒæ‰¾çˆ¹ã€‹å°±æ˜¯ç‰›!,http://gcw.bdcdn.shoujiduoduo.com/v/190624/0a20f9fccd7449afab722eed0ef0eedf.mp4
+æ›²å‰§åå®¶èƒ¡å¸Œåæ›²å‰§ã€Šæè±å­æˆ‘é­äº†å•¥ç½ªã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190711/123d9450d12ba8ac814e5842c1463256.mp4
+â€œå°ä»“å¨ƒæˆ‘ç¦»äº†ç™»å°å°å¿â€é€‰æ®µæ›²å‰§ã€Šåå¸­ç­’ã€‹æ¨å¸…å­¦,http://gcw.bdcdn.shoujiduoduo.com/v/190602/8b28dec624f172d186f11fc7290c48ff.mp4
+éƒ‘åå¸‚æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190404/52298ebc73c6ef8b36a34ad9e09c924d.mp4
+æŠ±å¨‡å„¿æ­¢ä¸ä½æ‚²å£°å¤§æ”¾!,http://gcw.bdcdn.shoujiduoduo.com/v/190608/194edc031eeaed2d7f7ca2589e6768ec.mp4
+å¬è‡£æŠŠå¿ƒç—…å¥å¾çš‡,http://gcw.bdcdn.shoujiduoduo.com/v/190624/2f080bc5a284f70f38b92664a9e3444f.mp4
+åˆ˜è‰³ä¸½æ¼”å”±æ›²å‰§ã€Šè€é¼ å«å¥³ã€‹å¥½ç©!,http://gcw.bdcdn.shoujiduoduo.com/v/200914/865e9898babe5bee65b4e7a834390aae.mp4
+æ›²å‰§å¤§å…¨1,http://gcw.bdcdn.shoujiduoduo.com/v/191009/7d5524c35adc0763d87868a140b051be.mp4
+å¹´è€äººæ€ç¦è¿™é£é›ªæ—‹!,http://gcw.bdcdn.shoujiduoduo.com/v/190605/6b44b90dfad0379f6cc6ae14354af580.mp4
+å—é˜³å¸‚é‡‘çº¢æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190714/79f329b25bd56d24d99d64c49da7ca84.mp4
+å—é˜³å¸‚é‡‘çº¢æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190926/edde31e6fcbc72a7ef2203b9b9cad3a0.mp4
+ä¸æ„§æ˜¯æˆæ›²ä¸Šçš„ä¸å€’ç¿,http://gcw.bdcdn.shoujiduoduo.com/v/190617/d37e4e0a63b5cfd4ec0c05edb64351e4.mp4
+æ›²å‰§ã€ç§¦é¦™è²ã€‘å…¨åœºâ—æ²³å—çœæ›²å‰§å›¢â—â˜…mp4,http://gcw.bdcdn.shoujiduoduo.com/v/190318/114d1ca4f536bc0b172ceb9ddb07eb36.mp4
+20130928æè±å­å”±æ®µ.æ›²å‰§è¡¨æ¼”è‰ºæœ¯å®¶æå¤©æ–¹æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190304/951409acd26e4d06be3d1b6ea1bc4ad8.mp4
+æ›²å‰§å°æŠ˜å­ã€Šå­¤ç”å¯¡å¥³ã€‹æå¤©æ–¹,http://gcw.bdcdn.shoujiduoduo.com/v/190706/3676c145c6f733a449f10d5bf1c6f500.mp4
+å—é˜³å¸‚é‡‘çº¢æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/191003/1dacb6c7907dae26e14d1043cdcc8800.mp4
+å‡„æƒ¨ç»“å±€!,http://gcw.bdcdn.shoujiduoduo.com/v/190703/964530e611ef9c0f468187530ff35df5.mp4
+æ›²å‰§å…¨åœºæˆã€ä¸‹é™ˆåã€‘ä¸Šé›†â˜…,http://gcw.bdcdn.shoujiduoduo.com/v/191207/33327eea240ea54022d0024e4c8c8454.mp4
+å—é˜³å¸‚å®›ä¸œé’å¹´æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191012/bb2fb4f0811d29c56dd6edfd9427b752.mp4
+æ–°å©šå¤œçº¢ç¯äº®é¼“ä¹é½é¸£,http://gcw.bdcdn.shoujiduoduo.com/v/201113/680de1c6c1d7fdeac9c8f24a966cf008.mp4
+ç°ä»£æ›²å‰§ã€Šæ…ˆæ¯æƒ…å’Œæ…ˆæ¯å¿ƒã€‹åˆé›†ã€‚,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4
+ï¼ˆæ¢¨å›­æ˜¥ç‰ˆï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/190822/5668e504ad82c60607d315479d821990.mp4
+æ›²å‰§ã€Šçº¢å¨˜ã€‹æ›²å‰§åå®¶åˆ˜é’æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/201226/d0513575077086a2c479c2b06220e361.mp4
+æ²³å—çœæ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190130/f825d70cb7e1820a4e75a050793dc241.mp4
+èèˆª,http://gcw.bdcdn.shoujiduoduo.com/v/200304/aa62b08f4acc8ddb492fdc3f5b60bb06.mp4
+å›¢æ¼”å”±ç¬¬1é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/eac79457c0bbc458be19715b4bdc573f.mp4
+å›¢æ¼”å”±ç¬¬2é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/060dde67d9a7e11898d2ab7d473b5509.mp4
+å›¢æ¼”å”±ç¬¬3é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/55da4c403d2ea51fa5602f304d4febc3.mp4
+å›¢æ¼”å”±ç¬¬4é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/5348bfafcc6ac127374cc1c6ac60c40d.mp4
+å›¢æ¼”å”±ç¬¬5é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/9beb3bb3d9ca75c6b49e9850663c3445.mp4
+å›¢æ¼”å”±ç¬¬6é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/27bfba291a0fb4f0bce5377b27f709f5.mp4
+å›¢æ¼”å”±ç¬¬7é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/92fa5f80e4dc70d3fdea32b0c386a821.mp4
+å›¢æ¼”å”±ç¬¬8é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/4d8c7e2a580139492731295fe5226440.mp4
+å›¢æ¼”å”±ç¬¬9é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/aa7c05e469ac34bb9a67cc28062381ca.mp4
+å®‰å¾½çœå®‰åº†å¸‚é»„æ¢…æˆä¸‰å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191211/9ed54cfd1c55624e227f28ca40c6a4ab.mp4
+é»„æ¢…æˆå‰§å›¢é»„æ¢…æˆã€Šç§¦é¦™è²ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/201009/865515f2d68eb10e263cb8e66596e40a.mp4
+é»„æ¢…æˆã€Šåå…«æ‘¸ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/210120/965f4cee36d51eb13fe6121cd3aee2fb.mp4
+ä¸¥å‡¤è‹±éŸ©å†èŠ¬å‘¨æºæº,http://gcw.bdcdn.shoujiduoduo.com/v/190702/ed2662b8d3d3a875e01a53c669f4af50.mp4
+æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190221/6a38928efbe1f76f04f14a94197cc6d6.mp4
+é»„æ¢…æˆã€æ˜¥é¦™é—¹å­¦ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/201027/552dcdf37bdf2b4ff56d9e79bb58f527.mp4
+ç²¾å½©å¥½çœ‹ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/200227/9d52e829ee706c3d5170d13bfac85b70.mp4
 
 
 ğŸ‡¨ğŸ‡³ç”µå½±é¢‘é“,#genre#
@@ -3825,6 +4035,57 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 é•¿æ´¥æ¹–,https://s1.bfzycdn.com/video/changjinhu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 é•¿æ´¥æ¹–ä¹‹æ°´é—¨æ¡¥,https://cdn17.yzzy-online.com/20230817/16230_2dbddb92/2000k/hls/index.m3u8
 
+
+ç©†æ¡‚è‹±å¤§æˆ˜æ´ªå,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
+åŠ¨ç‰©ä¸–ç•Œ,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+å¥³é©¸é©¬,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+æ¢å±±ä¼¯ä¸ç¥è‹±å°,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+å†°å±±ä¸Šçš„æ¥å®¢,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+å®è‘«èŠ¦çš„ç§˜å¯†,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
+æˆ˜ç«ä¸­çš„é’æ˜¥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
+æäºŒå«‚æ”¹å«01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
+æäºŒå«‚æ”¹å«02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
+å­™æ‚Ÿç©ºä¸‰æ‰“ç™½éª¨ç²¾,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+é“é“æ¸¸å‡»é˜Ÿ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+ä¸‰æ¯›æµæµªè®°,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+å´é»åœ£æ¯é™¢,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
+æ¸¡æ±Ÿä¾¦å¯Ÿè®°,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+å¤§æ°”å±‚æ¶ˆå¤±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
+ç‹è€è™æŠ¢äº²,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
+æ¢ç´¢å‘ç°,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
+æ—æµé›ªåŸ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+èŒœèŒœå…¬ä¸»,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
+éœ¹é›³è´è´,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
+åœ°ä¸‹å°–å…µ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
+å°å…µå¼ å˜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+è‹±é›„è™èƒ†,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+ä¸‰è¿›å±±åŸ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
+æ™ºå–åå±±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+æ³‰æ°´å®å’š,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
+å¢™å¤´é©¬ä¸Š,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
+äº”å¥³æ‹œå¯¿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
+é­‚æ–­è“æ¡¥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
+å‡ºæ°´èŠ™è“‰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
+æ¡‚æ²³å¤§æ¡¥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+åå¸­ç­’,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
+çº¢ç‰¡ä¸¹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+çº¢å­©å­,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+ä¸Šç”˜å²­,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+åˆ˜ä¸‰å§,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+é‡çŒªæ—,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
+å°‘æ—å¯º,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+æˆ˜ä¸Šæµ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+è‘£å­˜ç‘,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+é©¬å…°èŠ±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
+è‹¦èœèŠ±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+èŠ±ä¸ºåª’,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
+æ²™å®¶æµœ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
+çŠ¬ç‹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
+å‰å“¨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
+å¥‡è¢­,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
+å°èŠ±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
+
+
 ğŸ‡¨ğŸ‡³åŠ¨æ¼«é¢‘é“,#genre#
 ğŸ”¥æœºå™¨äººä¹‹æ¢¦,https://yzzy1.play-cdn20.com/20240220/17247_5b460634/index.m3u8
 ğŸ”¥çŒç¯®é«˜æ‰‹ç”µå½±ç‰ˆ,https://yzzy1.play-cdn20.com/20240307/19070_1e7c01d6/2000k/hls/mixed.m3u8
@@ -3860,6 +4121,21 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 é­”æœ¯å¸ˆçš„å¤§è±¡,https://vip.lz-cdn3.com/20230318/18175_6ae56259/1800k/hls/mixed.m3u8
 
 
+å€’éœ‰ç‰¹ç†Š,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+é›²æœµå¦ˆå¦ˆ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+åè½¬æ˜Ÿçƒ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+ç†Šå¤§ç†ŠäºŒ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+ç‹®å­ç‹åœ‹,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+åŠ¨æ¼«å‰§åœº,http://43.138.170.29:35455/douyu/7620081
+è¶…ç‡ƒåŠ¨æ¼«,http://43.138.170.29:35455/douyu/1174353
+æŸ¯å—å‰§åœº,http://43.138.170.29:35455/douyu/7050342
+çŒç¯®é«˜æ‰‹,http://43.138.170.29:35455/yy/1356243352
+å¼€å¿ƒé”¤é”¤,http://43.138.170.29:35455/douyu/9018297
+æµè´¼ç‹,http://43.138.170.29:35455/douyu/997925
+è‡­ç‹—ç†Š,http://43.138.170.29:35455/yy/1352866135
+ç†Šç†Šæ¢é™©æ—¥è®°S1,http://43.138.170.29:35455/yy/1354930977
+èŒé¸¡å°é˜ŸS1,http://43.138.170.29:35455/yy/1382736904
+çˆ†ç¬‘è™«å­,http://43.138.170.29:35455/douyu/9942574
 
 ğŸ‡¨ğŸ‡³å¤®è§†é¢‘é“,#genre#
 CCTV1_ç»¼åˆ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
@@ -4452,340 +4728,6 @@ MoMoç»¼åˆ,rtmp://twcdn.top/sat/tv761
 é–å¤©æ—¥æœ¬å°,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
 å›½å…´å«è§†,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 
-ğŸ¼æ€€æ—§ç”µå½±,#genre#
-ç©†æ¡‚è‹±å¤§æˆ˜æ´ªå,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
-åŠ¨ç‰©ä¸–ç•Œ,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
-å¥³é©¸é©¬,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
-æ¢å±±ä¼¯ä¸ç¥è‹±å°,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-å†°å±±ä¸Šçš„æ¥å®¢,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
-å®è‘«èŠ¦çš„ç§˜å¯†,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
-æˆ˜ç«ä¸­çš„é’æ˜¥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
-æäºŒå«‚æ”¹å«01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
-æäºŒå«‚æ”¹å«02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
-å­™æ‚Ÿç©ºä¸‰æ‰“ç™½éª¨ç²¾,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
-é“é“æ¸¸å‡»é˜Ÿ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
-ä¸‰æ¯›æµæµªè®°,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
-å´é»åœ£æ¯é™¢,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
-æ¸¡æ±Ÿä¾¦å¯Ÿè®°,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-å¤§æ°”å±‚æ¶ˆå¤±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
-ç‹è€è™æŠ¢äº²,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
-æ¢ç´¢å‘ç°,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-æ—æµé›ªåŸ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
-èŒœèŒœå…¬ä¸»,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
-éœ¹é›³è´è´,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-åœ°ä¸‹å°–å…µ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
-å°å…µå¼ å˜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
-è‹±é›„è™èƒ†,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
-ä¸‰è¿›å±±åŸ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
-æ™ºå–åå±±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
-æ³‰æ°´å®å’š,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-å¢™å¤´é©¬ä¸Š,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
-äº”å¥³æ‹œå¯¿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
-é­‚æ–­è“æ¡¥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
-å‡ºæ°´èŠ™è“‰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
-æ¡‚æ²³å¤§æ¡¥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
-åå¸­ç­’,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
-çº¢ç‰¡ä¸¹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
-çº¢å­©å­,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
-ä¸Šç”˜å²­,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
-åˆ˜ä¸‰å§,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
-é‡çŒªæ—,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
-å°‘æ—å¯º,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-æˆ˜ä¸Šæµ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
-è‘£å­˜ç‘,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
-é©¬å…°èŠ±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
-è‹¦èœèŠ±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
-èŠ±ä¸ºåª’,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
-æ²™å®¶æµœ,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
-çŠ¬ç‹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/08d97be6d296434098297a505e2f05b5/850.m3u8
-å‰å“¨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
-å¥‡è¢­,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-å°èŠ±,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-
-
-
-
-ğŸ¼å°‘å„¿é¢‘é“,#genre#
-å€’éœ‰ç‰¹ç†Š,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-é›²æœµå¦ˆå¦ˆ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-åè½¬æ˜Ÿçƒ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-ç†Šå¤§ç†ŠäºŒ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-ç‹®å­ç‹åœ‹,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-åŠ¨æ¼«å‰§åœº,http://43.138.170.29:35455/douyu/7620081
-è¶…ç‡ƒåŠ¨æ¼«,http://43.138.170.29:35455/douyu/1174353
-æŸ¯å—å‰§åœº,http://43.138.170.29:35455/douyu/7050342
-çŒç¯®é«˜æ‰‹,http://43.138.170.29:35455/yy/1356243352
-å¼€å¿ƒé”¤é”¤,http://43.138.170.29:35455/douyu/9018297
-æµè´¼ç‹,http://43.138.170.29:35455/douyu/997925
-è‡­ç‹—ç†Š,http://43.138.170.29:35455/yy/1352866135
-ç†Šç†Šæ¢é™©æ—¥è®°S1,http://43.138.170.29:35455/yy/1354930977
-èŒé¸¡å°é˜ŸS1,http://43.138.170.29:35455/yy/1382736904
-çˆ†ç¬‘è™«å­,http://43.138.170.29:35455/douyu/9942574
-
-ğŸ¼æˆæ›²é¢‘é“,#genre#
-
-æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-ç°ä»£æ›²å‰§ã€Šæ…ˆæ¯æƒ…å’Œæ…ˆæ¯å¿ƒã€‹åˆé›†ã€‚,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4
-æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹ã€æ¢æ¯ä¸€æŠ˜ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
-æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
-æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190325/3635fa4901fb8f63a26cf623a9c3c549.mp4
-æ›²å‰§ã€Šå“‘å¥³å‘ŠçŠ¶ã€‹å®Œæ•´ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/200608/7fcc1b27a03acfbf1b7b8379370387fa.mp4
-æ›²å‰§ã€èµµæ°å­¤å„¿ã€‘å…¨åœº,http://gcw.bdcdn.shoujiduoduo.com/v/190325/870b319c7c76d1454305c961de3193d7.mp4
-æ›²å‰§ã€Šåå¸­ç­’ã€‹æµè¿æ± ã€åˆ˜å…°ç‰ã€é©¬äºŒç« 79å¹´èˆå°ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/190501/effda381decab3a9da4e1d8090de384a.mp4
-æ›²å‰§ã€Šåå¸­ç­’ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190527/315a044c2b9cf3a17e2b37ef09e21cd5.mp4
-æ›²å‰§ã€Šæ¡‘æ—æ”¶å­ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
-æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
-æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
-æ™‹å‰§ä¹Œé¾™é™¢ææ˜æ˜Ÿåˆ˜çº¢éœ,https://vdse.bdstatic.com//c5675807c30a37667fa34205a9662af6.mp4
-æ™‹å‰§äº”å¥³æ‹œå¯¿æª€ä¿Šæ˜ç‹å’Œçˆ±ä¸­,https://vdse.bdstatic.com//1f6749663f8e9a4cba9715b424b6cad2.mp4
-æ™‹å‰§äº”å¥³æ‹œå¯¿æ­¦å¿ å¦ç‘ç´ç‹ä¿Šå¤ª1,https://vdse.bdstatic.com//896964822d083920af45614ca61515e4.mp4
-æ™‹å‰§äº”å¥³æ‹œå¯¿æ­¦å¿ å¦ç‘ç´ç‹ä¿Šå¤ª2,https://vdse.bdstatic.com//e6410891ec7f601d8c16c9483ada2c70.mp4
-æ™‹å‰§äº”å¥³æ‹œå¯¿æ­¦å¿ å¦ç‘ç´ç‹ä¿Šå¤ª3,https://vdse.bdstatic.com//d056f55d0ae8f2e5ea693cf4736830af.mp4
-æ™‹å‰§å¿¤é€†åŸä¸­,https://vdse.bdstatic.com//a98e29efda0bf00a810f7dc620f61d98.mp4
-æ™‹å‰§å–œè£å½’ç”°æ¡‚å…°ç‹å®é’—å§¬è£ç”ŸçŸ³æ˜¥é¦™,https://vdse.bdstatic.com//25c961bfe8cf2b503c9cf8afa66af793.mp4
-æ™‹å‰§å–œè£å½’å¼ èŠ™è“‰é©¬èƒæ–‡ç§¦å§è¿åˆ˜èŠ³æ­£,https://vdse.bdstatic.com//f8d435e8c3d41157981182073bd49ea8.mp4m3u8
-æ›²å‰§å°æˆã€Šæ¡‘æ—æ”¶å­ã€‹å¼ æ™“è‹±è¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
-æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹æ¢æ¯ã€æ²³å—æµè¿æ± æ›²å‰§å›¢ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
-é©¬éªä¸»æ¼”æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200831/2d7d5874b132f83b8f6d7c2e24ee3cdf.mp4
-æ›²å‰§ã€Šæå¤©æ–¹ä¸“è¾‘ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191208/d1a3c9f90719f7eebdafd964b7bcb8f8.mp4
-æ´›é˜³å¸‚ä¹éƒ½ç¿ ç²æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190429/2ef6445a1215cf06049cac61d72f201e.mp4
-åˆ˜è‰³ä¸½æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190702/3e371e8c94d2e1070319298ce2f9c2b7.mp4
-çˆ†ç¬‘åˆä½œè¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190710/acb4c10132c1db9122b9fc1d9bb662e1.mp4
-è‘—åæ›²å‰§å¤§å¸ˆæå¤©æ–¹ã€Šåå…«å“­ã€‹ç»å…¸å†ç°ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/190304/7dc7811188639217fb8299804021325f.mp4
-å—é˜³å¸‚é•¿å®æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190902/19ce2ae8133857ae7ffc2dbe0c674a3b.mp4
-æå¤©æ–¹ã€æ¯•æ¾èè¡¨æ¼”æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹ä¸¤å£å­æŠŠæˆæ¼”ç»äº†,http://gcw.bdcdn.shoujiduoduo.com/v/190404/fe8abd72959145ed7ca5b56342849b89.mp4
-æ›²å‰§ã€Šåå¸­ç­’ã€‹æµè¿æ± ,http://gcw.bdcdn.shoujiduoduo.com/v/190527/315a044c2b9cf3a17e2b37ef09e21cd5.mp4
-æå¤©æ–¹,http://gcw.bdcdn.shoujiduoduo.com/v/190513/4a77c50ae75a653dfbf5396f45c592e3.mp4
-ã€æ²³å—æµè¿æ± æ›²å‰§å›¢ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190218/c981286b5772c5c5351b202973680264.mp4
-æ›²å‰§ã€å€Ÿç°ªå­ã€‘å…¨åœºâ—å¹³é¡¶å±±å¸‚å¤§æ¶›æ›²å‰§å›¢â—â˜…mp4_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190428/002d8daebc70bfbe6e809d28b55084af.mp4
-æ›²å‰§ã€Šè†é’—è®°ã€‹å¼ æ–°èŠ³82å¹´æ¼”å‡ºèµ„æ–™,http://gcw.bdcdn.shoujiduoduo.com/v/190706/f24473d42d884882617f29ab1157b8ab.mp4
-æ²³å—æ›²å‰§ã€Šäº”ç¦ä¸´é—¨ã€‹ã€å…¨åœºã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/200302/3b18c2c8f578035387fc737d88dd8f9e.mp4
-æ–°å¨˜ä¸¾åˆ€å“åæè±å­,http://gcw.bdcdn.shoujiduoduo.com/v/201105/3e869cb57c096666978b871997e1781e.mp4
-æ›²å‰§å…¨é›†ã€ŠæƒŠè›°ã€‹ä¸Šé›†,http://gcw.bdcdn.shoujiduoduo.com/v/201105/8fb403bfce72a9ae63ec389b5c756092.mp4
-æ›²å‰§ã€Šæè±å­è¯´åª’ã€‹_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190325/3635fa4901fb8f63a26cf623a9c3c549.mp4
-å‘¨ç‰çæ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/200317/7c101acea7a9514446426caaa0793840.mp4
-å—é˜³æ›²å‰§è‰ºæœ¯ä¸­å¿ƒ,http://gcw.bdcdn.shoujiduoduo.com/v/191207/d25810bf3aa56d64dcfa0722c0682570.mp4
-æ›²å‰§ã€Šåå¸­ç­’ã€‹æµè¿æ± ã€åˆ˜å…°ç‰ã€é©¬äºŒç« 79å¹´èˆå°ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/190501/effda381decab3a9da4e1d8090de384a.mp4
-æ›²å‰§ã€Šæè±å­ç¦»å©šã€‹é€‰æ®µæè±å­æ¥è¿‡æ¥æå¤©æ–¹ï¼ˆï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/201115/66568433507300287649a7579cfe59d0.mp4
-æ›²å‰§ã€èµµæ°å­¤å„¿ã€‘å…¨åœºâ—â˜…mp4_è¶…æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190325/870b319c7c76d1454305c961de3193d7.mp4
-æ›²å‰§ã€Šé¾™æƒ…ã€‹å¹³é¡¶å±±æ›²å‰§è‰ºæœ¯ä¿æŠ¤ä¸­å¿ƒ,http://gcw.bdcdn.shoujiduoduo.com/v/190213/83b5aee6b0ae5ea6e0951c9169838997.mp4
-æ›²å‰§ã€Šå“‘å¥³å‘ŠçŠ¶ã€‹å®Œæ•´ç‰ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/200608/7fcc1b27a03acfbf1b7b8379370387fa.mp4
-â€œå‰æ—¥é‡Œå’±çš„å¨˜æŠŠè¯ç…â€,http://gcw.bdcdn.shoujiduoduo.com/v/200618/f72a7218b1eded2f2b7bf043176f92a7.mp4
-æç§‹é‡Œå½•åˆ¶,http://gcw.bdcdn.shoujiduoduo.com/v/190924/93b9d37f2c7420477a1b082c77a06220.mp4
-æç§‹é‡Œå½•åˆ¶,http://gcw.bdcdn.shoujiduoduo.com/v/191113/2bc375c0e12c9f75ad3549150d2c929c.mp4
-å¼ æ–°èŠ³â€”â€”æ›²å‰§ã€Šé™ˆä¸‰ä¸¤ã€‹ï¼šé™ˆä¸‰ä¸¤è¿ˆæ­¥ä¸Šå…¬åº­,http://gcw.bdcdn.shoujiduoduo.com/v/210118/6c7200369ec769f15448231b47e8bab3.mp4
-å—é˜³å¸‚é«˜æ–°æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191122/98131f0938de177cb3ffbe7aa49f6632.mp4
-æ›²å‰§å…¨åœºæˆã€Šç§¦é¦™è²åä¼ ã€‹éƒ‘åå¸‚æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/200603/56247f034823dd320f9094101489d73a.mp4
-æ›²å‰§æµè¿æ± æ›²å‰§å›¢éƒ­å¨åæœ03,http://gcw.bdcdn.shoujiduoduo.com/v/190225/9fbb0cb5e5338b29f6d9946fd7051adb.mp4
-å—é˜³å¸‚é•¿å®æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190920/bd1f1d3a930f50f5ffbed6792da7865a.mp4
-ä¸€å­—ä¸€å¥é¢‡æœ‰è¶£å‘³,http://gcw.bdcdn.shoujiduoduo.com/v/191122/1ade9113a8bcc9385cc6e9df9871a27e.mp4
-æ´›é˜³å¸‚ä¹éƒ½ç¿ ç²æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/201026/22e51c748600e5e42bc5a138c62c5160.mp4
-æ›²å‰§ä¸‹æœæ¥ä¸€è¾¹èµ°ä¸€è¾¹é•¿å¹æå¤©æ–¹,http://gcw.bdcdn.shoujiduoduo.com/v/190718/664cfdec0eb7ae39b7ff5c3daab7729c.mp4
-ä¸Š,http://gcw.bdcdn.shoujiduoduo.com/v/190404/59e91848a56166a30a275089daf59b9a.mp4
-ä¹”åäº‘æ¼”å”±æ›²å‰§ã€Šç‹å°èµ¶è„šã€‹é€‰åœº,http://gcw.bdcdn.shoujiduoduo.com/v/190524/74c592424d50fd8dda66f52b9b30a650.mp4
-æ•™é—ºå¥³,http://gcw.bdcdn.shoujiduoduo.com/v/210127/870fd252bad1a37fbbc7f19196b2e9cf.mp4
-æ²³å—æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹ã€æ¢æ¯ä¸€æŠ˜ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4
-_é«˜æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4
-æ›²å‰§ã€Šç§¦é¦™è²ã€‹æ–¹ç´ çã€ä¾¯åº†ç¥¥ã€ææ˜¥æ™¯æ²³å—çœæ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190907/9de92127ec2567101234d761b31c1a66.mp4
-é©¬éªç‰ˆæ²³å—æ›²å‰§ã€ŠèƒŒé´è®¿å¸…ã€‹å§œè¿˜æ˜¯è€çš„è¾£!,http://gcw.bdcdn.shoujiduoduo.com/v/200919/906b70f4cd6f3ad139a2d4986cc48a78.mp4
-ä¸­åŸåä¸‘å¼ æ™“è‹±æ›²å‰§ã€Šè€ä¸¤å£ç©æµªæ¼«ã€‹çœŸæç¬‘ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/190330/4f21f789c48f1c4a9c739e26056a65af.mp4
-æ›²å‰§ã€Šé£é›ªé…ã€‹é€‰æ®µ,http://gcw.bdcdn.shoujiduoduo.com/v/190315/5d17a97a41c3debe8551adc2928b1ed8.mp4
-æ›²å‰§æµè¿æ± ã€Šåå¸­ç­’ã€‹å¤§è€çˆä½ ç¨³ååœ¨å¯Ÿé™¢,http://gcw.bdcdn.shoujiduoduo.com/v/190511/4951d7d9e0b1a93c4fa696f45d5ac664.mp4
-æ›²å‰§ã€ŠæŸœä¸­ç¼˜ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190224/a43970035d5ea22b1d9e0e7b60415bd4.mp4
-æ›²å‰§ã€ŠåŒ…å…¬è¾æœã€‹æ€’æ‰“ç‹å¼ºé©¬é‚åˆæ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/191207/e3686f25f7c417454dbd2be4d0fbc87b.mp4
-ç§¦èŠ³æ¬£è¡¨æ¼”,http://gcw.bdcdn.shoujiduoduo.com/v/190613/1b015c533e065640f025f440158384ae.mp4
-æ›²å‰§_é™ˆä¸‰ä¸¤å­”ç´ çº¢é™ˆä¸‰ä¸¤æ¼«æ­¥ä¸Šå…¬åº­,http://gcw.bdcdn.shoujiduoduo.com/v/190710/916c9cf23da02dfea6e1bc13dd328bf6.mp4
-æµè¿æ± æ›²å‰§ã€Šåå¸­ç­’ã€‹ç»å…¸é€‰æ®µï¼šå°ä»“å¨ƒèªå¤§å ‚è¯‰å†¤æ‰,http://gcw.bdcdn.shoujiduoduo.com/v/190223/09e4765a1fdf115854f683e7fa863377.mp4
-åå†¬è…Šæœˆå¤©ä½ ä¸è¯¥æ‹¿ç€é‚£èŠ¦èŠ±å½“ä¸æ£‰,http://gcw.bdcdn.shoujiduoduo.com/v/190519/46d622ba7c7985c5e8045be5a1975188.mp4
-æå¤©æ–¹å¤«å¦‡æ¼”å”±æ›²å‰§ã€Šè‹å¨ƒæ‰¾çˆ¹ã€‹å°±æ˜¯ç‰›!,http://gcw.bdcdn.shoujiduoduo.com/v/190624/0a20f9fccd7449afab722eed0ef0eedf.mp4
-æ›²å‰§åå®¶èƒ¡å¸Œåæ›²å‰§ã€Šæè±å­æˆ‘é­äº†å•¥ç½ªã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190711/123d9450d12ba8ac814e5842c1463256.mp4
-â€œå°ä»“å¨ƒæˆ‘ç¦»äº†ç™»å°å°å¿â€é€‰æ®µæ›²å‰§ã€Šåå¸­ç­’ã€‹æ¨å¸…å­¦,http://gcw.bdcdn.shoujiduoduo.com/v/190602/8b28dec624f172d186f11fc7290c48ff.mp4
-éƒ‘åå¸‚æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190404/52298ebc73c6ef8b36a34ad9e09c924d.mp4
-æŠ±å¨‡å„¿æ­¢ä¸ä½æ‚²å£°å¤§æ”¾!,http://gcw.bdcdn.shoujiduoduo.com/v/190608/194edc031eeaed2d7f7ca2589e6768ec.mp4
-å¬è‡£æŠŠå¿ƒç—…å¥å¾çš‡,http://gcw.bdcdn.shoujiduoduo.com/v/190624/2f080bc5a284f70f38b92664a9e3444f.mp4
-åˆ˜è‰³ä¸½æ¼”å”±æ›²å‰§ã€Šè€é¼ å«å¥³ã€‹å¥½ç©!,http://gcw.bdcdn.shoujiduoduo.com/v/200914/865e9898babe5bee65b4e7a834390aae.mp4
-æ›²å‰§å¤§å…¨1,http://gcw.bdcdn.shoujiduoduo.com/v/191009/7d5524c35adc0763d87868a140b051be.mp4
-å¹´è€äººæ€ç¦è¿™é£é›ªæ—‹!,http://gcw.bdcdn.shoujiduoduo.com/v/190605/6b44b90dfad0379f6cc6ae14354af580.mp4
-å—é˜³å¸‚é‡‘çº¢æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190714/79f329b25bd56d24d99d64c49da7ca84.mp4
-å—é˜³å¸‚é‡‘çº¢æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190926/edde31e6fcbc72a7ef2203b9b9cad3a0.mp4
-ä¸æ„§æ˜¯æˆæ›²ä¸Šçš„ä¸å€’ç¿,http://gcw.bdcdn.shoujiduoduo.com/v/190617/d37e4e0a63b5cfd4ec0c05edb64351e4.mp4
-æ›²å‰§ã€ç§¦é¦™è²ã€‘å…¨åœºâ—æ²³å—çœæ›²å‰§å›¢â—â˜…mp4,http://gcw.bdcdn.shoujiduoduo.com/v/190318/114d1ca4f536bc0b172ceb9ddb07eb36.mp4
-20130928æè±å­å”±æ®µ.æ›²å‰§è¡¨æ¼”è‰ºæœ¯å®¶æå¤©æ–¹æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190304/951409acd26e4d06be3d1b6ea1bc4ad8.mp4
-æ›²å‰§å°æŠ˜å­ã€Šå­¤ç”å¯¡å¥³ã€‹æå¤©æ–¹,http://gcw.bdcdn.shoujiduoduo.com/v/190706/3676c145c6f733a449f10d5bf1c6f500.mp4
-å—é˜³å¸‚é‡‘çº¢æ›²å‰§å›¢æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/191003/1dacb6c7907dae26e14d1043cdcc8800.mp4
-å‡„æƒ¨ç»“å±€!,http://gcw.bdcdn.shoujiduoduo.com/v/190703/964530e611ef9c0f468187530ff35df5.mp4
-æ›²å‰§å…¨åœºæˆã€ä¸‹é™ˆåã€‘ä¸Šé›†â˜…,http://gcw.bdcdn.shoujiduoduo.com/v/191207/33327eea240ea54022d0024e4c8c8454.mp4
-å—é˜³å¸‚å®›ä¸œé’å¹´æ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191012/bb2fb4f0811d29c56dd6edfd9427b752.mp4
-æ–°å©šå¤œçº¢ç¯äº®é¼“ä¹é½é¸£,http://gcw.bdcdn.shoujiduoduo.com/v/201113/680de1c6c1d7fdeac9c8f24a966cf008.mp4
-ç°ä»£æ›²å‰§ã€Šæ…ˆæ¯æƒ…å’Œæ…ˆæ¯å¿ƒã€‹åˆé›†ã€‚,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4
-ï¼ˆæ¢¨å›­æ˜¥ç‰ˆï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/190822/5668e504ad82c60607d315479d821990.mp4
-æ›²å‰§ã€Šçº¢å¨˜ã€‹æ›²å‰§åå®¶åˆ˜é’æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/201226/d0513575077086a2c479c2b06220e361.mp4
-æ²³å—çœæ›²å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190130/f825d70cb7e1820a4e75a050793dc241.mp4
-èèˆª,http://gcw.bdcdn.shoujiduoduo.com/v/200304/aa62b08f4acc8ddb492fdc3f5b60bb06.mp4
-å›¢æ¼”å”±ç¬¬1é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/eac79457c0bbc458be19715b4bdc573f.mp4
-å›¢æ¼”å”±ç¬¬2é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/060dde67d9a7e11898d2ab7d473b5509.mp4
-å›¢æ¼”å”±ç¬¬3é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/55da4c403d2ea51fa5602f304d4febc3.mp4
-å›¢æ¼”å”±ç¬¬4é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/5348bfafcc6ac127374cc1c6ac60c40d.mp4
-å›¢æ¼”å”±ç¬¬5é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/9beb3bb3d9ca75c6b49e9850663c3445.mp4
-å›¢æ¼”å”±ç¬¬6é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/27bfba291a0fb4f0bce5377b27f709f5.mp4
-å›¢æ¼”å”±ç¬¬7é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/92fa5f80e4dc70d3fdea32b0c386a821.mp4
-å›¢æ¼”å”±ç¬¬8é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/4d8c7e2a580139492731295fe5226440.mp4
-å›¢æ¼”å”±ç¬¬9é›†,http://gcw.bdcdn.shoujiduoduo.com/episodes/210712/10033019/aa7c05e469ac34bb9a67cc28062381ca.mp4
-äºŒäººå°çº¢çº¢ç«ç«äºŒäººå°,http://gcw.bdcdn.shoujiduoduo.com/v/190706/e9cfd643c90fea9081e6ae5d18b654f0.mp4
-äºŒäººå°ä¼ ç»Ÿå‰§ç›®ã€Šç§æ´‹çƒŸã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200224/4b9ccc2437f42dcfe3614bb6ba90ecc7.mp4
-å¥½çœ‹çš„äºŒäººå°è¿ç»­çœ‹,http://gcw.bdcdn.shoujiduoduo.com/v/191009/f8f14e1a3d2122b322acef4d40b963d4.mp4
-äºŒäººå°ã€Šå–æ²¹ã€‹æ­¦åˆ©å¹³,http://gcw.bdcdn.shoujiduoduo.com/v/191020/f30535c29135b2d97066f459aaf44ef2.mp4
-ç‹èŒ‚æ—,http://gcw.bdcdn.shoujiduoduo.com/v/190925/29d1d265eb98e2ceb273c8090f19c71e.mp4
-ç‹èŒ‚æ—,http://gcw.bdcdn.shoujiduoduo.com/v/191109/4ddcbf706025b04b2a1c97e501777bb6.mp4
-äºŒäººå°å€Ÿç¬Šç¯±,http://gcw.bdcdn.shoujiduoduo.com/v/200302/954ba57467c5a9e254a9fb248fb8fba8.mp4
-æ²³æ›²äºŒäººå°ç‰Œå­æ›²ã€Šè¥¿æ±Ÿæœˆã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200201/c386dae48f7df5949df61261b070fdd0.mp4
-èºæ­Œç‡•èˆæ°‘é—´äºŒäººå°,http://gcw.bdcdn.shoujiduoduo.com/v/190809/7ef0d301b8ba625ed23c6b11db351b52.mp4
-äºŒäººå°ã€Šå°å”å­æŒå«‚å«‚ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190917/b887dfe149fd8b1cc5fbe3eac546b49a.mp4
-ç”°å¨è™,http://gcw.bdcdn.shoujiduoduo.com/v/191227/bf06f5573bbab198867401145d650d5c.mp4
-é”£é¼“ä¼—å”±äºŒäººå°ã€Šçº¢çº¢ç«ç«ã€‹ä¸€ç§å¥½å¬åˆå¥½çœ‹çš„æ¼”å”±å½¢å¼,http://gcw.bdcdn.shoujiduoduo.com/v/191227/6f833e835ada606ecdd30334168ce6a4.mp4
-å®¶ä¹¡äºŒäººå°ä¹Œå…°ç‰§éª‘åå°çš„å­©å­ä»¬,http://gcw.bdcdn.shoujiduoduo.com/v/191017/84e49ef1fa9e8de8ced51fde056223e1.mp4
-å›¢é•¿ï¼šä¾¯å¥‡å³°,http://gcw.bdcdn.shoujiduoduo.com/v/210303/9f9275b65ebccf90a2af213afd14ad3e.mp4
-é˜³é«˜äºŒäººå°å†œæ°‘è‰ºæœ¯å›¢æ’ç‚¼èŠ‚ç›®,http://gcw.bdcdn.shoujiduoduo.com/v/191108/8532cf712888e79cf19401ce0a8d7f21.mp4
-å®¶ä¹¡äºŒäººå°å¼ é£ç‰§ç‰›,http://gcw.bdcdn.shoujiduoduo.com/v/200118/99156c2e46f88ed1ce3d2d915aa1ecd8.mp4
-äºŒäººå°å°æ”¾ç‰›,http://gcw.bdcdn.shoujiduoduo.com/v/191212/c1ce88590d948dde187d414b0ed326ed.mp4
-å››çœåŒºäºŒäººå°å¤§èµ›é€‰æ‹”èµ›,http://gcw.bdcdn.shoujiduoduo.com/v/201115/ce56c6788d775f623679ea5ada68a9a8.mp4
-å®¶ä¹¡äºŒäººå°å‘æ²™åƒé‡Œä¸€å£¶é…’,http://gcw.bdcdn.shoujiduoduo.com/v/200210/34cf1867a38b339d9e9e47ae274f89eb.mp4
-å¥½çœ‹çš„äºŒäººå°,http://gcw.bdcdn.shoujiduoduo.com/v/190826/8b998a18db42b0f852e6f4b045bff7c0.mp4
-äºŒäººå°è³ç²‰å¢™,http://gcw.bdcdn.shoujiduoduo.com/v/191230/4f213a68f7844ffc506e69bd3309dd3f.mp4
-åˆ˜çˆ±çˆ±,http://gcw.bdcdn.shoujiduoduo.com/v/190604/10003232.mp4
-å®¶ä¹¡äºŒäººå°ç‰Œå­æ›²æšéŸµèµµå®˜å†›,http://gcw.bdcdn.shoujiduoduo.com/v/191018/46fd3b500cf959d3d0f7dbdc13a3eb32.mp4
-äº‘é£ç°åœºä¸€é¦–ã€Šäº²äº²çš„äºŒäººå°ã€‹å¸…åˆ°å…¨åœºå°–å«!,http://gcw.bdcdn.shoujiduoduo.com/v/200122/2956c3d631e201b6427a847dc05c492f.mp4
-å¥½çœ‹çš„äºŒäººå°,http://gcw.bdcdn.shoujiduoduo.com/v/190624/af0375b07c4a9337d8aa387ba0d3ae0a.mp4
-å¿»åä¾¯å¥‡å³°æ¼”è‰ºä¼ åª’äºŒäººå°ã€Šèµ°è¥¿å£ã€‹æ¨ç¾è~åˆ˜æ–‡è¿›,http://gcw.bdcdn.shoujiduoduo.com/v/191211/01b716a5bf14e2f8e7b7ba9048098d8d.mp4
-å¥½çœ‹çš„äºŒäººå°,http://gcw.bdcdn.shoujiduoduo.com/v/190802/0fa24b311630c9199c05493e4217f5b5.mp4
-å†…è’™å¤äºŒäººå°å±±æ›²/éç‰©è´¨æ–‡åŒ–é—äº§è°¢è°¢æ¬£èµ,http://gcw.bdcdn.shoujiduoduo.com/v/190626/cca8025a39b8f70e3c8e8295648290eb.mp4
-ä¸œè¯äºŒäººå°è¡¨æ¼”é›†é”¦ï¼ˆä¸‰ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/200806/759ddfa3b46b5ce401494edecbc76199.mp4
-éƒ­ç¾æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190910/2b805026ff8f7f96dc940f8db0e8f2c4.mp4
-å®¶ä¹¡äºŒäººå°èˆªæ‹æ¢åæ‘åˆ°æ–°å»º,http://gcw.bdcdn.shoujiduoduo.com/v/200305/df258b24f46119168d251a8558ffe174.mp4
-è¡¨æ¼”è€…:è“‰å„¿ã€è€äº”,http://gcw.bdcdn.shoujiduoduo.com/v/200310/e029d78bbc1c75d4a4b960264cd4573d.mp4
-äºŒäººå°ç‰§ç‰›,http://gcw.bdcdn.shoujiduoduo.com/v/190614/763e8d407d67f4ca7604f5c25a9e65c9.mp4
-éƒ­ç¾æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190911/e7d4f2a51866296ff1019d257714dae6.mp4
-éƒ­ç¾æ¸…,http://gcw.bdcdn.shoujiduoduo.com/v/190925/e322bf0d47edf28aea15e81dd253e75d.mp4
-è¡¨æ¼”è€…ï¼šè–›æ¡‚å…°ã€èµµä¸½è£,http://gcw.bdcdn.shoujiduoduo.com/v/191213/e8c0e8f4455b966788611bbebddae2de.mp4
-éƒåˆš,http://gcw.bdcdn.shoujiduoduo.com/v/190818/e3a8feab9a9cb53c1c9494a561d9f594.mp4
-äºŒåç”Ÿå››é—ºå¥³å›é—¨é…’æ›²ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191014/075301e33581c5fe3fabc523f72d6b44.mp4
-æ¨ä¸½å¨Ÿ,http://gcw.bdcdn.shoujiduoduo.com/v/191125/6de4baeb1bea3284a9a2b1450a51d195.mp4
-å¼ è…Šæ¢…äºŒäººå°ï¼ˆåé‡Œå¢©ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/191125/40a081f015c7663cd85d9787a190a193.mp4
-äºŒäººå°æŒ‚çº¢ç¯,http://gcw.bdcdn.shoujiduoduo.com/v/190826/3454be42f0349aace8cdd29daacc1bda.mp4
-å±±è¥¿çœäºŒäººå°æ°‘é—´æ­Œå‰§å›¢æ¼”å‡ºéƒå‹‡å‹‡,http://gcw.bdcdn.shoujiduoduo.com/v/200922/c27867e8b13cb16ffb1759bd8c8be4fa.mp4
-äºŒäººå°ã€Šè¿˜é’±ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191022/80eb002ba1dbd7109c46437ab36181d5.mp4
-äºŒäººå°ã€ä¿å¤•é˜³ã€‘å¼ è™&å¼ ç²ç²,http://gcw.bdcdn.shoujiduoduo.com/v/200306/5c8395849c9b50d00400b8f3fd0ea553.mp4
-äºŒäººå°ï¼šè€æ¥éš¾4,http://gcw.bdcdn.shoujiduoduo.com/v/190701/2c9eda1165c315c50d42b33384fa5f11.mp4
-å…¨åœºç¬‘è¶´,http://gcw.bdcdn.shoujiduoduo.com/v/200116/f82bef2debdefd9ac393145a42c8fcbd.mp4
-äºŒäººå°ï¼ˆåé‡Œå¢©ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/191223/347c7180ab84fa5e74ea1b15386f8bd9.mp4
-é«˜æå¶,http://gcw.bdcdn.shoujiduoduo.com/v/191102/d768fdc24ee883c82f400ef3f20bc75f.mp4
-å†…è’™äºŒäººå°ã€Šå§å¤«æˆå°å§¨ã€‹çœŸæ´‹ç›¸ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/191022/58be392d66570e45f9455587ad40dd33.mp4
-å¼ è…Šæ¢…äºŒäººå°ï¼ˆåé‡Œå¢©ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/191218/56dcbc5a96befb398d20bffa2eabf959.mp4
-å¼ ç²ç²çš„äºŒäººå°ã€Šå‹ç³•é¢ã€‹å¤ªå¤±ç¬‘äº†!,http://gcw.bdcdn.shoujiduoduo.com/v/191030/92fa260e33c344ee44a0fdb70c48cc57.mp4
-å¤æ²«,http://gcw.bdcdn.shoujiduoduo.com/v/190525/10003216.mp4
-äºŒäººå°â€”äºŒåç”Ÿæˆ³å¤è‘£,http://gcw.bdcdn.shoujiduoduo.com/v/190625/d2269f185b6ddc82b6b46f83b6a31c8c.mp4
-ç‹ä¸½éœ,http://gcw.bdcdn.shoujiduoduo.com/v/200318/edc0e9f7acfb636985e3ce68ad866684.mp4
-å®¶ä¹¡äºŒäººå°åè…”æ‰“æ¨±æ¡ƒæ‰“ç§‹åƒé€å››é—¨ç‹ç§€å…°å´æ ‘æ¢…,http://gcw.bdcdn.shoujiduoduo.com/v/191226/6630db0f484c736d538612154534d133.mp4
-é’±çˆ±,http://gcw.bdcdn.shoujiduoduo.com/v/200520/e9b34416c402302eaa6bb92234ce957a.mp4
-äºŒäººå°ä¸²å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190715/df2f1112480a8d41a43f4e31dd540144.mp4
-åœŸé»˜ç‰¹å³æ——2019æ˜¥æ™šäºŒäººå°ç°ä»£å°æˆã€Šå›å®¶ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191112/35115ab8c9ff95b83d9af00cd5833f11.mp4
-ç²ç‘,http://gcw.bdcdn.shoujiduoduo.com/v/191219/867a93ebee46c50a8988f646cce24ba9.mp4
-äºŒäººå°ä¸²çƒ§,http://gcw.bdcdn.shoujiduoduo.com/v/190602/10001205.mp4
-äºŒäººå°æ‘˜èŠ±æ¤’,http://gcw.bdcdn.shoujiduoduo.com/v/190816/ddbb538bc0c2f3949af1d0b2b141052e.mp4
-æ‰“èµç«¹æ¿æ¿èµ°ä¸Šå°,http://gcw.bdcdn.shoujiduoduo.com/v/191117/bc49278be38161f4a610ee73d3df621f.mp4
-äºŒäººå°ã€ŠäºŒåç”Ÿå¦ˆå€Ÿé’±ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191014/7510d1abba3cc39d8305b930ef1d77b9.mp4
-äºŒäººå°ã€Šæ€•è€å©†ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190515/806824bfd2ea67053123dee840fb3268.mp4
-å•†éƒ½å¿å…´è‰ºä¸œè¯äºŒäººå°,http://gcw.bdcdn.shoujiduoduo.com/v/190625/c39a32c7691706739a95303106c72fa8.mp4
-äºŒåç”Ÿå‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191121/8e1a11a2a28ce80def14e7b380866f57.mp4
-äºŒäººå°ã€Šè¿›æ­Œå…ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190812/7f6ae136809d9913fd06230e91212ff5.mp4
-äºŒäººå°â˜…åƒé†‹â˜…åˆå”±â˜…éœ¸æ°”â˜…æµæ³¢_01,http://gcw.bdcdn.shoujiduoduo.com/v/190622/5bc04182dc561506d8b27c58bd0a95a5.mp4
-æç¬‘äºŒäººå°ã€Šå§å¤«æˆå°å§¨ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190521/10001185.mp4
-æ‰“æ¨±æ¡ƒ,http://gcw.bdcdn.shoujiduoduo.com/v/190826/426d9af5e61b5e01aed4b7d7d4e5c35a.mp4
-äºŒäººå°ï¼šäºŒåç”Ÿå…­å…°å…°æ‰“ä¼™è®¡.ä¸Šé›†,http://gcw.bdcdn.shoujiduoduo.com/v/190528/10003237.mp4
-äºŒäººå°é€‰æ®µ,http://gcw.bdcdn.shoujiduoduo.com/v/190529/10001193.mp4
-ç¬¬äºŒå±ŠäºŒäººå°åè…”éŸ³ä¹ä¼šï¼ˆä¸‰ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/191230/8c863415d05e2757e5f5c701c274116b.mp4
-å†…è’™å¤äºŒäººå°å±±æ›²ï¼šã€Šå¥½æ—¥å­ã€‹ã€Šæƒ³äº²äº²å…¨åœ¨æœˆå„¿æ­£ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190826/6e195aba9a93b3f5591ae3b35018648e.mp4
-Q714238137ã€Šå…‰æ£å“­å¦»ã€‹,http://gcw.bdcdn.shoujiduoduo.com/201805/1812-365.mp4
-æç¦æ‹æ­Œ,http://gcw.bdcdn.shoujiduoduo.com/v/190605/10003222.mp4
-ç¬¬äºŒå±ŠäºŒäººå°åè…”éŸ³ä¹ä¼šï¼ˆä¸€ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/190528/10003247.mp4
-å†…è’™å¤äºŒäººå°ã€Šæ–°ç¼–æ‰“ä¼™è®¡ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200302/c7b6232b48152d2c3bbd7f85cd1c4154.mp4
-äºŒäººå°ã€ŠæŒ‚çº¢ç¯ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190330/7deeb59aa86f9e19b3924dd35b383d90.mp4
-å†…è’™äºŒäººå°ä¹‹å±±æ›²,http://gcw.bdcdn.shoujiduoduo.com/v/190524/0a0ec48a5792f8058b9ed63d26f9b3b0.mp4
-ä¸´å¿äºŒäººå°ã€Šç²¾ä¸å¦‚å‚»ã€‹1,http://gcw.bdcdn.shoujiduoduo.com/v/210310/d12aaf84442eae8b1e55dd874594b86f.mp4
-å®¶ä¹¡äºŒäººå°ä¸å…‰é‡Œçš„å¦ˆå¦ˆæµéœ520,http://gcw.bdcdn.shoujiduoduo.com/v/200116/4dcc4fc62f95102b72ede775cfa63fce.mp4
-æ™‹å‰§å¤§å…¨,http://gcw.bdcdn.shoujiduoduo.com/v/190716/9f9632997c1ec3491b5b83b803256242.mp4
-å•†æ°¸å‰,http://gcw.bdcdn.shoujiduoduo.com/v/190311/7273ee44ef1416783240bbb95b6e5f7b.mp4
-ç™¾å¬ä¸åŒï¼,http://gcw.bdcdn.shoujiduoduo.com/v/190905/0ffb3123a3fe425d67064fab29954718.mp4
-å†€è,http://gcw.bdcdn.shoujiduoduo.com/v/190904/84a445bcf317af09f66bf582065f2708.mp4
-æœ±å»ºå†›,http://gcw.bdcdn.shoujiduoduo.com/v/190919/da08a93b8ec15e3054aab32464f849ee.mp4
-åå®¶ç‹çˆ±çˆ±,http://gcw.bdcdn.shoujiduoduo.com/v/191225/8254f30470e315c1fee78fb1493424ec.mp4
-å±±è¥¿çœæ™‹å‰§é™¢ä¸€å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190531/3e0024131e184b61868238415002898d.mp4
-å±±è¥¿çœæ™‹å‰§é™¢é’å¹´å›¢ã€Šå¤§æ¸…å”±ã€‹ä¸­é›†,http://gcw.bdcdn.shoujiduoduo.com/v/190522/10003160.mp4
-å±±è¥¿æ™‹å‰§å…¨æœ¬æˆå¤§å…¨,http://gcw.bdcdn.shoujiduoduo.com/v/190617/d81b7b3adaf01691f82d395275e2ae69.mp4
-é™ˆäº‘é¾™.flv,http://gcw.bdcdn.shoujiduoduo.com/v/190817/5c39eb0931ccee10c5f031c4a6395263.mp4
-åˆ˜æ±‰é“¶ã€Šæ¨å…«å§æ¸¸æ˜¥ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190613/72d9f736805ff9ac6877786855acbe3d.mp4
-å±±è¥¿çœå°ç¨‹ç‰è‹±å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/201104/7f6a182e42bd064ee4427623e68fb02e.mp4
-ç§¦è…”æŠ˜å­æˆã€Šä¸‰å¯¹é¢ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190508/79b13eb345c48bf9a90730a100e7fc5b.mp4
-ç§¦è…”ã€Šä¸‰å ‚ä¼šå®¡ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/201212/79ff4a7a6bc351ad8df8efff13d6be34.mp4
-ä¹”æ…æ…¨å¾æ¾æ—é©¬äºšå¨Ÿ,http://gcw.bdcdn.shoujiduoduo.com/v/201022/5f685d591e2b64965945a462f8d989d8.mp4
-ç§¦è…”å…¨æœ¬ã€Šç§¦é¦™è²åä¼ ã€‹å…´å¹³å¸‚ç§¦å£°å‰§å›¢æ¼”å‡º,http://gcw.bdcdn.shoujiduoduo.com/v/200908/a445670e744c100bd4cc9ed0d5a7a9d5.mp4
-éŸ©åˆ©éœ,http://gcw.bdcdn.shoujiduoduo.com/v/191004/1e032d5b6c57bdf8038024859abbf62e.mp4
-å…´å¹³å‰§å›¢æ¼”å‡º.mp4,http://gcw.bdcdn.shoujiduoduo.com/v/200827/f268746df2bf82bcc6cf6c2c4fc160b5.mp4
-ç§¦è…”é«˜æ¸…æœ¬æˆã€Šæ¸¸é¾Ÿå±±ã€‹æ˜“ä¿—ç¤¾ç‹å®ä¹‰.æœ±æµå¨¥.å¼ è…Šæ¢….æä¸œå³°ç­‰ï¼ˆæ—æ¹–æ¸…æºCLå‹æƒ…å½•åˆ¶ï¼‰2017.08.18,http://gcw.bdcdn.shoujiduoduo.com/v/200619/dfe67dba5f8911964ab121779871c3ee.mp4
-ç§¦è…”æœ¬æˆã€Šè´è¶æ¯ã€‹åå…¨æœ¬ï¼ˆè¥¿å®‰æ˜“ä¿—ç¤¾æ¼”å‡ºï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/200731/fb7631f7209ac50e9eea8fa92f8b29fa.mp4
-ç§¦è…”ç»å…¸å…¨æœ¬ã€Šçœ‹å¥³ã€‹é€‰æ®µ,http://gcw.bdcdn.shoujiduoduo.com/v/190910/bd9fc6c1d4cb83e4940914fa850a1624.mp4
-é™•è¥¿æˆæ›²ç ”ç©¶é™¢æ³°å®‰æ¼”å‡º,http://gcw.bdcdn.shoujiduoduo.com/v/210210/e0a0abb01a6d398bcfb8c235e0df128a.mp4
-ç§¦è…”å…¨æœ¬å°ç¥æˆã€Šé»„æ²³é˜µã€‹ï¼ˆé«˜æ¸…ç‰ˆï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/200718/96156241f7b5f6bf56a3cdbbfde5aef0.mp4
-ç§¦è…”å¤§ç™»æ®¿,http://gcw.bdcdn.shoujiduoduo.com/v/190125/b9559ab8e1270c9734d6dc6a8fdb0a5c.mp4
-èƒŒèˆŒ,http://gcw.bdcdn.shoujiduoduo.com/v/201208/ff0d766225e6b49d2bd24ee8886ade39.mp4
-ä¾¯çº¢ç´ç­‰æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190627/f4fe75219f7462fd5a8e2fa03673c941.mp4
-ç§¦è…”æ˜“ä¿—ç¤¾ã€Šä¸‰ä¸Šè½¿ã€‹æœ±æµå¨¥.é©¬ä¸€æ’.ç±³è“‰.ç§¦å°ç‡•æ—æ¹–æ¸…æºCLå‹æƒ…ä¸Šä¼ ï¼‰2016.5.11,http://gcw.bdcdn.shoujiduoduo.com/v/200908/912b5c78edb4004719a47011cab98e8f.mp4
-ç§¦è…”ä¸‘è§’ã€Šçœ‹å¥³ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/200530/bd25dbb320835cf21fdce702ee878333.mp4
-ç§¦è…”å…¨æœ¬æˆæ›²å¤§å…¨ç§¦è…”ä¸‘è§’ã€Šé¡¶ç¯ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190527/7be93f9f91da17aa3458efa99f4cb5f7.mp4
-è–›å¹¿æ°‘,http://gcw.bdcdn.shoujiduoduo.com/v/200509/61d5e4819b403fda0456a4f73466aa0d.mp4
-ç§¦è…”ã€Šç§¦é¦™è²å‘ŠçŠ¶ã€‹åˆ˜çº¢æ¢…,http://gcw.bdcdn.shoujiduoduo.com/v/201020/11058b60218df2f79fabede7d279dca2.mp4
-ã€ç§¦è…”ã€‘2019çŒªå¹´æ˜¥èŠ‚æˆæ›²æ™šä¼šï¼ˆé™•è¥¿å¹¿æ’­ç”µè§†å°ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/190408/0f2907f1b9a5204abe7f483f375b164b.mp4
-ï¼ˆç§¦å®‰å¿ç§¦è…”å‰§ç¤¾2017å¹´3æœˆç§¦å®‰å¿è”¡å±±æ‘æ¼”å‡ºï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/200912/933c1dbd1af05e5a844db843da303a48.mp4
-ç§¦è…”ã€ŠäºŒè¿›å®«ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190605/9a4a9f8ea7fdebb896b9d2ae9eb42114.mp4
-ç§¦è…”ã€Šæ”¾é¥­ã€‹å¤©æ°´è¥¿ç§¦è…”ç ”ç©¶é™¢,http://gcw.bdcdn.shoujiduoduo.com/v/190213/af1af5231008fe001989a694411e539b.mp4
-ç§¦è…”é“¡ç¾æ¡ˆ,http://gcw.bdcdn.shoujiduoduo.com/v/190116/b7cbfe035276322f2a2aa7fc10cfe1f4.mp4
-è¥¿å®‰ä¸‰æ„ç¤¾,http://gcw.bdcdn.shoujiduoduo.com/v/200721/06893b82a4c987e78ece088ab254929f.mp4
-ç§¦è…”ã€Šä¸‰å ‚ä¼šå®¡ã€‹é€‰æ®µ,http://gcw.bdcdn.shoujiduoduo.com/v/200113/fa6893077e4e9f682d765cce358cfa0a.mp4
-ç§¦è…”ã€Šåˆ«çª‘ã€‹å…¨æŠ˜,http://gcw.bdcdn.shoujiduoduo.com/v/191208/f2edc3e9c5200b7a3361550d4be037b5.mp4
-ç§¦è…”ã€Šèµ¶å¡ã€‹ç‰‡æ®µ,http://gcw.bdcdn.shoujiduoduo.com/v/201029/eb7fbb8b56dade1730ec3a521a276b3c.mp4
-107ç§¦è…”å•†èŠ³ä¼šè¾•é—¨æ–©å­,http://gcw.bdcdn.shoujiduoduo.com/v/190127/9d0b617538e671622e3db152c892e838.mp4
-çºªå¿µé½æ™“æ˜¥å…ˆç”Ÿ,http://gcw.bdcdn.shoujiduoduo.com/v/210120/f4fb625fecd6e39818b90086e616ab19.mp4
-åå®¶è”è¢‚æ¼”å‡º,http://gcw.bdcdn.shoujiduoduo.com/v/210207/8d8d31cca2b5441954d9e52568d09a7b.mp4
-è¥¿å®‰äº”ä¸€å‰§å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/201014/d06fec900e95d24c9ff73f3bb51625c0.mp4
-è¥¿å®‰æ˜“ä¿—ç¤¾2018æ˜¥èŠ‚ç§¦å®‰æ¸…å”±æ™šä¼š,http://gcw.bdcdn.shoujiduoduo.com/v/190122/af3ec3b3a6cd383400360f8ee93b1e94.mp4
-æ¨çº¢æ¢…å—“éŸ³å¤ªæ£’äº†,http://gcw.bdcdn.shoujiduoduo.com/v/200320/4f229afb544e1b90383d1ee58069a816.mp4
-åºäºšè‰,http://gcw.bdcdn.shoujiduoduo.com/v/210211/005278db46b6f82dadd3fe7428220210.mp4
-é™•è¥¿ç§¦è…”â€”â€”ä¸‘è§’æˆï¼ˆçƒ˜çª‘ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/200722/c8d90e93efef0566c219d9fc1ef7b06c.mp4
-å¼ å®,http://gcw.bdcdn.shoujiduoduo.com/v/190514/10003147.mp4
-å”æ¢¨å›­ç§¦è…”å‰§é™¢,http://gcw.bdcdn.shoujiduoduo.com/v/190507/bc0fcf2785f707597273caf592c9a78f.mp4
-2019,http://gcw.bdcdn.shoujiduoduo.com/v/190218/545bafbcac234a60ada24d90d4823313.mp4
-ä¼æ•ä¸­_å…¨å§æ°‘_è¥¿å®‰æ˜“ä¿—ç¤¾,http://gcw.bdcdn.shoujiduoduo.com/v/200310/80ae6bdea59162136af8fb3eba350725.mp4
-å¼ æ­¦å®,http://gcw.bdcdn.shoujiduoduo.com/201805/1181-385.mp4
-æ€€æ—§ç”µå½±ã€Šä¸‰æ»´è¡€ã€‹,http://gcw.bdcdn.shoujiduoduo.com/201805/1772-690.mp4
-é™ˆç™¾ç”«æ¿èƒ¡,http://gcw.bdcdn.shoujiduoduo.com/v/200205/969e241fff8b79bd1386f6f2a417a698.mp4
-ç§¦è…”å…¨æœ¬ã€Šè¾•é—¨æ–©å­ã€‹åˆ˜éšç¤¾,http://gcw.bdcdn.shoujiduoduo.com/v/190809/b7ced382854ce37580e52fbe424fd081.mp4
-ç§¦è…”æŠ˜å­æˆã€ŠäºŒè¿›å®«ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190816/bc42f41cb749a3341bf1e7260a2413de.mp4
-æä¸œå³°,http://gcw.bdcdn.shoujiduoduo.com/v/200914/d2231ef87c6bd335ecf2e5172724e746.mp4
-é™•è¥¿çœæˆæ›²ç ”ç©¶é™¢æ¼”å‡º,http://gcw.bdcdn.shoujiduoduo.com/v/201030/536f534a25ebab5eb8d10ff75e31dc9c.mp4
-å¼ æ­¦å®è¥¿åŒ—åä¸‘,http://gcw.bdcdn.shoujiduoduo.com/v/190818/9f90b4718102660ee28c3a1801cdec65.mp4
-ç§¦è…”å…¨æœ¬ã€Šå››è¿›å£«ã€‹æ¸­å—å¸‚ç§¦è…”å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/190508/05ec40797c1591479c0cfe04e1eafa66.mp4
-ç§¦è…”å…¨æœ¬ã€Šå–å¦™éƒã€‹é“¶åå¸‚ç§¦è…”å‰§å›¢æ¼”å‡º,http://gcw.bdcdn.shoujiduoduo.com/v/190518/10003127.mp4
-ã€‹å…¨æœ¬ï¼ˆå®å¤ç§¦è…”å‰§é™¢ï¼‰,http://gcw.bdcdn.shoujiduoduo.com/v/190218/1f61dbee5ec4931e277ebd8fde51435b.mp4
-è¥¿å®‰ç§¦è…”ä¸€å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191208/d513328096fbe5995a2be8e17241f9cc.mp4
-å®‰å¾½çœå®‰åº†å¸‚é»„æ¢…æˆä¸‰å›¢,http://gcw.bdcdn.shoujiduoduo.com/v/191211/9ed54cfd1c55624e227f28ca40c6a4ab.mp4
-é»„æ¢…æˆå‰§å›¢é»„æ¢…æˆã€Šç§¦é¦™è²ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/201009/865515f2d68eb10e263cb8e66596e40a.mp4
-é»„æ¢…æˆã€Šåå…«æ‘¸ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/210120/965f4cee36d51eb13fe6121cd3aee2fb.mp4
-ä¸¥å‡¤è‹±éŸ©å†èŠ¬å‘¨æºæº,http://gcw.bdcdn.shoujiduoduo.com/v/190702/ed2662b8d3d3a875e01a53c669f4af50.mp4
-æ¼”å”±,http://gcw.bdcdn.shoujiduoduo.com/v/190221/6a38928efbe1f76f04f14a94197cc6d6.mp4
-é»„æ¢…æˆã€æ˜¥é¦™é—¹å­¦ã€‘,http://gcw.bdcdn.shoujiduoduo.com/v/201027/552dcdf37bdf2b4ff56d9e79bb58f527.mp4
-ç²¾å½©å¥½çœ‹ï¼,http://gcw.bdcdn.shoujiduoduo.com/v/200227/9d52e829ee706c3d5170d13bfac85b70.mp4
-
-
 
 ğŸ”¥å†å±Šæ˜¥æ™š,#genre#
 1983å¹´,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -5150,4 +5092,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-21 06:11:47
+更新时间：2024-05-21 10:08:35
