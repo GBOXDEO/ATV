@@ -1,4 +1,4 @@
 CCTV+5+_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8,0.001 MB/s
 CCTV05_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8,0.001 MB/s
-CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704,0.744 MB/s
-CCTV风云剧场_电信,http://223.10.4.171:8083/udp/239.1.1.93:8093,0.708 MB/s
+CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704,0.756 MB/s
+CCTV风云剧场_电信,http://223.10.4.171:8083/udp/239.1.1.93:8093,0.695 MB/s
