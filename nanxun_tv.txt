@@ -3744,7 +3744,6 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 1çº¿é‡æ¸©ç»å…¸,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 2çº¿é‡æ¸©ç»å…¸,http://36.108.172.237:10097/stream/channelid/1129822714
 3çº¿é‡æ¸©ç»å…¸,http://36.108.172.237:10005/stream/channelid/14506760
-æ˜Ÿå…‰è§†ç•Œ,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
@@ -3764,6 +3763,24 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQUkJ2ZnpwRmZiMzYrY01xU0V4ZkxnMm1jV3NScFNKQU5SUHRXaks5QXRQZU92aUkzdGdQNjFaQzFwWjRSa1RlbjBuWHB0SXVQUGQxQjR2UkJyd2pMTTQ9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº2
 
 ğŸ‡¨ğŸ‡³ç”µå½±é¢‘é“,#genre#
+çƒ­è¡€æŠ—æ—¥ç”µå½±,https://live.metshop.top/yy/1382749907
+ç»å…¸ç”µå½±,https://live.metshop.top/yy/1355142167
+ç»å…¸ç”µå½±å°ï¼Œhttp://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+ç»å…¸ç”µå½±ç”µè§†å‰§,https://live.metshop.top/yy/1354690927
+å‚¬æ³ªæˆ˜äº‰,https://live.metshop.top/yy/1382745124
+ç ´æ¡ˆæ¸¯å‰§,https://live.metshop.top/yy/1350670730
+ç ´æ¡ˆæ¸¯å‰§,https://live.metshop.top/yy/1350670730
+ç»å…¸åŠŸå¤«å°,http://cfss.cc/cdn/yy/1355002394.flv
+ç»å…¸å½±è§†å°,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+ç»å…¸ç”µå½±å°,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+ç»å…¸åŠŸå¤«,http://cfss.cc/cdn/yy/1355002394.flv
+ç»å…¸åŠŸå¤«,http://cfss.cc/cdn/yy/1355002394.flv
+ç»å…¸å½±è§†,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
+æŠ—æ—¥å‰§åœºhttp://live.dxms.top/yy0405.php?id=1382736877/
+ç»å…¸å°å‰§,http://cfss.cc/cdn/yy/1355260662.flv
+æ˜Ÿå…‰å‰§åœº,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+ç»å…¸å½±è§†å°,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+
 ğŸ”¥æ½œè¡Œ,https://yzzy1.play-cdn20.com/20240314/19480_87c97112/index.m3u8
 èœ˜è››å¤«äººï¼šè¶…æ„Ÿè§‰é†’,https://yzzy.play-cdn21.com/20240315/9646_b4328d07/index.m3u8
 æœ«æ—¥æˆ˜å£«,https://v.cdnlz12.com/20240313/12834_ce325fe0/index.m3u8
@@ -4574,12 +4591,11 @@ MoMoç»¼åˆ,rtmp://twcdn.top/sat/tv761
 çº¬æ¥æ—¥æœ¬,rtmp://f13h.mine.nu/sat/tv771
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-
+TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
-
+Nippon,https://ntv4.mov3.co/hls/ntv.m3u8
 //GDçº¿è·¯
 
 NHKE,http://103.36.32.14:5002/gd02.m3u8?token=guoziyun&gid=gd01&channel=zhongying
@@ -4860,4 +4876,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-22 02:23:28
+更新时间：2024-05-22 06:11:17
