@@ -1,24 +1,24 @@
-CCTV05_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-山西卫视_电信,http://59.47.118.242:801/hls/135/index.m3u8
-CCTV+5+_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-【  影视高清频道  】,#genre#
-【  卫视高清频道  】,#genre#
-【  广东频道  】,#genre#
-CCTV风云剧场_电信,http://223.10.4.171:8083/udp/239.1.1.93:8093
-浙江|新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-【 港澳台频道 】,#genre#
-浙江|新昌休闲影视_联通,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-【  影视频道  】,#genre#
-【  卫视频道  】,#genre#
-【  卡通频道  】,#genre#
-【  体育频道  】,#genre#
-【  卡通高清频道  】,#genre#
-新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-聚鲨环球精选_联通,http://221.205.134.28:8084/rtp/226.0.2.122:8888
 新昌休闲影视_联通,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-【  央视频道  】,#genre#
+聚鲨环球精选_联通,http://221.205.134.28:8084/rtp/226.0.2.122:8888
+山西卫视_电信,http://59.47.118.242:801/hls/135/index.m3u8
+浙江|新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704
-新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-浙江|新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-【  江苏频道  】,#genre#
+【  卫视高清频道  】,#genre#
 湖北卫视_电信,http://218.71.45.167:9999/rtp/233.50.201.114:5140
+浙江|新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+【  影视高清频道  】,#genre#
+【  央视频道  】,#genre#
+【  卫视频道  】,#genre#
+【  体育频道  】,#genre#
+CCTV05_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+【  卡通高清频道  】,#genre#
+【  江苏频道  】,#genre#
+【  卡通频道  】,#genre#
+CCTV风云剧场_电信,http://223.10.4.171:8083/udp/239.1.1.93:8093
+浙江|新昌休闲影视_联通,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+CCTV+5+_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+【 港澳台频道 】,#genre#
+新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+【  广东频道  】,#genre#
+【  影视频道  】,#genre#
+新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
