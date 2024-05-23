@@ -40,4 +40,4 @@ CCTV16_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/inde
 CCTV16_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$å¯å›çœ‹,0.001 MB/s
 CCTV17_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$å¯å›çœ‹,0.001 MB/s
 CCTV17_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$å¯å›çœ‹,0.001 MB/s
-CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704,0.710 MB/s
+CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704,0.810 MB/s
