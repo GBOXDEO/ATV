@@ -3757,9 +3757,6 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 æ²³å—æ¢¨å›­,https://tv.cry33.com/hn.php?id=hnly
 ç§»åŠ¨æˆæ›²,https://tv.cry33.com/hn.php?id=ydxj
-ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
-ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQWktEL2lGQjZzMFNxbHdTS2FRQzJLLzBqU1FXTEh3YkJxSW1TRHVrQ0RDT1FGd2s5aUV0NWtBeXIwV1VDSGZNWktjS2U1MEpobEt5SHdRMDAwVnpNZDJsalNPT2xlOXNwZz09/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº1
-ä¸œåŒ—æˆæ›²,http://iptv_play.yjxfz.com/ShenQiHelper/tv/play/3/TzRWblNqblNFVlpyNFVOOVVtaTNQUkJ2ZnpwRmZiMzYrY01xU0V4ZkxnMm1jV3NScFNKQU5SUHRXaks5QXRQZU92aUkzdGdQNjFaQzFwWjRSa1RlbjBuWHB0SXVQUGQxQjR2UkJyd2pMTTQ9/+d3Xw95ENdIUPRHcoYuQ6Q==/txt/2$IPV4_æº2
 
 ğŸ‡¨ğŸ‡³ç”µå½±é¢‘é“,#genre#
 çƒ­è¡€æŠ—æ—¥ç”µå½±,https://live.metshop.top/yy/1382749907
@@ -4936,4 +4933,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-24 02:23:31
+更新时间：2024-05-24 06:10:52
