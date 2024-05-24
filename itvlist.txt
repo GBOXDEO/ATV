@@ -41,7 +41,6 @@ CCTV16_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/inde
 CCTV16_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$å¯å›çœ‹
 CCTV17_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$å¯å›çœ‹
 CCTV17_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$å¯å›çœ‹
-CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704
 
 【  卫视频道  】,#genre#
 山西卫视_电信,http://59.47.118.242:801/hls/135/index.m3u8
@@ -52,7 +51,6 @@ CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704
 【  卡通高清频道  】,#genre#
 
 【  影视频道  】,#genre#
-CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704
 新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌休闲影视_联通,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
@@ -64,7 +62,6 @@ CCTV怀旧剧场_联通,http://221.205.134.28:8083/rtp/226.0.2.224:9704
 【 港澳台频道 】,#genre#
 
 【  江苏频道  】,#genre#
-聚鲨环球精选_联通,http://221.205.134.28:8084/rtp/226.0.2.122:8888
 【  广东频道  】,#genre#
 【  体育频道  】,#genre#
 
