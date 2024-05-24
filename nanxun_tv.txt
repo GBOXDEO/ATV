@@ -3741,9 +3741,8 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
 ğŸ¼ä¸´æ—¶é¢‘é“,#genre#
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
-1çº¿é‡æ¸©ç»å…¸,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-2çº¿é‡æ¸©ç»å…¸,http://36.108.172.237:10097/stream/channelid/1129822714
-3çº¿é‡æ¸©ç»å…¸,http://36.108.172.237:10005/stream/channelid/14506760
+é‡æ¸©ç»å…¸,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+é‡æ¸©ç»å…¸,http://36.108.172.237:10005/stream/channelid/14506760
 CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
@@ -4510,7 +4509,9 @@ JJæ–—åœ°ä¸»,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2
 å£¹ç”µè§†æ–°é—»,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae$P2P
 å¹´ä»£æ–°é—»,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7$P2P
 ä¸œæ£®æ–°é—»,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$P2P
+ä¸­å¤©æ–°é—»,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a$P2P
 ä¸­å¤©æ–°é—»,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e$P2P
+ä¸­å¤©æ–°é—»,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 æ°‘è§†æ–°é—»,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf$P2P
 ä¸‰ç«‹æ–°é—»,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e$P2P
 TVBSæ–°é—»,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60$P2P
@@ -4518,12 +4519,10 @@ TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476$P2P
 ä¸œæ£®è´¢ç»æ–°é—»,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5$P2P
 éå‡¡æ–°é—»,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb$P2P
 å¹´ä»£æ–°é—»,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c$P2P
-ä¸­å¤©æ–°é—»,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a$P2P
 ä¸­è§†æ–°é—»,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4$P2P
 å¯°å®‡æ–°é—»,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6$P2P
 åè§†æ–°é—»,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299$P2P
 ä¸‰ç«‹iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
-ä¸­å¤©æ–°é—»,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 
 æ°‘è§†æ–°é—»,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
@@ -4937,4 +4936,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-23 22:07:36
+更新时间：2024-05-24 02:23:31
