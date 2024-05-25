@@ -3751,12 +3751,13 @@ CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 å‡¤å‡°èµ„è®¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 å‡¤å‡°é¦™æ¸¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
-
 ğŸ¼æˆæ›²é¢‘é“,#genre#
 
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 æ²³å—æ¢¨å›­,https://tv.cry33.com/hn.php?id=hnly
 ç§»åŠ¨æˆæ›²,https://tv.cry33.com/hn.php?id=ydxj
+ä¸œåŒ—æˆæ›²,http://rqd.mytvh.top:10063/stream/channelid/2064447336?ticket=904cd7963ebdbda1cb6af3ff918bbc760b7d89a1&profile=pass
+å‰æ—ä¹¡æ‘,http://rqd.mytvh.top:10063/stream/channelid/1759262091?ticket=6f6a9ff3d9e581697abd53a4fd7209f9c89af0a9&profile=pass
 
 ğŸ‡¨ğŸ‡³ç”µå½±é¢‘é“,#genre#
 çƒ­è¡€æŠ—æ—¥ç”µå½±,https://live.metshop.top/yy/1382749907
@@ -4948,4 +4949,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-24 22:08:49
+更新时间：2024-05-25 02:21:39
