@@ -3739,8 +3739,62 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
-ğŸ¼ä¸´æ—¶é¢‘é“,#genre#
-ä¸­å¤©æ–°é—»,http://livetv.skycf.eu.org/live.m3u8?c=7
+
+ğŸ“¡ä¸´æ—¶é¢‘é“,#genre#
+å‡¤å‡°ä¸­æ–‡,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+å‡¤å‡°èµ„è®¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+å‡¤å‡°é¦™æ¸¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+å‡¤å‡°èµ„è®¯,http://61.221.215.25:8800/hls/47/index.m3u8
+TVBSæ–°é—»,http://61.221.215.25:8800/hls/9/index.m3u8
+å…«å¤§æˆå‰§,http://61.221.215.25:8800/hls/39/index.m3u8
+ä¸‰ç«‹æˆå‰§,http://61.221.215.25:8800/hls/41/index.m3u8
+å…«å¤§ç¬¬ä¸€,http://61.221.215.25:8800/hls/55/index.m3u8
+å…«å¤§æˆå‰§,http://61.221.215.25:8800/hls/39/index.m3u8
+AMCç”µå½±,http://61.221.215.25:8800/hls/43/index.m3u8
+çº¬æ¥ç²¾å½©,http://61.221.215.25:8800/hls/48/index.m3u8
+æ¢ç´¢äºšæ´²,http://61.221.215.25:8800/hls/50/index.m3u8
+å…«å¤§ç¬¬ä¸€,http://61.221.215.25:8800/hls/55/index.m3u8
+åŠ¨ç‰©æ˜Ÿçƒ,http://61.221.215.25:8800/hls/57/index.m3u8
+å…«å¤§ç»¼åˆ,http://61.221.215.25:8800/hls/56/index.m3u8
+ä¸­å¤©äºšæ´²å°,http://livetv.skycf.eu.org/live.m3u8?c=3
+å°è§†æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=4
+ä¸­è§†æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=6
+ä¸­å¤©æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=7
+å…¬è§†æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=8
+ä¸‰ç«‹æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=12
+åè§†æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=13
+ä¸œæ£®ç»è´¢å°,http://livetv.skycf.eu.org/live.m3u8?c=14
+Tvbsæ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=5
+å…«å¤§ç¬¬ä¸€,http://61.221.215.25:8800/hls/55/index.m3u8
+
+ä¸­å¤©æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=7
+ä¸­è§†æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=6
+é•œæ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=10
+ä¸‰ç«‹æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=12
+åè§†æ–°é—»å°,http://livetv.skycf.eu.org/live.m3u8?c=13
+å¯°å®‡æ–°é—»,http://csscc.onflashdrive.app:2095/live.m3u8?c=4
+ä¸œæ£®æ–°é—»,http://csscc.onflashdrive.app:2095/live.m3u8?c=6
+ä¸­å¤©æ–°é—»,http://csscc.onflashdrive.app:2095/live.m3u8?c=7
+ä¸‰ç«‹æ–°é—»,http://107.174.133.144:2095/live.m3u8?c=3
+æ°‘è§†æ–°é—»,http://107.174.133.144:2095/live.m3u8?c=8
+
+å°è§†é¢‘é“,rtmp://220.130.201.73/sat/tv071
+æ°‘è§†é¢‘é“,rtmp://220.130.201.73/sat/tv051
+çº¬æ¥ä½“è‚²,rtmp://220.130.201.73/sat/tv721
+çº¬æ¥æ—¥æœ¬,rtmp://220.130.201.73/sat/tv771
+ä¸œæ£®è¶…è§†,rtmp://220.130.201.73/sat/tv331
+
+æ°‘è§†é¢‘é“,rtmp://f13h.mine.nu/sat/tv051
+å°è§†é¢‘é“,rtmp://f13h.mine.nu/sat/tv071
+ä¸­è§†é¢‘é“,rtmp://f13h.mine.nu/sat/tv091
+çº¬æ¥ä½“è‚²,rtmp://f13h.mine.nu/sat/tv721
+çº¬æ¥è‚²ä¹,rtmp://f13h.mine.nu/sat/tv701
+çº¬æ¥æ—¥æœ¬,rtmp://f13h.mine.nu/sat/tv771
+ä¸œæ£®è¶…è§†,rtmp://f13h.mine.nu/sat/tv331
+MoMoç»¼åˆ,rtmp://f13h.mine.nu/sat/tv761
+ELEVENä½“è‚²1,rtmp://f13h.mine.nu/sat/tv731
+ELEVENä½“è‚²2,rtmp://f13h.mine.nu/sat/tv741
+
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
 é‡æ¸©ç»å…¸,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 é‡æ¸©ç»å…¸,http://36.108.172.237:10005/stream/channelid/14506760
@@ -3748,9 +3802,7 @@ CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 
-å‡¤å‡°ä¸­æ–‡,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-å‡¤å‡°èµ„è®¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-å‡¤å‡°é¦™æ¸¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 
 ğŸ¼æˆæ›²é¢‘é“,#genre#
 
@@ -5316,4 +5368,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-27 22:07:27
+更新时间：2024-05-28 02:24:51
