@@ -3739,6 +3739,7 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+
 ğŸ‡¨ğŸ‡³å¤®è§†é¢‘é“1,#genre#
 äººæ°‘é“é“,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 éƒ‘é“æœ‰çº¿,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
@@ -5270,6 +5271,9 @@ HRBæ–°é—»ç»¼åˆ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobi
 
 ğŸ‡­ğŸ‡°æ¸¯å°é¢‘é“,#genre#
 é˜¿æ¶›å½±è§†,https://8496.kstore.space/atao.mp4
+
+ä¸­å¤©æ–°é—»,http://194.87.101.118/live.m3u8?c=7
+æ°‘è§†æ–°é—»,http://194.87.101.118/live.m3u8?c=11
 å‡¤å‡°ä¸­æ–‡,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 å‡¤å‡°èµ„è®¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 å‡¤å‡°é¦™æ¸¯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -5324,36 +5328,8 @@ MoMoç»¼åˆ,rtmp://f13h.mine.nu/sat/tv761
 ELEVENä½“è‚²1,rtmp://f13h.mine.nu/sat/tv731
 ELEVENä½“è‚²2,rtmp://f13h.mine.nu/sat/tv741
 
-æ°‘è§†,rtmp://220.130.201.73/sat/tv051
-å°è§†,rtmp://220.130.201.73/sat/tv071
-ä¸­è§†,rtmp://220.130.201.73/sat/tv091
-åè§†,rtmp://220.130.201.73/sat/tv111
-ä¸œæ£®è¶…è§†,rtmp://220.130.201.73/sat/tv331
-éå‡¡æ–°é—»,rtmp://220.130.201.73/sat/tv581
-çº¬æ¥è‚²ä¹,rtmp://220.130.201.73/sat/tv701
-çº¬æ¥ä½“è‚²,rtmp://220.130.201.73/sat/tv721
-ELEVENä½“è‚²1,rtmp://220.130.201.73/sat/tv731
-ELEVENä½“è‚²2,rtmp://220.130.201.73/sat/tv741
-MOMOTV,rtmp://220.130.201.73/sat/tv761
-çº¬æ¥æ—¥æœ¬,rtmp://220.130.201.73/sat/tv771
-
-æ°‘è§†rtmp://twcdn.top/sat/tv051
-å°è§†,rtmp://twcdn.top/sat/tv071
-ä¸­è§†,rtmp://twcdn.top/sat/tv091
-åè§†,rtmp://twcdn.top/sat/tv111
-ä¸œæ£®è¶…è§†,rtmp://twcdn.top/sat/tv331
-TVBSæ¬¢ä¹,rtmp://twcdn.top/sat/tv421
-
-éå‡¡æ–°é—»,rtmp://twcdn.top/sat/tv581
-çº¬æ¥è‚²ä¹,rtmp://twcdn.top/sat/tv701
-çº¬æ¥ä½“è‚²,rtmp://twcdn.top/sat/tv721
-ELEVENä½“è‚²1,rtmp://twcdn.top/sat/tv731
-ELEVENä½“è‚²2,rtmp://twcdn.top/sat/tv741
-MoMoç»¼åˆ,rtmp://twcdn.top/sat/tv761
-çº¬æ¥æ—¥æœ¬,rtmp://twcdn.top/sat/tv771
-
 çº¬æ¥æ—¥æœ¬,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
-é–å¤©æ—¥æœ¬å°,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
+é–å¤©æ—¥æœ¬,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
 å›½å…´å«è§†,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
 
 
@@ -5434,6 +5410,9 @@ MoMoç»¼åˆ,rtmp://twcdn.top/sat/tv761
 çº¬æ¥æ—¥æœ¬,rtmp://f13h.mine.nu/sat/tv771
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NHKNEWS,https://nhkw-pre-hlscomp.nhkworld.jp/rjcorzf66ioxnrgd/playlist.m3u8
+NHKNEWS,https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
+NHKWORLD,https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index.m3u8
 NHKP,https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 TBSNEWS,http://142.171.31.242:5002/cs11.m3u8?token=guoziyun&gid=11&channel=zhongying
@@ -5734,4 +5713,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-05-30 18:12:12
+更新时间：2024-05-31 02:25:27
