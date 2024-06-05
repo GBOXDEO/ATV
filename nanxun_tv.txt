@@ -5278,6 +5278,11 @@ HRBæ–°é—»ç»¼åˆ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobi
 å‡¤å‡°èµ„è®¯,http://61.221.215.25:8800/hls/47/index.m3u8
 å¯°å®‡æ–°é—»,http://gigs1.micar.me:8900/live.m3u8?c=6
 ä¸­å¤©æ–°é—»,http://gigs1.micar.me:8900/live.m3u8?c=7
+åæ–‡ä¸€å¥—,http://vvlive.eztv.vip/hwstnew/hwstnew.m3u8?auth_key=1710810797-0-0-e8083062bda511b313d1bad1b2703416
+åæ–‡äºŒå¥—,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
+åæ–‡å…­å¥—,http://vvlive.eztv.vip/ctvsnew/ctvsnew.m3u8?auth_key=1710810919-0-0-50aa348ab0ba1386377aafc10877062f
+äºšæ´²å«è§†,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+
 TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8
 ä¸‰ç«‹æ–°é—»,http://gigs1.micar.me:8900/live.m3u8?c=9
 å°è§†æ–°é—»,http://gigs1.micar.me:8900/live.m3u8?c=10
@@ -5746,4 +5751,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-04 22:08:04
+更新时间：2024-06-05 02:25:44
