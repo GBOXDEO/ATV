@@ -4325,7 +4325,8 @@ CGTNé˜¿æ‹‰ä¼¯è¯­,http://[2409:8087:4c0a:22:1::11]:6410/17000000111
 CHCé«˜æ¸…ç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHCåŠ¨ä½œç”µå½±,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHCå®¶åº­å½±é™¢,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-
+ç»å…¸å½±è§†å°,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
+ç»å…¸ç”µå½±å°,http://ali.hlspull.yximgs.com/live/asdfg32522.flv
 é‚µæ°å½±é™¢@ä»£,http://159.75.85.63:35455/douyu/4246519
 é‚µæ°å½±é™¢@ä»£,https://www.goodiptv.club/douyu/4246519
 é‚µæ°å½±é™¢@ä»£,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
@@ -5457,9 +5458,6 @@ NHKWORLD,https://bmcc.nhkworld.jp/live/index_1M.m3u8
 NHKP,https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 TBS,https://tbs4.mov3.co/hls/tbs.m3u8
 TBSNEWS,http://142.171.31.242:5002/cs11.m3u8?token=guoziyun&gid=11&channel=zhongying
-ATX,https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
-ATXneetball,https://neetball.net/live/neet3.m3u8
-MTV,https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
 NHKG,http://103.36.32.14:5002/gx06.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 NHKG,http://103.36.32.14:5002/gd01.m3u8?token=guoziyun&gid=gd01&channel=zhongying
 NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
@@ -5477,6 +5475,7 @@ TBSNEWS,http://142.171.31.242:5002/cs11.m3u8?token=guoziyun&gid=11&channel=zhong
 21,http://142.171.31.242:5002/cs22.m3u8?token=guoziyun&gid=22&channel=zhongying
 23,http://142.171.31.242:5002/cs23.m3u8?token=guoziyun&gid=23&channel=zhongying
 24,http://142.171.31.242:5002/cs24.m3u8?token=guoziyun&gid=24&channel=zhongying
+
 //GDçº¿è·¯
 
 NHKE,http://103.36.32.14:5002/gd02.m3u8?token=guoziyun&gid=gd01&channel=zhongying
@@ -5757,4 +5756,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ã‚¹ã‚¿ãƒ¼ãƒãƒ£ãƒ³ãƒãƒ«3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-05 22:07:57
+更新时间：2024-06-06 02:25:27
