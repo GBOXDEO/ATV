@@ -62,12 +62,6 @@ CCTV17å†œä¸šå†œæ‘_移动,http://ottrrs.hl.chinamobile.com/PLTV/888
 【  卡通高清频道  】,#genre#
 
 【  影视频道  】,#genre#
-新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-新昌休闲影视_联通,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-浙江|新昌休闲影视_电信,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-浙江|新昌休闲影视_移动,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-浙江|新昌休闲影视_联通,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 【  影视高清频道  】,#genre#
 
 【 港澳台频道 】,#genre#
