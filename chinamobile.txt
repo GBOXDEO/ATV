@@ -161,8 +161,6 @@ SiTVæ¬¢ç¬‘å‰§åœº4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88
 è¾½å®å«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 è¾½å®å«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$å¯å›çœ‹
 è¾½å®å«è§†_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8$å¯å›çœ‹
-é»‘è“åŠ¨ç”»@ä»£_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
-é»‘è“ç”µå½±@ä»£_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
 é»‘é¾™æ±Ÿå«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 é»‘é¾™æ±Ÿå«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$å¯å›çœ‹
 é»‘é¾™æ±Ÿå«è§†_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8$å¯å›çœ‹
@@ -175,4 +173,4 @@ SiTVæ¬¢ç¬‘å‰§åœº4K_移动,http://dbiptv.sn.chinamobile.com/PLTV/88
 é‡åº†å«è§†_移动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8$å¯å›çœ‹
 é™•è¥¿å«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 é™•è¥¿å«è§†_移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$å¯å›çœ‹
-更新时间：2024-06-18 06:11:59
+更新时间：2024-06-18 10:08:51
