@@ -3820,7 +3820,7 @@ IHOTåŠ¨æ¼«,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 æ²³å—æ¢¨å›­,https://tv.cry33.com/hn.php?id=hnly
 ç§»åŠ¨æˆæ›²,https://tv.cry33.com/hn.php?id=ydxj
-
+ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
 ğŸ¬ç”µå½±é¢‘é“,#genre#
 é‡æ¸©ç»å…¸,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 é‡æ¸©ç»å…¸,http://36.108.172.237:10005/stream/channelid/14506760
@@ -6751,4 +6751,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 é¾™å®«é‡Œçš„å¥‡å¼‚åŠ¨ç‰©,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-17 22:08:14
+更新时间：2024-06-18 02:27:37
