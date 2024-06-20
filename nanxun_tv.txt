@@ -3739,6 +3739,27 @@ ohæˆ‘çš„é¬¼ç¥å¤§äººéŸ©å‰§,https://live.metshop.top/yy/
 éŸ©å›½å¤ªå¦42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 éŸ©å›½å¤ªå¦43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 //地址：https://raw.gitcode.com/lionzang/TV/raw/main/channel.txt
+ğŸ’ä¸´æ—¶é¢‘é“,#genre#
+ç¾å›½ä¸­æ–‡ç”µè§†,https://histar.zapi.us.kg/?id=sinovision
+NHKG,https://histar.zapi.us.kg/?id=nhk-g
+æœæ—¥ç”µè§†å°,https://histar.zapi.us.kg/?id=tv-asahi
+ä¸œäº¬ç”µè§†å°,https://histar.zapi.us.kg/?id=tv-tokyo
+é–å¤©æ—¥æœ¬å°,https://histar.zapi.us.kg/?id=jtrb
+æ°‘è§†æ–°é—»å°,https://histar.zapi.us.kg/?id=ftv-news
+æ—¥æœ¬ç”µè§†å°,https://histar.zapi.us.kg/?id=nippon-tv
+å¯Œå£«ç”µè§†å°,https://histar.zapi.us.kg/?id=fujitv
+NHKEducation,https://histar.zapi.us.kg/?id=nhk-e
+ä¸­å¤©æ–°é—»,https://histar.zapi.us.kg/?id=cti-news
+ä¸œæ£®æ–°é—»,https://histar.zapi.us.kg/?id=ebc-news
+å£¹æ–°é—»,https://histar.zapi.us.kg/?id=nexttv
+ä¸‰ç«‹æ–°é—»,https://histar.zapi.us.kg/?id=settv-news
+ä¸­è§†æ–°é—»,https://histar.zapi.us.kg/?id=ctv-news
+éå‡¡æ–°é—»,https://histar.zapi.us.kg/?id=unique-business-news
+ä¸‰ç«‹iNews,https://histar.zapi.us.kg/?id=settv-inews
+å°è§†æ–°é—»,https://histar.zapi.us.kg/?id=ttv-news
+åè§†æ–°é—»,https://histar.zapi.us.kg/?id=cts-news
+å¯°å®‡æ–°é—»å°,https://histar.zapi.us.kg/?id=global-news
+ä¸œæ£®è´¢ç»æ–°é—»,https://histar.zapi.us.kg/?id=ebc-finance
 âš½ï¸å°‘å„¿é¢‘é“,#genre#
 å¡é…å°‘å„¿,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUbM%2BtJ%2FIKUay0816q4f4FPN9pHjY5eGh1%2F3MQt0stvVIcNMY1ycEUDLSM33BfV5mc1yzDtp74FxRG%2BT%2ByX8dhHQ
 å¡é…å°‘å„¿,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000129/index.m3u8?IAS
@@ -5724,6 +5745,7 @@ TheWeatherChannel,P2p://generationnexxxt.com:19806/65792289000516983171ebcb68d70
 
 
 ğŸ‡¯ğŸ‡µæ—¥æœ¬æµç•…,#genre#
+
 ABC544p,http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
 BSTBS544p,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
 BSTVTokyo544p,http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
@@ -6584,4 +6606,4 @@ WOWOWãƒ©ã‚¤ãƒ–,https://stream01.willfonk.com/live_playlist.m3u8?cid=B
 é¾™å®«é‡Œçš„å¥‡å¼‚åŠ¨ç‰©,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-20 02:25:49
+更新时间：2024-06-20 06:11:58
