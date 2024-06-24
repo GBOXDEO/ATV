@@ -5916,6 +5916,8 @@ NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 ABC544p,http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
 BSTBS544p,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
 BSTVTokyo544p,http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
+Star1544p,http://211.37.26.102:9981/stream/channelid/1351353857?ticket=66475F0A108152BCA5800B5FC3FB62A68BCA13F2&profile=pass
+TabiChannel544p,http://211.37.26.102:9981/stream/channelid/941519802?ticket=EE27088DBB8E23BA9903F67D367C056EC9DEB9BA&profile=pass
 çº¬æ¥æ—¥æœ¬,rtmp://f13h.mine.nu/sat/tv771
 NHKNEWS,https://nhkw-pre-hlscomp.nhkworld.jp/rjcorzf66ioxnrgd/playlist.m3u8
 NHKNEWS,https://nhkw-pre-hlscomp.nhkworld.jp/tki0ytgfeznlb4rk/playlist.m3u8
@@ -6909,4 +6911,4 @@ Beyond_æµé˜”å¤©ç©º,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/
 é™ˆæ…§å¨´é€å»çš„è¯ºè¨€,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
 å”±ç€æƒ…æ­Œæµç€æ³ª.å­Ÿå°ç¬›ç¥éš†,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtYHG4gUo6KjuzwE.mp4
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-24 14:08:46
+更新时间：2024-06-24 18:11:18
