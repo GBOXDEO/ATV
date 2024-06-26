@@ -3819,6 +3819,8 @@ IHOTåŠ¨æ¼«,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000
 æ¢¨å›­é¢‘é“,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 æ²³å—æ¢¨å›­,https://tv.cry33.com/hn.php?id=hnly
 ç§»åŠ¨æˆæ›²,https://tv.cry33.com/hn.php?id=ydxj
+æˆæ›²,http://www.weec.top:2222/udp/239.3.1.78:4120
+æˆæ›²,http://117.176.241.206:4022/rtp/239.10.0.150:5140
 ä¸œåŒ—æˆæ›²,http://61.138.128.226:19901/tsfile/live/1007_1.m3u8?key=txiptv
 
 æ›²å‰§ã€Šæ¡‘æ—æ”¶å­ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
@@ -6404,4 +6406,4 @@ Beyond_æµé˜”å¤©ç©º,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/
 é™ˆæ…§å¨´é€å»çš„è¯ºè¨€,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
 å”±ç€æƒ…æ­Œæµç€æ³ª.å­Ÿå°ç¬›ç¥éš†,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtYHG4gUo6KjuzwE.mp4
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-25 22:08:00
+更新时间：2024-06-26 02:26:48
