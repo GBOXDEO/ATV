@@ -3836,7 +3836,6 @@ IHOTåŠ¨æ¼«,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000
 ç§»åŠ¨æˆæ›²,https://tv.cry33.com/hn.php?id=ydxj
 æˆæ›²,http://www.weec.top:2222/udp/239.3.1.78:4120
 æˆæ›²,http://117.176.241.206:4022/rtp/239.10.0.150:5140
-ä¸œåŒ—æˆæ›²,https://hls.avap.jilintv.cn/zqvk7vpj/channel/1ceb537a60664ac49649b639e823678c/1.m3u8
 
 æ›²å‰§ã€Šæ¡‘æ—æ”¶å­ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/190617/2282c7e70fc99fe1e7e065e32b1ab2b9.mp4
 æ›²å‰§ã€Šå››éƒæ¢æ¯ã€‹,http://gcw.bdcdn.shoujiduoduo.com/v/191208/1aef74e8889ab9199f60927ac66b0885.mp4
@@ -5384,6 +5383,9 @@ HRBæ–°é—»ç»¼åˆ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobi
 äº‘å—å¨±ä¹,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 äº‘å—å°‘å„¿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 äº‘å—å›½é™…,http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+
+
+
 //æˆ‘æ”¶é›†çš„æº
 
 
@@ -5435,6 +5437,40 @@ TVBS,http://gigs1.micar.me:8900/live.m3u8?c=8
 é¦™æ¸¯å«è§†,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 ç¯çƒç”µè§†,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 æ¾³äºšå«è§†,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+NOWæ˜Ÿå½±,http://121.40.63.193:81/nowæ˜Ÿå½±/é¦™è•‰å“¥ä¸“ç”¨.live.ts
+NOWçˆ†è°,http://121.40.63.193:81/nowçˆ†è°·/é¦™è•‰å“¥ä¸“ç”¨.live.ts
+TVBç¿¡ç¿ ,http://121.40.63.193:81/tvbç¿¡ç¿ /é¦™è•‰å“¥ä¸“ç”¨.live.ts
+å¹¿ç”µç¿¡ç¿ ,http://121.40.63.193:81/å¹¿ç”µç¿¡ç¿ /é¦™è•‰å“¥ä¸“ç”¨.live.flv
+ä¸­åMOD,http://121.40.63.193:81/ä¸­åMOD/é¦™è•‰å“¥ä¸“ç”¨.live.ts
+
+NOWæ˜Ÿå½±,http://111.160.76.101:80/é¦™è•‰å“¥/nowæ˜Ÿå½±.live.flv
+NOWçˆ†è°,http://111.160.76.101:80/é¦™è•‰å“¥/nowçˆ†è°·.live.flv
+TVBç¿¡ç¿ ,http://111.160.76.101:80/é¦™è•‰å“¥/tvbç¿¡ç¿ .live.flv
+
+NOWæ˜Ÿå½±,http://60.30.198.43:5080/é¦™è•‰å“¥/nowæ˜Ÿå½±/hls.m3u8
+NOWçˆ†è°,http://60.30.198.43:5080/é¦™è•‰å“¥/nowçˆ†è°·/hls.m3u8
+TVBç¿¡ç¿ ,http://60.30.198.43:5080/é¦™è•‰å“¥/tvbç¿¡ç¿ /hls.m3u8
+
+TVBPlus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
+TVBPlus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+TVBPlus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
+TVBæ˜Ÿæ²³,http://117.114.153.1:8180/TV00000000000000000073@HHZT
+ç„¡ç¶«æ–°èå°,http://live.cooltv.top/tv/tvb.php?id=2
+å‡¤å‡°èµ„è®¯,http://tvbox.netsite.cc/proxy/1650326537/1650326537.m3u8
+å‡¤å‡°ä¸­æ–‡,http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
+å‡¤å‡°èµ„è®¯,http://61.221.215.25:8800/hls/47/index.m3u8
+å‡¤å‡°ä¸­æ–‡,http://122.224.232.226:8888/udp/233.50.200.191:5140
+å‡¤å‡°èµ„è®¯,http://122.224.232.226:8888/udp/233.50.200.192:5140
+é¦™æ¸¯C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+é¦™æ¸¯32å°,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+é¦™æ¸¯33å°,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+é¦™æ¸¯34å°,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+é¦™æ¸¯35å°,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+æ˜Ÿæ²³,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+åŠŸå¤«,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+å¨±ä¹æ–°é—»,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
 å£¹ç”µè§†æ–°é—»,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae$P2P
 å¹´ä»£æ–°é—»,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7$P2P
 ä¸œæ£®æ–°é—»,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b$P2P
@@ -5460,6 +5496,14 @@ TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476$P2P
 é¦™æ¸¯ä½›é™€,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 
 ğŸ‡¯ğŸ‡µæ—¥æœ¬é¢‘é“,#genre#
+ABC544p,http://211.37.26.102:9981/stream/channelid/57731658?ticket=48F421FE0A159FAC968F5A6D6EECCB1B05FFF637&profile=pass
+BSTBS544p,http://211.37.26.102:9981/stream/channelid/1630330852?ticket=7D0DF55FEC65B051D014B7A657180319CCD56C17&profile=pass
+BSTVTokyo544p,http://211.37.26.102:9981/stream/channelid/2138566532?ticket=E2487372539D4DDC95B8A16A1BA02F4ECA86D76D&profile=pass
+DisneyJunior544p,http://211.37.26.102:9981/stream/channelid/1094251361?ticket=1F03B93E68C5B349D9B7B1AF59E4483D36612B53&profile=pass
+Star1544p,http://211.37.26.102:9981/stream/channelid/1351353857?ticket=66475F0A108152BCA5800B5FC3FB62A68BCA13F2&profile=pass
+TabiChannel544p,http://211.37.26.102:9981/stream/channelid/941519802?ticket=EE27088DBB8E23BA9903F67D367C056EC9DEB9BA&profile=pass
+BabyFirst,http://211.37.26.102:9981/stream/channelid/513533713?ticket=423F4F6B3433967D458CB6928D0EDD522174A8A8&profile=pass
+
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 NTV24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 çº¬æ¥æ—¥æœ¬,rtmp://f13h.mine.nu/sat/tv771
@@ -6414,4 +6458,4 @@ Beyond_æµé˜”å¤©ç©º,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/
 é™ˆæ…§å¨´é€å»çš„è¯ºè¨€,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
 å”±ç€æƒ…æ­Œæµç€æ³ª.å­Ÿå°ç¬›ç¥éš†,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtYHG4gUo6KjuzwE.mp4
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
-更新时间：2024-06-28 22:08:04
+更新时间：2024-06-29 02:25:48
