@@ -1,4 +1,4 @@
 //地址：https://gitee.com/chuangxin-chuang_0/cysmlzx/raw/master/iptv.txt
 TVB无线新闻,https://hls.xhzb.tw/4987/inews_twn/playlist.m3u8
 TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-更新时间：2025-02-09 06:12:17
+更新时间：2025-02-09 10:09:17
